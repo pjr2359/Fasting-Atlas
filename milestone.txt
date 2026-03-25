@@ -1,0 +1,54 @@
+Milestone 3: Status Report
+Due: Friday, March 27th, 11:59pm
+
+ONE MEMBER of your team should upload a copy of your status report.
+
+It is natural for your project to morph over time. The goal of the status report is to (1) make sure you have been working on your project, (2) give details about project elements that weren't apparent at the time of the project proposal, and (3) give you a chance to explain how what you're hoping to do has changed. It also gives us a chance to provide feedback to help you along.
+
+Your status report should include verbatim the project proposal that you originally submitted and directly add to it. Please make it easy to see what was in the original proposal versus what is new text. One good way to show what is new versus what was already there is to use a different colored font for your new text to distinguish it from the earlier proposal text.
+
+The best-case scenario is that things are going exactly as you planned, which would make your status report trivial to prepare. But things never go exactly as planned. It is totally OK if things have changed or there's more that you didn't think of at the time of the proposal. This update will most typically include things like the following:
+
+We didn't realize that doing part X was so hard, so it's taking us longer to do it and we had to scale back some other part Y.
+We said we would do X but it doesn't seem to be working so we decided to instead do some modified version of X.
+We discovered this great software/data resource which simplifies X, which means we're now going to try to do something bigger, X+Y.
+We learned that the great software/data resource X that we expected to use wasn't available, so we're instead using Y.
+We thought more about how to evaluate the project, and instead of doing X we now realize that it will be better to do Y.
+
+Please also provide an updated timeline. It should say which items in the original timeline have been done, and what (if anything) you are changing in the timeline given what you've learned about the project thus far. Similarly, if the planned division of labor has changed, say so. Please also add any additional references to technical papers or websites if relevant.
+
+We expect to have seen substantive work by this point in the semester, and it is a component of the effort portion of your grade.
+
+--------------------------------------------------------------------
+DRAFT — Fasting-Atlas content for your Milestone 3 report (paste below
+into your status document; format the following paragraphs as NEW text,
+e.g. different color, per course instructions above)
+
+Original proposal (paste verbatim from your submission):
+[PASTE ORIGINAL PROPOSAL HERE]
+
+What is new since the proposal (substantive work to date):
+- Implemented a Python MVP that ingests PDFs from a fixed corpus folder
+  (`papers/`) and emits one traceable JSON file per paper under `parsed/`,
+  aligning with the project’s layered schema (metadata, methods/participants,
+  structured tables, narrative results; figures reserved for later).
+- PDF text and table grids are extracted with `pdfplumber`. All structured
+  interpretation of metadata, methods, results, and table header semantics
+  is performed by a local LLM via Ollama (default `mistral:7b`), so outputs
+  are not padded with heuristic “fallback” excerpts when the model fails;
+  failures abort with a clear error for debugging.
+- Dual-pass extraction with diff-based “council” QA flags when the two passes
+  disagree on methods/results payloads.
+
+What we learned / timeline adjustments:
+- [EDIT: e.g., Local LLM latency and JSON reliability affect batch runtime;
+  OCR and plot digitization remain out of scope for this milestone.]
+- [EDIT: Updated timeline through end of semester with concrete dates.]
+
+Division of labor (if changed):
+- [EDIT]
+
+Additional references:
+- Ollama: https://ollama.com/
+- pdfplumber: https://github.com/jsvine/pdfplumber
+
