@@ -2,12 +2,12 @@ from __future__ import annotations
 
 from typing import Any
 
-from fasting_atlas.llm_client import OllamaClient
+from fasting_atlas.llm_client import JsonLLM
 from fasting_atlas.schemas import EvidenceText, MethodsParticipantsItem, Metadata, NarrativeResultsItem
 from fasting_atlas.sections import SectionBlock
 
 
-def extract_metadata_llm(source_file: str, pages_preview: str, client: OllamaClient) -> Metadata:
+def extract_metadata_llm(source_file: str, pages_preview: str, client: JsonLLM) -> Metadata:
     """Structured metadata via LLM only. Empty preview returns empty metadata."""
     preview = pages_preview.strip()
     if not preview:
@@ -62,7 +62,7 @@ def extract_metadata_llm(source_file: str, pages_preview: str, client: OllamaCli
 def extract_methods_items(
     source_file: str,
     section: SectionBlock,
-    client: OllamaClient,
+    client: JsonLLM,
     temperature: float = 0.1,
 ) -> list[MethodsParticipantsItem]:
     if not section.text.strip():
@@ -88,7 +88,7 @@ def extract_methods_items(
 def extract_narrative_results_items(
     source_file: str,
     section: SectionBlock,
-    client: OllamaClient,
+    client: JsonLLM,
     temperature: float = 0.1,
 ) -> list[NarrativeResultsItem]:
     if not section.text.strip():

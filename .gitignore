@@ -2,6 +2,11 @@
 parsed/
 parsed_*/
 
+# --- Inputs / pipeline artifacts (do not commit) ---
+# Source PDF corpus (inputs)
+papers/
+papers_*/
+
 # One-off test corpora copies
 papers_one/
 
@@ -67,6 +72,22 @@ Thumbs.db
 .env.*
 !.env.example
 *.pem
+*.key
+*.crt
+*.cer
+*.pfx
+*.p12
+*.asc
+*.gpg
+
+# Common secret/token filename patterns
+secrets.*
+credentials.*
+token*.*
+access_token*.*
+api_key*.*
+apikey*.*
+service_account*.json
 
 # --- Jupyter ---
 .ipynb_checkpoints/

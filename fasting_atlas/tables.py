@@ -3,7 +3,7 @@ from __future__ import annotations
 import re
 from typing import Any
 
-from fasting_atlas.llm_client import OllamaClient
+from fasting_atlas.llm_client import JsonLLM
 from fasting_atlas.pdf_ingest import IngestedTable
 from fasting_atlas.schemas import EvidenceCell, TableExtracted
 
@@ -13,7 +13,7 @@ NUM_RE = re.compile(r"^-?\d+(?:\.\d+)?$")
 def extract_tables(
     source_file: str,
     ingested_tables: list[IngestedTable],
-    client: OllamaClient,
+    client: JsonLLM,
 ) -> list[TableExtracted]:
     extracted: list[TableExtracted] = []
     for table in ingested_tables:
@@ -63,7 +63,7 @@ def extract_tables(
     return extracted
 
 
-def _infer_table_hints(client: OllamaClient, headers: list[str], page_number: int) -> dict[str, Any]:
+def _infer_table_hints(client: JsonLLM, headers: list[str], page_number: int) -> dict[str, Any]:
     schema_hint = '{"variable_hints":["string"],"unit_hints":["string"]}'
     return client.extract_json(
         prompt=(

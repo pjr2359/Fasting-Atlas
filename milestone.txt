@@ -34,7 +34,7 @@ What is new since the proposal (substantive work to date):
   structured tables, narrative results; figures reserved for later).
 - PDF text and table grids are extracted with `pdfplumber`. All structured
   interpretation of metadata, methods, results, and table header semantics
-  is performed by a local LLM via Ollama (default `mistral:7b`), so outputs
+  is performed by a local LLM via Ollama (default `llama3.2:1b` for speed; larger models optional), so outputs
   are not padded with heuristic “fallback” excerpts when the model fails;
   failures abort with a clear error for debugging.
 - Dual-pass extraction with diff-based “council” QA flags when the two passes
