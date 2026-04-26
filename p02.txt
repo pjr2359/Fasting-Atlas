@@ -1,35 +1,25 @@
-Milestone 3: Status Report
-Due: Friday, March 27th, 11:59pm
-
-ONE MEMBER of your team should upload a copy of your status report.
-
+IMPORTANT: Only one member of your team should upload the status report.
 It is natural for your project to morph over time. The goal of the status report is to (1) make sure you have been working on your project, (2) give details about project elements that weren't apparent at the time of the project proposal, and (3) give you a chance to explain how what you're hoping to do has changed. It also gives us a chance to provide feedback to help you along.
-
 Your status report should include verbatim the project proposal that you originally submitted and directly add to it. Please make it easy to see what was in the original proposal versus what is new text. One good way to show what is new versus what was already there is to use a different colored font for your new text to distinguish it from the earlier proposal text.
-
 The best-case scenario is that things are going exactly as you planned, which would make your status report trivial to prepare. But things never go exactly as planned. It is totally OK if things have changed or there's more that you didn't think of at the time of the proposal. This update will most typically include things like the following:
-
 We didn't realize that doing part X was so hard, so it's taking us longer to do it and we had to scale back some other part Y.
 We said we would do X but it doesn't seem to be working so we decided to instead do some modified version of X.
 We discovered this great software/data resource which simplifies X, which means we're now going to try to do something bigger, X+Y.
 We learned that the great software/data resource X that we expected to use wasn't available, so we're instead using Y.
 We thought more about how to evaluate the project, and instead of doing X we now realize that it will be better to do Y.
-
+ 
 Please also provide an updated timeline. It should say which items in the original timeline have been done, and what (if anything) you are changing in the timeline given what you've learned about the project thus far. Similarly, if the planned division of labor has changed, say so. Please also add any additional references to technical papers or websites if relevant.
-
 We expect to have seen substantive work by this point in the semester, and it is a component of the effort portion of your grade.
 
---------------------------------------------------------------------
-DRAFT — Fasting-Atlas content for your Milestone 3 report (paste below
-into your status document; format the following paragraphs as NEW text,
-e.g. different color, per course instructions above)
 
-Original proposal (paste verbatim from your submission):
+
+
 Title: Modular NLP Framework for Domain-Specific Information Extraction: Application to Famine Studies
 Team Members: Leane Ying (ly374), Patrick Reilly (pjr99), Gregory Marzano (gam268)
 AI Keywords: Natural Language Processing (NLP), Named Entity Recognition (NER), Knowledge Representation (KR), Information Extraction
 Application Setting: This project is intended to be used on academic research papers in famine studies (including historical, economic, public health analyses of famine events, etc.) in order to help famine researchers. Our system will process the papers and extract structured metadata related to the specific famine events, then normalize and aggregate the results.
 Description:
+
 
 This project will create a domain-specific NLP pipeline that transforms unstructured academic research papers on historical famines into both machine-readable structured data and human-readable output. Famine research papers contain valuable information that is often inconsistently formatted and difficult to parse. Using NLP techniques such as named entity recognition and relation extraction, the system will identify and extract key event-level attributes that will be mapped into a standardized schema.
 As previously stated, the output will be delivered in two formats which work together: a machine-readable representation which includes structured JSON and graph-based data formats will allow computers to compare different famine cases and a human-readable summary to enable researchers to understand and verify the information. The system will handle research on famine studies specifically through its modular architecture which will divide research-paper parsing work into general components and domain-specific schemas. The system design will allow scalability to other academic disciplines without needing to change the core system design.
@@ -53,23 +43,5 @@ Week 11-13
 The final part of our project will consist of adding minor refinements to our model and mostly of writing up our technical results and report and preparing for our final presentation. We can synthesize our results and determine our findings. We will ensure our code is cleaned and ready for submission. 
 We will mostly rely on established NLP software and curated academic data resources. We’ll implement the system in Python using pretrained transformer-based language models through the Hugging Face Transformer library, along with supporting NLP tools like spaCy for text preprocessing and Pytorch for model fine-tuning and evaluation. The primary data sources will be peer-reviewed academic journals about famine studies that span wide historical, economic, and public health perspectives.
 
-What is new since the proposal (substantive work to date):
-- Implemented a Python MVP pipeline that ingests the PDFs in `papers/` and emits one traceable JSON per PDF under `parsed/` (9 PDFs produced in the current corpus).
-- PDF ingest uses `pdfplumber` to extract per-page text and table grids. LLM structured extraction extracts `metadata`, `methods_participants`, `narrative_results`, and `tables` (including LLM-based header/unit hints when table headers are detected).
-- Enforced traceability in output via evidence objects (`source_file`, `page`, and verbatim `quote` for extracted items).
-- Implemented CouncilLLM-style dual-pass extraction for methods/results: two independent LLM passes with temperature variation + diff stored in `qa.council.discrepancies[]` with a `needs_human_review` flag.
-- Implemented backend support for local Ollama and hosted Anthropic Claude via API (Claude key read from environment / project `.env`). Extraction failures are explicit (no heuristic “fallback padding”).
 
-What we learned / timeline adjustments:
-- The MVP works end-to-end for digital PDFs, but council discrepancy noise is currently structural/index-based; many “low” disagreements are paraphrases or ordering differences. Next step is semantic alignment/deduplication before we rely on QA flags.
-- Batch runtime is dominated by multiple sequential LLM calls (metadata + methods + results + table header hints). Prompt/input caps and smaller models help, but evaluation needs careful sampling.
-
-Division of labor (if changed):
-- Programming lead: implemented pipeline modules, schema, CLI, council diff, and backend wiring; removed extraction fallbacks and added debug/progress logging.
-- Remaining teammates: run the pipeline across the corpus with different backends, review a small labeled subset for quality, and contribute to the report narrative + updated timeline.
-
-Additional references:
-- Ollama: https://ollama.com/
-- pdfplumber: https://github.com/jsvine/pdfplumber
-- Anthropic Claude API models overview: https://docs.anthropic.com/en/docs/about-claude/models
 
