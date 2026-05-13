@@ -1,0 +1,1644 @@
+{
+  "paper_id": "mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting-0d4b98205ee6",
+  "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+  "metadata": {
+    "title": "Gender differences in lipid and glucose kinetics during short-term fasting",
+    "authors": [
+      "Bettina Mittendorfer",
+      "Jeffrey F. Horowitz",
+      "Samuel Klein"
+    ],
+    "year": 2001,
+    "journal": "American Journal of Physiology - Endocrinology and Metabolism",
+    "study_design": "Experimental study with stable isotope labeled tracers measuring whole body glycerol and glucose kinetics at 14 and 22 hours of fasting",
+    "demographics": "Six men (32 ± 4 yr old) and six premenopausal women (27 ± 2 yr old), matched on percent body fat (24±2% and 23±2% body weight as fat, respectively)",
+    "evidence": [
+      {
+        "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "Gender differences in lipid and glucose kinetics during short-term fasting",
+        "bbox": null
+      },
+      {
+        "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "BETTINA MITTENDORFER, JEFFREY F. HOROWITZ, AND SAMUEL KLEIN",
+        "bbox": null
+      },
+      {
+        "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "Am J Physiol Endocrinol Metab 281: E1333–E1339, 2001",
+        "bbox": null
+      },
+      {
+        "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "Six women and six men who were matched for adiposity (24±2 and 23±2% body wt as fat, respectively)",
+        "bbox": null
+      },
+      {
+        "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "Substrate kinetics were measured by infusing stable isotope labeled tracers of glucose ([2H2]glucose) and glycerol ([2H5]glycerol)",
+        "bbox": null
+      },
+      {
+        "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "We evaluated whole body lipid and glucose kinetics during basal (14-h fast) and short-term fasting (22-h fast) conditions",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Participant N and demographics",
+      "value": "Six men (32 ± 4 yr old) and six premenopausal women (27 ± 2 yr old), matched on percent body fat",
+      "method": null,
+      "unit": null,
+      "confidence": 0.875,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "Six men (32 6 4 yr old) and six premenopausal women (27 6 2 yr old), who were matched on percent body fat, participatedinthisstudy",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criteria - health status",
+      "value": "All subjects considered to be in good health after comprehensive medical evaluation including history, physical examination, electrocardiogram, and standard blood and urine tests",
+      "method": null,
+      "unit": null,
+      "confidence": 0.875,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "All subjects were considered to be in good health after completing a comprehensive medical evaluation that included a history and physical examination, an electrocardiogram, and standard blood and urine tests",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criteria - body weight and exercise",
+      "value": "All subjects had stable body weight for ≥2 months and had been sedentary (regular exercise <1 h/wk) for ≥6 months before the study",
+      "method": null,
+      "unit": null,
+      "confidence": 0.6071428571428571,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "All subjects had a stable body weight for $2 mo and had been sedentary (regular exercise ,1h/wk)for$6mobeforethestudy",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body composition measurement method",
+      "value": "Dual-energy X-ray absorptiometry (Hologic QDR 1000/w)",
+      "method": "DXA",
+      "unit": null,
+      "confidence": 0.875,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "Each subject's fat mass (FM) and fat-free mass (FFM) were determined by dual-energy X-ray absorptiometry (Hologic QDR1000/w, Waltham, MA)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glycerol isotope infusion - infusion rate",
+      "value": "[1,1,2,3,3-2H5]glycerol with priming dose of 1.8 mmol/kg and infusion rate of 0.12 mmol·kg body wt-1·min-1",
+      "method": "Isotope infusion ([1,1,2,3,3-2H5]glycerol)",
+      "unit": "mmol/kg; mmol·kg body wt-1·min-1",
+      "confidence": 0.175,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "a constant infusion of [6,6-2H 2 ]glucose (priming dose: 18 mmol/kg; infusion rate: 0.22 mmolzkg body wt21zmin21; Cambridge Isotope Laboratories, Andover, MA) was started and maintained for 210 min",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Pre-study liquid formula timing and composition",
+      "value": "At 1800, subjects consumed a standard meal containing 12 kcal/kg body weight (55% carbohydrate, 30% fat, 15% protein)",
+      "method": null,
+      "unit": "kcal/kg body weight",
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "At 1800, subjects consumed a standard meal containing12kcal/kgbodywt(55%oftotalenergyascarbohydrate, 30% as fat, and 15% as protein)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood sampling - glucose and glycerol analysis",
+      "value": "Radioimmunoassay",
+      "method": "Blood sampling",
+      "unit": null,
+      "confidence": 0.3125,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "Blood samples were collected in 1) chilled tubes containing EDTA to determine plasma fatty acid, glycerol, and glucose concentrations and glycerol and glucose enrichments",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Fatty acid concentration measurement",
+      "value": "Gas chromatography-mass spectrometry (GC-MS) after [2-13C]glycerol was added as internal standard",
+      "method": "Automated glucose analyzer",
+      "unit": null,
+      "confidence": 0.40625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "Plasma glucose concentration was determined by using an automated glucose analyzer (Yellow Springs Instrument, Yellow Springs, OH)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Plasma glycerol and glucose TTR measurement",
+      "value": "GC-MS (MSD 5973 system with capillary column) with HFB anhydride derivatization and EI ionization",
+      "method": "GC-MS",
+      "unit": null,
+      "confidence": 0.75,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "Plasma glycerol and glucose TTR were determined by GC-MS (MSD 5973 system with capillary column; Hewlett-Packard) as previously described (22,23,40). Briefly, plasma proteins were precipitated with ice-cold acetone, and hexane was used to extract plasma lipids. The aqueous phase, containing glycerol and glucose, was dried by speed-vac centrifugation (Savant Instruments, Farmingdale, NY). Heptafluorobutyric (HFB) anhydride was used to form an HFB derivative of glycerol and glucose, and ions were produced by EI ionization",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Statistical analysis method",
+      "value": "Two-way analysis of variance (ANOVA) with gender and time as factors, followed by post hoc comparisons with Student's t-test for multiple comparisons",
+      "method": "Two-way ANOVA",
+      "unit": null,
+      "confidence": 0.875,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "A two-way analysis of variance (ANOVA), with gender and time as factors, was used to test for significant differences in substrate kinetics between men and women during fasting. Significant F-ratios were followed by post hoc comparisons with the use of Student's t-test for multiple comparisons",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Statistical significance threshold",
+      "value": "P ≤ 0.05",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "A value of P #0.05 was considered to be statistically significant",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Basal glycerol rate of appearance in plasma was greater in women than in men",
+      "relationship": "gender difference",
+      "confidence": 0.46153846153846156,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1333,
+          "quote": "Basal glycerol rate of appearance (Ra) in plasma, an indicator of whole body lipolytic rate, was greater in women than in men (2.1±0.2 vs. 1.5±0.1 mmol·kg body wt−1·min−1; P < 0.05)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Sexual dimorphism exists in lipid, but not glucose, metabolism during both basal and short-term fasting conditions",
+      "relationship": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers_smoke/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "These data demonstrate the presence of sexual dimorphism in lipid, but not glucose, metabolism during both basal and short-term fasting conditions",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [
+        {
+          "path": "semantic.methods_participants[pair=7]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass_1 specifies 14 hours fasting duration; pass_2 describes background TTR blood sampling before isotope infusion - these are different measurements/timepoints, not the same fact",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=11]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes blood collection tubes and analytes for glucose/glycerol analysis. Pass 2 describes a different sampling interval (14-hour fast, 0930-1000). These are incompatible facts about different aspects.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=12]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes blood collection tubes (EDTA and Trasylol) for hormone analysis. Pass 2 describes insulin measurement method (radioimmunoassay). These describe different aspects and are not directly comparable.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=13]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes catecholamine collection tubes (reduced glutathione and EGTA). Pass 2 describes glucagon measurement method (radioimmunoassay). These are incompatible facts about different analytes.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=15]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 states insulin measurement uses radioimmunoassay. Pass 2 states catecholamine measurement uses radioenzymatic method. These describe different analytes and methods.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=16]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes glucagon measurement via radioimmunoassay; Pass 2 describes plasma fatty acid measurement via gas chromatography. These are completely different analytes and methods.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=17]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes catecholamine measurement via radioenzymatic method; Pass 2 describes plasma glucose measurement via automated analyzer. Different analytes and methods.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=18]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes glucose concentration measurement via automated analyzer; Pass 2 describes plasma glycerol measurement via GC-MS. Different analytes and methods.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.narrative_results[pair=4]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass_1 states epinephrine was twice as high in women at 14h. Pass_2 states epinephrine increased in men but not women from 14-22h. These describe different aspects and potentially contradict regarding gender patterns.",
+          "severity": "high"
+        }
+      ],
+      "needs_human_review": true,
+      "structural_discrepancies": [
+        {
+          "path": "methods_participants",
+          "pass_1_value": "len=25",
+          "pass_2_value": "len=28",
+          "severity": "medium"
+        },
+        {
+          "path": "methods_participants[0].evidence[0].quote",
+          "pass_1_value": "Six men (32 6 4 yr old) and six premenopausal women (27 6 2 yr old), who were matched on percent body fat, participated in this study",
+          "pass_2_value": "Six men (32 6 4 yr old) and six premenopausal women (27 6 2 yr old), who were matched on percent body fat, participatedinthisstudy",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[0].value",
+          "pass_1_value": "Six men (32 ± 4 yr old) and six premenopausal women (27 ± 2 yr old)",
+          "pass_2_value": "Six men (32 ± 4 yr old) and six premenopausal women (27 ± 2 yr old), matched on percent body fat",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].value",
+          "pass_1_value": "All subjects considered in good health after comprehensive medical evaluation including history, physical examination, electrocardiogram, and standard blood and urine tests",
+          "pass_2_value": "All subjects considered to be in good health after comprehensive medical evaluation including history, physical examination, electrocardiogram, and standard blood and urine tests",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].label",
+          "pass_1_value": "Body composition assessment method",
+          "pass_2_value": "Body composition measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].evidence[0].quote",
+          "pass_1_value": "a constant infusion of [6,6-2H 2 ]glucose (priming dose: 18 mmol/kg; infusion rate: 0.22 mmolzkg body wt21zmin21; Cambridge Isotope Laboratories, Andover, MA) was started and maintained for 210 min",
+          "pass_2_value": "At 1800, subjects consumed a standard meal containing 12 kcal/kg bodywt(55%oftotalenergyascarbohydrate, 30% as fat, and 15% as protein)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].label",
+          "pass_1_value": "Isotope infusion - glucose tracer",
+          "pass_2_value": "Pre-study meal timing and composition",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].method",
+          "pass_1_value": "Isotope infusion",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[6].unit",
+          "pass_1_value": "mmol/kg; mmol·kg body wt-1·min-1",
+          "pass_2_value": "kcal/kg body weight",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].value",
+          "pass_1_value": "[6,6-2H2]glucose with priming dose of 18 mmol/kg and infusion rate of 0.22 mmol·kg body wt-1·min-1",
+          "pass_2_value": "At 1800, subjects consumed a standard meal containing 12 kcal/kg body weight (55% carbohydrate, 30% fat, 15% protein)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].evidence[0].quote",
+          "pass_1_value": "a constant infusion of [1,1,2,3,3-2H ]glycerol (priming dose:1.8mmol/kg;infusionrate:0.12mmolzkgbody wt21zmin21; Cambridge Isotope Laboratories) was started and maintained for 90 min",
+          "pass_2_value": "At 2000, the subjects ingested a liquid formula (Ensure; Ross Laboratories, Columbus, OH), containing 250 kcal (40 g carbohydrates, 6.1 g fat, and 8.8 g protein)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].label",
+          "pass_1_value": "Isotope infusion - glycerol tracer",
+          "pass_2_value": "Pre-study liquid formula timing and composition",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].method",
+          "pass_1_value": "Isotope infusion",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[7].unit",
+          "pass_1_value": "mmol/kg; mmol·kg body wt-1·min-1",
+          "pass_2_value": "kcal",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].value",
+          "pass_1_value": "[1,1,2,3,3-2H5]glycerol with priming dose of 1.8 mmol/kg and infusion rate of 0.12 mmol·kg body wt-1·min-1",
+          "pass_2_value": "At 2000, subjects ingested Ensure containing 250 kcal (40 g carbohydrates, 6.1 g fat, 8.8 g protein)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].evidence[0].quote",
+          "pass_1_value": "Blood samples were obtained before the isotope infusions were started to determine background glucose and glycerol tracer-to-tracee ratios (TTR) and every 10 min between 0930 and 1000 (for the 14 h of fasting)",
+          "pass_2_value": "and then fasted until completion of the study the following day",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].label",
+          "pass_1_value": "Fasting duration - first measurement",
+          "pass_2_value": "Fasting duration",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].value",
+          "pass_1_value": "14 hours of fasting",
+          "pass_2_value": "Subjects fasted until completion of the study the following day (approximately 14 and 22 hours)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].evidence[0].quote",
+          "pass_1_value": "every 10 min between 1730 and 1800 (for the 22 h of fasting) to determine plasma glucose and glycerol TTR and plasma substrate and hormone concentrations",
+          "pass_2_value": "At 0530, catheters were inserted into a forearm vein for isotope infusion and into a radial artery for blood sampling",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].label",
+          "pass_1_value": "Fasting duration - second measurement",
+          "pass_2_value": "Catheter insertion timing",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].unit",
+          "pass_1_value": "hours",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[9].value",
+          "pass_1_value": "22 hours of fasting",
+          "pass_2_value": "At 0530, catheters were inserted into a forearm vein for isotope infusion and into a radial artery for blood sampling",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].evidence[0].quote",
+          "pass_1_value": "At 1800, subjects consumed a standard meal containing12kcal/kgbodywt(55%oftotalenergyascarbohydrate, 30% as fat, and 15% as protein)",
+          "pass_2_value": "At 0630, a constant infusion of [6,6-2H 2 ]glucose (priming dose: 18 mmol/kg",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].label",
+          "pass_1_value": "Pre-study meal - evening",
+          "pass_2_value": "Glucose isotope infusion - priming dose",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].method",
+          "pass_1_value": null,
+          "pass_2_value": "Isotope infusion ([6,6-2H2]glucose)",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[10].unit",
+          "pass_1_value": "kcal/kg body weight",
+          "pass_2_value": "mmol/kg",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].value",
+          "pass_1_value": "Standard meal containing 12 kcal/kg body weight (55% carbohydrate, 30% fat, 15% protein)",
+          "pass_2_value": "18 mmol/kg",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].evidence[0].quote",
+          "pass_1_value": "At 2000, the subjects ingested a liquid formula (Ensure; Ross Laboratories, Columbus, OH), containing 250 kcal (40 g carbohydrates, 6.1 g fat, and 8.8 g protein)",
+          "pass_2_value": "infusion rate: 0.22 mmolzkg body wt21zmin21",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].label",
+          "pass_1_value": "Pre-study meal - liquid formula",
+          "pass_2_value": "Glucose isotope infusion - infusion rate",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].method",
+          "pass_1_value": null,
+          "pass_2_value": "Isotope infusion ([6,6-2H2]glucose)",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[11].unit",
+          "pass_1_value": "kcal",
+          "pass_2_value": "mmol/kg body weight/min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].value",
+          "pass_1_value": "Ensure liquid formula containing 250 kcal (40 g carbohydrates, 6.1 g fat, 8.8 g protein)",
+          "pass_2_value": "0.22 mmol/kg body weight/min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].evidence[0].quote",
+          "pass_1_value": "Blood samples were collected in 1) chilled tubes containing EDTA to determine plasma fatty acid, glycerol, and glucose concentrations and glycerol and glucose enrichments",
+          "pass_2_value": "was started and maintained for 210 min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].label",
+          "pass_1_value": "Blood sampling - glucose and glycerol analysis",
+          "pass_2_value": "Glucose isotope infusion - duration",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].method",
+          "pass_1_value": "Blood collection in EDTA tubes",
+          "pass_2_value": "Isotope infusion ([6,6-2H2]glucose)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].unit",
+          "pass_1_value": null,
+          "pass_2_value": "minutes",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[12].value",
+          "pass_1_value": "Chilled tubes containing EDTA to determine plasma fatty acid, glycerol, and glucose concentrations and glycerol and glucose enrichments",
+          "pass_2_value": "210 minutes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].evidence[0].quote",
+          "pass_1_value": "2) chilled tubes containing EDTA and Trasylol to measure insulin and glucagon concentrations",
+          "pass_2_value": "At 0830, a constant infusion of [1,1,2,3,3-2H ]glycerol (primingdose:1.8mmol/kg",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].label",
+          "pass_1_value": "Blood sampling - hormone analysis",
+          "pass_2_value": "Glycerol isotope infusion - priming dose",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].method",
+          "pass_1_value": "Blood collection in EDTA and Trasylol tubes",
+          "pass_2_value": "Isotope infusion ([1,1,2,3,3-2H5]glycerol)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].unit",
+          "pass_1_value": null,
+          "pass_2_value": "mmol/kg",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[13].value",
+          "pass_1_value": "Chilled tubes containing EDTA and Trasylol to measure insulin and glucagon concentrations",
+          "pass_2_value": "1.8 mmol/kg",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].evidence[0].quote",
+          "pass_1_value": "3) chilled tubes containing reduced glutathione and EGTA to determine plasma catecholamine concentrations",
+          "pass_2_value": "infusionrate:0.12mmolzkgbody wt21zmin21",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].label",
+          "pass_1_value": "Blood sampling - catecholamine analysis",
+          "pass_2_value": "Glycerol isotope infusion - infusion rate",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].method",
+          "pass_1_value": "Blood collection in reduced glutathione and EGTA tubes",
+          "pass_2_value": "Isotope infusion ([1,1,2,3,3-2H5]glycerol)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].unit",
+          "pass_1_value": null,
+          "pass_2_value": "mmol/kg body weight/min",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[14].value",
+          "pass_1_value": "Chilled tubes containing reduced glutathione and EGTA to determine plasma catecholamine concentrations",
+          "pass_2_value": "0.12 mmol/kg body weight/min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].evidence[0].quote",
+          "pass_1_value": "Blood samples were placed in ice, and plasma was separated by centrifugation within 30 min of collection. Plasma was stored at 270°C until final analyses were performed",
+          "pass_2_value": "was started and maintained for 90 min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].label",
+          "pass_1_value": "Plasma processing",
+          "pass_2_value": "Glycerol isotope infusion - duration",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].method",
+          "pass_1_value": null,
+          "pass_2_value": "Isotope infusion ([1,1,2,3,3-2H5]glycerol)",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[15].unit",
+          "pass_1_value": "minutes; °C",
+          "pass_2_value": "minutes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].value",
+          "pass_1_value": "Blood samples placed on ice and plasma separated by centrifugation within 30 minutes of collection, then stored at -70°C",
+          "pass_2_value": "90 minutes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].evidence[0].quote",
+          "pass_1_value": "Plasma insulin (13) and glucagon (15) concentrations were measured by radioimmunoassay",
+          "pass_2_value": "Blood samples were obtained before the isotope infusions were started to determine background glucose and glycerol tracer-to-tracee ratios (TTR)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].label",
+          "pass_1_value": "Insulin measurement assay",
+          "pass_2_value": "Blood sampling - background TTR",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].method",
+          "pass_1_value": "Radioimmunoassay",
+          "pass_2_value": "Blood sampling",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].value",
+          "pass_1_value": "Radioimmunoassay",
+          "pass_2_value": "Blood samples obtained before isotope infusions started to determine background glucose and glycerol tracer-to-tracee ratios (TTR)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].evidence[0].quote",
+          "pass_1_value": "Plasma insulin (13) and glucagon (15) concentrations were measured by radioimmunoassay",
+          "pass_2_value": "every 10 min between 0930 and 1000 (for the 14 h of fasting) to determine plasma glucose and glycerol TTR and plasma substrate and hormone concentrations",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].label",
+          "pass_1_value": "Glucagon measurement assay",
+          "pass_2_value": "Blood sampling - 14-hour fast interval",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].method",
+          "pass_1_value": "Radioimmunoassay",
+          "pass_2_value": "Blood sampling",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].unit",
+          "pass_1_value": null,
+          "pass_2_value": "minutes",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[17].value",
+          "pass_1_value": "Radioimmunoassay",
+          "pass_2_value": "Every 10 minutes between 0930 and 1000 (for the 14 h of fasting) to determine plasma glucose and glycerol TTR and plasma substrate and hormone concentrations",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].evidence[0].quote",
+          "pass_1_value": "Plasma catecholamine concentrations were determined by a single isotope derivative radioenzymatic method (43)",
+          "pass_2_value": "every 10 min between 1730 and 1800 (for the 22 h of fasting) to determine plasma glucose and glycerol TTR and plasma substrate and hormone concentrations",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].label",
+          "pass_1_value": "Catecholamine measurement assay",
+          "pass_2_value": "Blood sampling - 22-hour fast interval",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].method",
+          "pass_1_value": "Radioenzymatic method",
+          "pass_2_value": "Blood sampling",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].unit",
+          "pass_1_value": null,
+          "pass_2_value": "minutes",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[18].value",
+          "pass_1_value": "Single isotope derivative radioenzymatic method",
+          "pass_2_value": "Every 10 minutes between 1730 and 1800 (for the 22 h of fasting) to determine plasma glucose and glycerol TTR and plasma substrate and hormone concentrations",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].evidence[0].quote",
+          "pass_1_value": "Plasma glucose concentration was determined by using an automated glucose analyzer (Yellow Springs Instrument, Yellow Springs, OH)",
+          "pass_2_value": "Plasma insulin (13) and glucagon (15) concentrations were measured by radioimmunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].label",
+          "pass_1_value": "Glucose concentration measurement",
+          "pass_2_value": "Plasma insulin measurement",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].method",
+          "pass_1_value": "Automated glucose analyzer",
+          "pass_2_value": "Radioimmunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].value",
+          "pass_1_value": "Automated glucose analyzer (Yellow Springs Instrument)",
+          "pass_2_value": "Radioimmunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].evidence[0].quote",
+          "pass_1_value": "Plasma glycerol concentration was determined by gas chromatography-mass spectrometry (GC-MS) after [2-13C]glycerol was added to plasma as an internal standard",
+          "pass_2_value": "Plasma insulin (13) and glucagon (15) concentrations were measured by radioimmunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].label",
+          "pass_1_value": "Glycerol concentration measurement",
+          "pass_2_value": "Plasma glucagon measurement",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].method",
+          "pass_1_value": "GC-MS",
+          "pass_2_value": "Radioimmunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].value",
+          "pass_1_value": "Gas chromatography-mass spectrometry (GC-MS) after [2-13C]glycerol was added as internal standard",
+          "pass_2_value": "Radioimmunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].evidence[0].quote",
+          "pass_1_value": "Plasma fatty acid concentrations were quantified by gas chromatography (Hewlett-Packard 5890-II, Palo Alto, CA) after adding heptadecanoic acid to plasma as an internal standard",
+          "pass_2_value": "Plasma catecholamine concentrations were determined by a single isotope derivative radioenzymatic method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].label",
+          "pass_1_value": "Fatty acid concentration measurement",
+          "pass_2_value": "Plasma catecholamine measurement",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].method",
+          "pass_1_value": "Gas chromatography",
+          "pass_2_value": "Radioenzymatic method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].value",
+          "pass_1_value": "Gas chromatography (Hewlett-Packard 5890-II) after adding heptadecanoic acid as internal standard",
+          "pass_2_value": "Single isotope derivative radioenzymatic method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].evidence[0].quote",
+          "pass_1_value": "Plasma glycerol and glucose TTR were determined by GC-MS (MSD 5973 system with capillary column; Hewlett-Packard) as previously described (22,23,40). Briefly, plasma proteins were precipitated with ice-cold acetone, and hexane was used to extract plasma lipids. The aqueous phase, containing glycerol and glucose, was dried by speed-vac centrifugation (Savant Instruments, Farmingdale, NY). Heptafluorobutyric (HFB) anhydride was used to form an HFB derivative of glycerol and glucose, and ions were produced by EI ionization",
+          "pass_2_value": "Plasma glucose concentration was determined by using an automated glucose analyzer (Yellow Springs Instrument, Yellow Springs, OH)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].label",
+          "pass_1_value": "Tracer-to-tracee ratio determination",
+          "pass_2_value": "Plasma glucose measurement",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].method",
+          "pass_1_value": "GC-MS",
+          "pass_2_value": "Automated glucose analyzer",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].value",
+          "pass_1_value": "GC-MS (MSD 5973 system with capillary column) with HFB anhydride derivatization and EI ionization",
+          "pass_2_value": "Automated glucose analyzer (Yellow Springs Instrument)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].evidence[0].quote",
+          "pass_1_value": "A two-way analysis of variance (ANOVA), with gender and time as factors, was used to test for significant differences in substrate kinetics between men and women during fasting. Significant F-ratios were followed by post hoc comparisons with the use of Student's t-test for multiple comparisons",
+          "pass_2_value": "Plasma glycerol concentration was determined by gas chromatography-mass spectrometry (GC-MS) after [2-13C]glycerol was added to plasma as an internal standard",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].label",
+          "pass_1_value": "Statistical analysis method",
+          "pass_2_value": "Plasma glycerol measurement",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].method",
+          "pass_1_value": "Two-way ANOVA",
+          "pass_2_value": "GC-MS",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].value",
+          "pass_1_value": "Two-way analysis of variance (ANOVA) with gender and time as factors, followed by post hoc comparisons with Student's t-test for multiple comparisons",
+          "pass_2_value": "Gas chromatography-mass spectrometry (GC-MS) after [2-13C]glycerol was added as internal standard",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[24].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[24].evidence[0].quote",
+          "pass_1_value": "A value of P #0.05 was considered to be statistically significant",
+          "pass_2_value": "Plasma fatty acid concentrations were quantified by gas chromatography (Hewlett-Packard 5890-II, Palo Alto, CA) after adding heptadecanoic acid to plasma as an internal standard",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[24].label",
+          "pass_1_value": "Statistical significance threshold",
+          "pass_2_value": "Plasma fatty acid measurement",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[24].method",
+          "pass_1_value": null,
+          "pass_2_value": "Gas chromatography",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[24].value",
+          "pass_1_value": "P ≤ 0.05",
+          "pass_2_value": "Gas chromatography (Hewlett-Packard 5890-II) after adding heptadecanoic acid as internal standard",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results",
+          "pass_1_value": "len=8",
+          "pass_2_value": "len=6",
+          "severity": "medium"
+        },
+        {
+          "path": "narrative_results[0].evidence[0].page",
+          "pass_1_value": 1333,
+          "pass_2_value": 1,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[0].evidence[0].quote",
+          "pass_1_value": "Basal glycerol rate of appearance (Ra) in plasma, an indicator of whole body lipolytic rate, was greater in women than in men (2.1±0.2 vs. 1.5±0.1 mmol·kg body wt−1·min−1; P < 0.05)",
+          "pass_2_value": "Basal glycerol rate of appearance (R_a) in plasma, an indicator of whole body lipolytic rate, was greater in women than in men (2.1±0.2 vs. 1.5±0.1 mmol·kg body wt⁻¹·min⁻¹; P < 0.05)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[1].evidence[0].page",
+          "pass_1_value": 1333,
+          "pass_2_value": 1,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[1].evidence[0].quote",
+          "pass_1_value": "However, the relative increase in glycerol Ra with continued fasting was blunted in women compared with men (40±7 vs. 80±4% increase; P < 0.05)",
+          "pass_2_value": "However, the relative increase in glycerol R_a with continued fasting was blunted in women compared with men (40±7 vs. 80±4% increase; P < 0.05)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[1].statement",
+          "pass_1_value": "The relative increase in glycerol Ra with continued fasting was blunted in women compared with men",
+          "pass_2_value": "The relative increase in glycerol rate of appearance with continued fasting was blunted in women compared with men",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].evidence[0].page",
+          "pass_1_value": 1333,
+          "pass_2_value": 1,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].evidence[0].quote",
+          "pass_1_value": "In contrast, glucose Ra was similar in men and women at 14 h (11±0.6 vs. 12±0.7 mmol·kg body wt−1·min−1) and 22 h of fasting (9±0.6 vs. 10±0.6 mmol·kg body wt−1·min−1)",
+          "pass_2_value": "In contrast, glucose R_a was similar in men and women at 14 h (11±0.6 vs. 12±0.7 mmol·kg body wt⁻¹·min⁻¹) and 22 h of fasting (9±0.6 vs. 10±0.6 mmol·kg body wt⁻¹·min⁻¹)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].relationship",
+          "pass_1_value": "no gender difference",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "narrative_results[2].statement",
+          "pass_1_value": "Glucose Ra was similar in men and women at 14h and 22h of fasting",
+          "pass_2_value": "Glucose rate of appearance was similar in men and women at both 14 and 22 hours of fasting",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[3].evidence[0].page",
+          "pass_1_value": 1333,
+          "pass_2_value": 1,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[3].relationship",
+          "pass_1_value": "gender difference",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "narrative_results[4].evidence[0].page",
+          "pass_1_value": 1335,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[4].statement",
+          "pass_1_value": "Plasma insulin concentration was significantly lower in women than in men at 22h of fasting",
+          "pass_2_value": "Plasma insulin concentration was significantly lower in women than in men at 22 hours of fasting",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].evidence[0].page",
+          "pass_1_value": 1335,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].evidence[0].quote",
+          "pass_1_value": "At 14 h of fasting, mean plasma epinephrine concentration was twice as high in women than in men (P < 0.05)",
+          "pass_2_value": "Plasma epinephrine concentration increased significantly in men but not in women from 14 to 22 h of fasting, resulting in similar plasma epinephrine concentrations with continued fasting in men and women",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].statement",
+          "pass_1_value": "At 14h of fasting, mean plasma epinephrine concentration was twice as high in women than in men",
+          "pass_2_value": "Plasma epinephrine concentration increased significantly in men but not in women from 14 to 22 hours of fasting",
+          "severity": "low"
+        }
+      ],
+      "aligned_method_pairs": [
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Inclusion criteria - health status | All subjects considered in good health after comprehensive medical evaluation including history, physical examination, electrocardiogram, and standard blood and urine tests",
+          "pass_2_summary": "Inclusion criteria - health status | All subjects considered to be in good health after comprehensive medical evaluation including history, physical examination, electrocardiogram, and standard blood and urine tests"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Inclusion criteria - medications and smoking | None of the subjects was taking regular medications or smoked tobacco",
+          "pass_2_summary": "Inclusion criteria - medications and smoking | None of the subjects was taking regular medications or smoked tobacco"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Inclusion criteria - body weight and exercise | All subjects had stable body weight for ≥2 months and had been sedentary (regular exercise <1 h/wk) for ≥6 months before the study",
+          "pass_2_summary": "Inclusion criteria - body weight and exercise | All subjects had stable body weight for ≥2 months and had been sedentary (regular exercise <1 h/wk) for ≥6 months before the study"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 4,
+          "pass_2_index": 4,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Inclusion criteria - menstrual cycle phase | In female subjects, the study was performed during the first 2 weeks of the follicular phase of their menstrual cycle",
+          "pass_2_summary": "Inclusion criteria - menstrual cycle phase | In female subjects, the study was performed during the first 2 weeks of the follicular phase of their menstrual cycle"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 5,
+          "pass_2_index": 5,
+          "alignment_score": 0.9354838709677419,
+          "pass_1_summary": "Body composition assessment method | Dual-energy X-ray absorptiometry (Hologic QDR 1000/w) | DXA",
+          "pass_2_summary": "Body composition measurement method | Dual-energy X-ray absorptiometry (Hologic QDR 1000/w) | DXA"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 6,
+          "pass_2_index": 11,
+          "alignment_score": 0.375,
+          "pass_1_summary": "Isotope infusion - glucose tracer | [6,6-2H2]glucose with priming dose of 18 mmol/kg and infusion rate of 0.22 mmol·kg body wt-1·min-1 | Isotope infusion | mmol/kg; mmol·kg body wt-1·min-1",
+          "pass_2_summary": "Glucose isotope infusion - infusion rate | 0.22 mmol/kg body weight/min | Isotope infusion ([6,6-2H2]glucose) | mmol/kg body weight/min"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 7,
+          "pass_2_index": 14,
+          "alignment_score": 0.4358974358974359,
+          "pass_1_summary": "Isotope infusion - glycerol tracer | [1,1,2,3,3-2H5]glycerol with priming dose of 1.8 mmol/kg and infusion rate of 0.12 mmol·kg body wt-1·min-1 | Isotope infusion | mmol/kg; mmol·kg body wt-1·min-1",
+          "pass_2_summary": "Glycerol isotope infusion - infusion rate | 0.12 mmol/kg body weight/min | Isotope infusion ([1,1,2,3,3-2H5]glycerol) | mmol/kg body weight/min"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 8,
+          "pass_2_index": 16,
+          "alignment_score": 0.5526315789473685,
+          "pass_1_summary": "Fasting duration - first measurement | 14 hours of fasting | hours",
+          "pass_2_summary": "Blood sampling - background TTR | Blood samples obtained before isotope infusions started to determine background glucose and glycerol tracer-to-tracee ratios (TTR) | Blood sampling"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 9,
+          "pass_2_index": 18,
+          "alignment_score": 0.7027027027027027,
+          "pass_1_summary": "Fasting duration - second measurement | 22 hours of fasting | hours",
+          "pass_2_summary": "Blood sampling - 22-hour fast interval | Every 10 minutes between 1730 and 1800 (for the 22 h of fasting) to determine plasma glucose and glycerol TTR and plasma substrate and hormone concentrations | Blood sampling | minutes"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 10,
+          "pass_2_index": 6,
+          "alignment_score": 0.8125,
+          "pass_1_summary": "Pre-study meal - evening | Standard meal containing 12 kcal/kg body weight (55% carbohydrate, 30% fat, 15% protein) | kcal/kg body weight",
+          "pass_2_summary": "Pre-study meal timing and composition | At 1800, subjects consumed a standard meal containing 12 kcal/kg body weight (55% carbohydrate, 30% fat, 15% protein) | kcal/kg body weight"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 11,
+          "pass_2_index": 7,
+          "alignment_score": 0.9090909090909091,
+          "pass_1_summary": "Pre-study meal - liquid formula | Ensure liquid formula containing 250 kcal (40 g carbohydrates, 6.1 g fat, 8.8 g protein) | kcal",
+          "pass_2_summary": "Pre-study liquid formula timing and composition | At 2000, subjects ingested Ensure containing 250 kcal (40 g carbohydrates, 6.1 g fat, 8.8 g protein) | kcal"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 12,
+          "pass_2_index": 17,
+          "alignment_score": 0.2391304347826087,
+          "pass_1_summary": "Blood sampling - glucose and glycerol analysis | Chilled tubes containing EDTA to determine plasma fatty acid, glycerol, and glucose concentrations and glycerol and glucose enrichments | Blood collection in EDTA tubes",
+          "pass_2_summary": "Blood sampling - 14-hour fast interval | Every 10 minutes between 0930 and 1000 (for the 14 h of fasting) to determine plasma glucose and glycerol TTR and plasma substrate and hormone concentrations | Blood sampling | minutes"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 13,
+          "pass_2_index": 19,
+          "alignment_score": 0.20689655172413793,
+          "pass_1_summary": "Blood sampling - hormone analysis | Chilled tubes containing EDTA and Trasylol to measure insulin and glucagon concentrations | Blood collection in EDTA and Trasylol tubes",
+          "pass_2_summary": "Plasma insulin measurement | Radioimmunoassay | Radioimmunoassay"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 14,
+          "pass_2_index": 20,
+          "alignment_score": 0.1724137931034483,
+          "pass_1_summary": "Blood sampling - catecholamine analysis | Chilled tubes containing reduced glutathione and EGTA to determine plasma catecholamine concentrations | Blood collection in reduced glutathione and EGTA tubes",
+          "pass_2_summary": "Plasma glucagon measurement | Radioimmunoassay | Radioimmunoassay"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 15,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Plasma processing | Blood samples placed on ice and plasma separated by centrifugation within 30 minutes of collection, then stored at -70°C | minutes; °C",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 16,
+          "pass_2_index": 21,
+          "alignment_score": 0.30434782608695654,
+          "pass_1_summary": "Insulin measurement assay | Radioimmunoassay | Radioimmunoassay",
+          "pass_2_summary": "Plasma catecholamine measurement | Single isotope derivative radioenzymatic method | Radioenzymatic method"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 17,
+          "pass_2_index": 24,
+          "alignment_score": 0.19444444444444445,
+          "pass_1_summary": "Glucagon measurement assay | Radioimmunoassay | Radioimmunoassay",
+          "pass_2_summary": "Plasma fatty acid measurement | Gas chromatography (Hewlett-Packard 5890-II) after adding heptadecanoic acid as internal standard | Gas chromatography"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 18,
+          "pass_2_index": 22,
+          "alignment_score": 0.21428571428571427,
+          "pass_1_summary": "Catecholamine measurement assay | Single isotope derivative radioenzymatic method | Radioenzymatic method",
+          "pass_2_summary": "Plasma glucose measurement | Automated glucose analyzer (Yellow Springs Instrument) | Automated glucose analyzer"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 19,
+          "pass_2_index": 23,
+          "alignment_score": 0.2727272727272727,
+          "pass_1_summary": "Glucose concentration measurement | Automated glucose analyzer (Yellow Springs Instrument) | Automated glucose analyzer",
+          "pass_2_summary": "Plasma glycerol measurement | Gas chromatography-mass spectrometry (GC-MS) after [2-13C]glycerol was added as internal standard | GC-MS"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 20,
+          "pass_2_index": 25,
+          "alignment_score": 0.1891891891891892,
+          "pass_1_summary": "Glycerol concentration measurement | Gas chromatography-mass spectrometry (GC-MS) after [2-13C]glycerol was added as internal standard | GC-MS",
+          "pass_2_summary": "Plasma glycerol and glucose TTR measurement | GC-MS (MSD 5973 system with capillary column; Hewlett-Packard) | GC-MS"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 21,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Fatty acid concentration measurement | Gas chromatography (Hewlett-Packard 5890-II) after adding heptadecanoic acid as internal standard | Gas chromatography",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 22,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Tracer-to-tracee ratio determination | GC-MS (MSD 5973 system with capillary column) with HFB anhydride derivatization and EI ionization | GC-MS",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 23,
+          "pass_2_index": 26,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Statistical analysis method | Two-way analysis of variance (ANOVA) with gender and time as factors, followed by post hoc comparisons with Student's t-test for multiple comparisons | Two-way ANOVA",
+          "pass_2_summary": "Statistical analysis method | Two-way analysis of variance (ANOVA) with gender and time as factors, followed by post hoc comparisons with Student's t-test for multiple comparisons | ANOVA"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 24,
+          "pass_2_index": 27,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Statistical significance threshold | P ≤ 0.05",
+          "pass_2_summary": "Statistical significance threshold | P ≤ 0.05"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 0.8275862068965517,
+          "pass_1_summary": "Participant N and demographics | Six men (32 ± 4 yr old) and six premenopausal women (27 ± 2 yr old)",
+          "pass_2_summary": "Participant N and demographics | Six men (32 ± 4 yr old) and six premenopausal women (27 ± 2 yr old), matched on percent body fat"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 8,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Fasting duration | Subjects fasted until completion of the study the following day (approximately 14 and 22 hours) | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 9,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Catheter insertion timing | At 0530, catheters were inserted into a forearm vein for isotope infusion and into a radial artery for blood sampling"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 10,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Glucose isotope infusion - priming dose | 18 mmol/kg | Isotope infusion ([6,6-2H2]glucose) | mmol/kg"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 12,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Glucose isotope infusion - duration | 210 minutes | Isotope infusion ([6,6-2H2]glucose) | minutes"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 13,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Glycerol isotope infusion - priming dose | 1.8 mmol/kg | Isotope infusion ([1,1,2,3,3-2H5]glycerol) | mmol/kg"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 15,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Glycerol isotope infusion - duration | 90 minutes | Isotope infusion ([1,1,2,3,3-2H5]glycerol) | minutes"
+        }
+      ],
+      "aligned_narrative_pairs": [
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 0.8620689655172413,
+          "pass_1_summary": "The relative increase in glycerol Ra with continued fasting was blunted in women compared with men [gender difference]",
+          "pass_2_summary": "The relative increase in glycerol rate of appearance with continued fasting was blunted in women compared with men [gender difference]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 0.75,
+          "pass_1_summary": "Glucose Ra was similar in men and women at 14h and 22h of fasting [no gender difference]",
+          "pass_2_summary": "Glucose rate of appearance was similar in men and women at both 14 and 22 hours of fasting"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 0.9259259259259259,
+          "pass_1_summary": "Sexual dimorphism exists in lipid, but not glucose, metabolism during both basal and short-term fasting conditions [gender difference]",
+          "pass_2_summary": "Sexual dimorphism exists in lipid, but not glucose, metabolism during both basal and short-term fasting conditions"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 4,
+          "pass_2_index": 4,
+          "alignment_score": 0.9512195121951219,
+          "pass_1_summary": "Plasma insulin concentration was significantly lower in women than in men at 22h of fasting [gender difference]",
+          "pass_2_summary": "Plasma insulin concentration was significantly lower in women than in men at 22 hours of fasting [gender difference]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 5,
+          "pass_2_index": 5,
+          "alignment_score": 0.358974358974359,
+          "pass_1_summary": "At 14h of fasting, mean plasma epinephrine concentration was twice as high in women than in men [gender difference]",
+          "pass_2_summary": "Plasma epinephrine concentration increased significantly in men but not in women from 14 to 22 hours of fasting [gender difference]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 6,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Plasma fatty acid and glycerol concentrations were higher in women than in men at 14h of fasting [gender difference]",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 7,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "The attenuated increase in lipolysis during fasting in women did not compromise fatty acid availability as a fuel [consequence]",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Basal glycerol rate of appearance in plasma was greater in women than in men [gender difference]",
+          "pass_2_summary": "Basal glycerol rate of appearance in plasma was greater in women than in men [gender difference]"
+        }
+      ],
+      "semantic_groups": [
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 0,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe identical inclusion criteria for health status with only minor wording difference ('considered in good health' vs 'considered to be in good health')",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both extractions are identical regarding medications and smoking inclusion criteria",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 2,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both extractions are identical regarding body weight stability and exercise sedentary requirements",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 3,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both extractions are identical regarding menstrual cycle phase inclusion criteria for female subjects",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 4,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact with minor wording difference: 'assessment method' vs 'measurement method' - functionally equivalent",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 5,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe glucose tracer infusion with same isotope and infusion rate (0.22 mmol/kg body wt/min); pass_2 omits priming dose but conveys same essential infusion information",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 6,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe glycerol tracer infusion with same isotope and infusion rate (0.12 mmol/kg body wt/min); pass_2 omits priming dose but conveys same essential infusion information",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 7,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass_1 specifies 14 hours fasting duration; pass_2 describes background TTR blood sampling before isotope infusion - these are different measurements/timepoints, not the same fact",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 8,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe 22-hour fasting with blood sampling every 10 minutes between 1730-1800. Pass 2 provides more complete context about timing and measurements.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 9,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe the same standard meal with identical composition (12 kcal/kg, 55% carb, 30% fat, 15% protein). Pass 2 adds timing detail (1800) but facts are equivalent.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 10,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe Ensure formula with identical nutritional content (250 kcal, 40g carbs, 6.1g fat, 8.8g protein). Pass 2 adds timing (2000) but facts are equivalent.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 11,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes blood collection tubes and analytes for glucose/glycerol analysis. Pass 2 describes a different sampling interval (14-hour fast, 0930-1000). These are incompatible facts about different aspects.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 12,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes blood collection tubes (EDTA and Trasylol) for hormone analysis. Pass 2 describes insulin measurement method (radioimmunoassay). These describe different aspects and are not directly comparable.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 13,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes catecholamine collection tubes (reduced glutathione and EGTA). Pass 2 describes glucagon measurement method (radioimmunoassay). These are incompatible facts about different analytes.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 14,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 contains information about plasma processing (centrifugation within 30 minutes, storage at -70°C). Pass 2 is empty.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 15,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 states insulin measurement uses radioimmunoassay. Pass 2 states catecholamine measurement uses radioenzymatic method. These describe different analytes and methods.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 16,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes glucagon measurement via radioimmunoassay; Pass 2 describes plasma fatty acid measurement via gas chromatography. These are completely different analytes and methods.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 17,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes catecholamine measurement via radioenzymatic method; Pass 2 describes plasma glucose measurement via automated analyzer. Different analytes and methods.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 18,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes glucose concentration measurement via automated analyzer; Pass 2 describes plasma glycerol measurement via GC-MS. Different analytes and methods.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 19,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe glycerol measurement via GC-MS with isotope internal standard. Pass 2 adds more instrument detail (MSD 5973 system) and mentions combined glucose TTR measurement, but core glycerol method is the same.",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 20,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 describes fatty acid concentration measurement; Pass 2 is empty/null. Orphan entry from Pass 1.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 21,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 describes tracer-to-tracee ratio determination via GC-MS; Pass 2 is empty/null. Orphan entry from Pass 1.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 22,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe two-way ANOVA with gender and time factors, followed by post hoc Student's t-test. Minor wording variation in abbreviation (Two-way ANOVA vs ANOVA) but same method.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 23,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify identical statistical significance threshold of P ≤ 0.05.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 24,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe identical participant demographics (6 men, 6 premenopausal women with same ages). Pass_2 adds matching criterion (percent body fat) not mentioned in pass_1, but core facts are the same.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 25,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass_1 is empty; pass_2 contains fasting duration information. No conflict, but information only in one extraction.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 26,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass_1 is empty; pass_2 contains catheter insertion timing information. No conflict, but information only in one extraction.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 27,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass_1 is empty; pass_2 contains glucose isotope priming dose information. No conflict, but information only in one extraction.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 28,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass_1 is empty; pass_2 contains glucose isotope infusion duration information. No conflict, but information only in one extraction.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 29,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass_1 is empty; pass_2 contains glycerol isotope priming dose information. No conflict, but information only in one extraction.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 30,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass_1 is empty; pass_2 contains glycerol isotope infusion duration information. No conflict, but information only in one extraction.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 0,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe the same finding: glycerol Ra increase is blunted in women vs men during fasting. 'Ra' vs 'rate of appearance' is standard abbreviation expansion.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both convey identical finding: glucose Ra similar between genders at 14h and 22h fasting. Minor wording differences ('at 14h and 22h' vs 'at both 14 and 22 hours') and 'Ra' abbreviation are negligible.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 2,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical factual content about sexual dimorphism in lipid but not glucose metabolism. Pass_1 includes 'gender difference' tag which is metadata, not a factual difference.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 3,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Same finding: plasma insulin lower in women at 22h fasting. Only difference is '22h' vs '22 hours' which is minor wording variation.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 4,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass_1 states epinephrine was twice as high in women at 14h. Pass_2 states epinephrine increased in men but not women from 14-22h. These describe different aspects and potentially contradict regarding gender patterns.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 5,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass_1 contains a finding about fatty acid and glycerol concentrations at 14h fasting. Pass_2 is empty/missing.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 6,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass_1 contains a finding about attenuated lipolysis not compromising fuel availability. Pass_2 is empty/missing.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 7,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text in both passes. Perfect match on basal glycerol rate of appearance finding.",
+          "recommended_action": "accept_pass_1"
+        }
+      ]
+    },
+    "consensus": {
+      "samples": 2,
+      "method_clusters": 11,
+      "narrative_clusters": 2,
+      "average_method_support": 0.659172077922078,
+      "average_narrative_support": 0.7307692307692308
+    }
+  }
+}
