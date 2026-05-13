@@ -1,9 +1,11 @@
 # --- Extraction / pipeline results (do not commit) ---
 parsed/
-parsed_*/
 
 # --- Shareable results (committed for paper review) ---
 # results/ is tracked for teammate review
+
+# Local generated review artifacts
+scripts/eval/
 
 # --- Inputs / pipeline artifacts (do not commit) ---
 artifacts/
