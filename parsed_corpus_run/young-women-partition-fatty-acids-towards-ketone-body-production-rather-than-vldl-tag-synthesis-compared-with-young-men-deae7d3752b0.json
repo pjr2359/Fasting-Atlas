@@ -1,0 +1,1357 @@
+{
+  "paper_id": "young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men-deae7d3752b0",
+  "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+  "metadata": {
+    "title": "Young women partition fatty acids towards ketone body production rather than VLDL-TAG synthesis, compared with young men",
+    "authors": [
+      "Kyriakoula Marinou",
+      "Martin Adiels",
+      "Leanne Hodson",
+      "Keith N. Frayn",
+      "Fredrik Karpe",
+      "Barbara A. Fielding"
+    ],
+    "year": 2011,
+    "journal": "British Journal of Nutrition",
+    "study_design": "Comparative study of healthy, lean young men and women during prolonged overnight fast using intravenous infusion of [U-13C]palmitate",
+    "demographics": "Healthy, lean young men and women (n=12) matched for age and BMI; women studied during follicular phase of menstrual cycle",
+    "evidence": [
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 857,
+        "quote": "British Journal of Nutrition (2011), 105, 857–865",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 857,
+        "quote": "Young women partition fatty acids towards ketone body production rather than VLDL-TAG synthesis, compared with young men",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 857,
+        "quote": "Kyriakoula Marinou, Martin Adiels, Leanne Hodson, Keith N. Frayn, Fredrik Karpe and Barbara A. Fielding",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 857,
+        "quote": "The present study aimed to investigate the utilisation of plasma NEFA by the liver and to determine whether they are partitioned differently into ketone bodies and VLDL-TAG in healthy, lean young men and women. Volunteers were studied during a prolonged overnight fast (12–19h) using an intravenous infusion of [U-13C]palmitate.",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 858,
+        "quote": "Healthy, lean young men and women (n 12) were studied, and matched for age and BMI",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 858,
+        "quote": "The studies were performed during the first week (follicular phase) of the menstrual cycle",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Participant N",
+      "value": "12",
+      "method": null,
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Healthy, lean young men and women (n 12) were studied",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Participant sex distribution",
+      "value": "6 men, 6 women",
+      "method": null,
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 860,
+          "quote": "in exact accordance with the six men and six women in the present study",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Participant age (men)",
+      "value": "25.5",
+      "method": null,
+      "unit": "years",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Age (years) 25·5 4·4",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Participant age (women)",
+      "value": "22.5",
+      "method": null,
+      "unit": "years",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Age (years) 22·5 2·2",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criterion: BMI",
+      "value": "less than 25",
+      "method": null,
+      "unit": "kg/m2",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 860,
+          "quote": "All individuals were selected to have a BMI of less than 25 kg/m2",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criterion: health status",
+      "value": "Healthy, lean, weight stable, no disease, no lipid-lowering medication",
+      "method": null,
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Subjects, recruited from the wider Oxford community via advertisement, were free from any disease, weight stable and not taking any lipid-lowering medication or medication that would alter lipid metabolism",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Study timing: pre-study food avoidance",
+      "value": "48 hours",
+      "method": null,
+      "unit": "hours",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Before the study day, subjects were asked to avoid foodstuffs naturally enriched in 13C for 48h",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Study timing: exercise and alcohol avoidance",
+      "value": "24 hours",
+      "method": null,
+      "unit": "hours",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "refrain from strenuous exercise and alcohol for 24h",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Study timing: overnight fast",
+      "value": "12",
+      "method": null,
+      "unit": "hours",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 860,
+          "quote": "After 12h fasting, the men had a less advantageous metabolic profile",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Study timing: total experiment duration",
+      "value": "7",
+      "method": null,
+      "unit": "hours",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "This was continued until the end of the experiment (at 7h)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay: body composition measurement",
+      "value": "bioelectrical impedance analysis",
+      "method": "bioelectrical impedance analysis",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Fat mass was measured by bioelectrical impedance analysis",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay: isotope tracer infusion",
+      "value": "potassium [U-13C]palmitate",
+      "method": "continuous intravenous infusion",
+      "unit": "mmol/kg per min",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "At time 0, a continuous intravenous infusion (0·04 mmol/kg per min) of potassium [U-13C]palmitate (isotope purity 98%; Cambridge Isotope Laboratories, Inc., Andover, MA, USA) complexed to human albumin was started",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Dosing: [U-13C]palmitate infusion rate",
+      "value": "0.04",
+      "method": "continuous intravenous infusion",
+      "unit": "mmol/kg per min",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "a continuous intravenous infusion (0·04 mmol/kg per min) of potassium [U-13C]palmitate",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay: plasma metabolite analysis",
+      "value": "enzymatic determination",
+      "method": "enzymatic",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "plasma NEFA, VLDL-TAG and 3-OHB concentrations were determined enzymatically",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay: plasma insulin measurement",
+      "value": "RIA",
+      "method": "RIA",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Plasma insulin concentrations were measured by RIA",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay: VLDL isolation",
+      "value": "sequential flotation using density gradient ultracentrifugation",
+      "method": "density gradient ultracentrifugation",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "VLDL (Svedberg flotation rate (Sf) 60–400) and VLDL (Sf 20–60) were isolated by sequential flotation using density gradient ultracentrifugation",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay: fatty acid analysis",
+      "value": "GC and GC-MS",
+      "method": "GC and GC-MS",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "isotopic enrichment was measured by GC and GC–MS, respectively",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Study timing: menstrual cycle phase",
+      "value": "follicular phase",
+      "method": null,
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "The studies were performed during the first week (follicular phase) of the menstrual cycle",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Young women partition fatty acids towards ketone body production rather than VLDL-TAG synthesis, compared with young men",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "The ability of young women to partition fatty acids towards ketone body production rather than VLDL-TAG may contribute to their more advantageous metabolic profile compared with young men.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "After 12h fasting, women had a more advantageous metabolic profile with lower plasma glucose and TAG but higher plasma NEFA concentrations",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "After 12h fasting, the women had a more advantageous metabolic profile with lower plasma glucose (P<0·05) and TAG (P<0·05) but higher plasma NEFA (P<0·05) concentrations.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Plasma 3-hydroxybutyrate concentrations rose more in women than in men",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "Plasma 3-hydroxybutyrate (3-OHB) concentrations rose more in women than in men",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "The transfer of 13C from [U-13C]palmitate to plasma [13C]3-OHB reached a plateau 6–7h after the start of the infusion in women but was still increasing at 6h in men",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "the transfer of 13C from [U-13C]palmitate to plasma [13C]3-OHB reached a plateau 6–7h after the start of the infusion in women but was still increasing at 6h in men.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "In women, systemic plasma fatty acids were the major source of 3-OHB production, but in men, this was not observed",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "In women, the high isotopic enrichment of plasma 3-OHB suggested that systemic plasma fatty acids were the major source of 3-OHB production. However, in men, this was not observed during the course of the study (P<0·01).",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "There were no sex differences for the incorporation of 13C into VLDL-TAG",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "There were no sex differences for the incorporation of 13C into VLDL - or VLDL -TAG.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "The ratio of [13C]3-OHB:[13C]VLDL-TAG in the plasma was significantly higher in women than in men",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 860,
+          "quote": "The ratio of [13C]3-OHB:[13C]VLDL-TAG in the plasma was significantly higher in women than in men (2·73 (SE 1·7) v. 0·66 (SE 0·30); P¼0·027 for VLDL1 and 3·24 (SE 1·6) v. 0·97 (SE 0·43); P¼0·014 for VLDL2).",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [
+    {
+      "figure_id": "fig_p1_i1",
+      "page": 1,
+      "bbox": [
+        10.261398315429688,
+        473.74176025390625,
+        32.9385986328125,
+        512.1795654296875
+      ],
+      "caption": null,
+      "image_sha256": "7e161e5ce2100095ab81854fe8fc7eda281a115b51f16d7a056c649b5ffeb597",
+      "image_path": "/home/pjrei/Fasting-Atlas/artifacts/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men-deae7d3752b0/fig_p1_i1_xref93.png",
+      "extraction_method": "embedded_image",
+      "confidence": 0.55,
+      "evidence": [],
+      "digitized_series": [],
+      "digitization_metadata": {}
+    }
+  ],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [
+        {
+          "path": "semantic.methods_participants[pair=2]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 claims to report women's age (22.5 years) but Pass 2 reports BMI data instead. These are different facts entirely.",
+          "severity": "high"
+        }
+      ],
+      "needs_human_review": true,
+      "structural_discrepancies": [
+        {
+          "path": "methods_participants",
+          "pass_1_value": "len=18",
+          "pass_2_value": "len=19",
+          "severity": "medium"
+        },
+        {
+          "path": "methods_participants[1].evidence[0].page",
+          "pass_1_value": 860,
+          "pass_2_value": 858,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].evidence[0].quote",
+          "pass_1_value": "in exact accordance with the six men and six women in the present study",
+          "pass_2_value": "Healthy, lean young men and women (n 12) were studied, and matched for age and BMI",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].label",
+          "pass_1_value": "Participant sex distribution",
+          "pass_2_value": "Participant sex",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].value",
+          "pass_1_value": "6 men, 6 women",
+          "pass_2_value": "men and women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].evidence[0].quote",
+          "pass_1_value": "Age (years) 25·5 4·4",
+          "pass_2_value": "Age (years) Mean SE Mean SE 25·5 4·4 22·5 2·2",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].label",
+          "pass_1_value": "Participant age (men)",
+          "pass_2_value": "Participant age",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].value",
+          "pass_1_value": "25.5",
+          "pass_2_value": "25.5 years (men), 22.5 years (women)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].evidence[0].quote",
+          "pass_1_value": "Age (years) 22·5 2·2",
+          "pass_2_value": "BMI (kg/m2) 21·5 2·5 21·0 1·6",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].label",
+          "pass_1_value": "Participant age (women)",
+          "pass_2_value": "Participant BMI",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].unit",
+          "pass_1_value": "years",
+          "pass_2_value": "kg/m2",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].value",
+          "pass_1_value": "22.5",
+          "pass_2_value": "21.5 kg/m2 (men), 21.0 kg/m2 (women)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].evidence[0].page",
+          "pass_1_value": 860,
+          "pass_2_value": 858,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].evidence[0].quote",
+          "pass_1_value": "All individuals were selected to have a BMI of less than 25 kg/m2",
+          "pass_2_value": "Subjects, recruited from the wider Oxford community via advertisement, were free from any disease, weight stable and not taking any lipid-lowering medication or medication that would alter lipid metabolism",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].label",
+          "pass_1_value": "Inclusion criterion: BMI",
+          "pass_2_value": "Inclusion criteria",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].unit",
+          "pass_1_value": "kg/m2",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[4].value",
+          "pass_1_value": "less than 25",
+          "pass_2_value": "Healthy, lean, weight stable, no disease, no lipid-lowering medication",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].evidence[0].quote",
+          "pass_1_value": "Subjects, recruited from the wider Oxford community via advertisement, were free from any disease, weight stable and not taking any lipid-lowering medication or medication that would alter lipid metabolism",
+          "pass_2_value": "The studies were performed during the first week (follicular phase) of the menstrual cycle",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].label",
+          "pass_1_value": "Inclusion criterion: health status",
+          "pass_2_value": "Study timing - menstrual cycle phase",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].value",
+          "pass_1_value": "Healthy, lean, weight stable, no disease, no lipid-lowering medication",
+          "pass_2_value": "follicular phase",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].label",
+          "pass_1_value": "Study timing: pre-study food avoidance",
+          "pass_2_value": "Pre-study preparation - food avoidance",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].method",
+          "pass_1_value": null,
+          "pass_2_value": "avoid foodstuffs naturally enriched in 13C",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[7].label",
+          "pass_1_value": "Study timing: exercise and alcohol avoidance",
+          "pass_2_value": "Pre-study preparation - exercise and alcohol avoidance",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].method",
+          "pass_1_value": null,
+          "pass_2_value": "refrain from strenuous exercise and alcohol",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[8].evidence[0].page",
+          "pass_1_value": 860,
+          "pass_2_value": 858,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].evidence[0].quote",
+          "pass_1_value": "After 12h fasting, the men had a less advantageous metabolic profile",
+          "pass_2_value": "On the evening before the study, subjects were required to eat a low-fat meal",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].label",
+          "pass_1_value": "Study timing: overnight fast",
+          "pass_2_value": "Pre-study meal",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].unit",
+          "pass_1_value": "hours",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[8].value",
+          "pass_1_value": "12",
+          "pass_2_value": "low-fat meal",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].evidence[0].quote",
+          "pass_1_value": "This was continued until the end of the experiment (at 7h)",
+          "pass_2_value": "On the day of the study, subjects arrived at the clinical research unit after an overnight fast",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].label",
+          "pass_1_value": "Study timing: total experiment duration",
+          "pass_2_value": "Fasting duration",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].unit",
+          "pass_1_value": "hours",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[9].value",
+          "pass_1_value": "7",
+          "pass_2_value": "overnight fast",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].label",
+          "pass_1_value": "Assay: body composition measurement",
+          "pass_2_value": "Body composition measurement",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].label",
+          "pass_1_value": "Assay: isotope tracer infusion",
+          "pass_2_value": "Isotope tracer infusion",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].evidence[0].quote",
+          "pass_1_value": "a continuous intravenous infusion (0·04 mmol/kg per min) of potassium [U-13C]palmitate",
+          "pass_2_value": "a continuous intravenous infusion (0·04 mmol/kg per min)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].label",
+          "pass_1_value": "Dosing: [U-13C]palmitate infusion rate",
+          "pass_2_value": "Isotope tracer dose",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].evidence[0].quote",
+          "pass_1_value": "plasma NEFA, VLDL-TAG and 3-OHB concentrations were determined enzymatically",
+          "pass_2_value": "potassium [U-13C]palmitate (isotope purity 98%",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].label",
+          "pass_1_value": "Assay: plasma metabolite analysis",
+          "pass_2_value": "Isotope tracer purity",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].method",
+          "pass_1_value": "enzymatic",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[13].value",
+          "pass_1_value": "enzymatic determination",
+          "pass_2_value": "98%",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].evidence[0].quote",
+          "pass_1_value": "Plasma insulin concentrations were measured by RIA",
+          "pass_2_value": "This was continued until the end of the experiment (at 7h)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].label",
+          "pass_1_value": "Assay: plasma insulin measurement",
+          "pass_2_value": "Infusion duration",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].method",
+          "pass_1_value": "RIA",
+          "pass_2_value": "continuous intravenous infusion",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].unit",
+          "pass_1_value": null,
+          "pass_2_value": "hours",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[14].value",
+          "pass_1_value": "RIA",
+          "pass_2_value": "7 hours",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].evidence[0].quote",
+          "pass_1_value": "VLDL (Svedberg flotation rate (Sf) 60–400) and VLDL (Sf 20–60) were isolated by sequential flotation using density gradient ultracentrifugation",
+          "pass_2_value": "plasma NEFA, VLDL-TAG and 3-OHB concentrations were determined enzymatically",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].label",
+          "pass_1_value": "Assay: VLDL isolation",
+          "pass_2_value": "Plasma metabolite assay - NEFA, VLDL-TAG, 3-OHB",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].method",
+          "pass_1_value": "density gradient ultracentrifugation",
+          "pass_2_value": "enzymatic",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].value",
+          "pass_1_value": "sequential flotation using density gradient ultracentrifugation",
+          "pass_2_value": "enzymatic determination",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].evidence[0].quote",
+          "pass_1_value": "isotopic enrichment was measured by GC and GC–MS, respectively",
+          "pass_2_value": "Plasma insulin concentrations were measured by RIA",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].label",
+          "pass_1_value": "Assay: fatty acid analysis",
+          "pass_2_value": "Plasma insulin assay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].method",
+          "pass_1_value": "GC and GC-MS",
+          "pass_2_value": "RIA",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].value",
+          "pass_1_value": "GC and GC-MS",
+          "pass_2_value": "RIA",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].evidence[0].quote",
+          "pass_1_value": "The studies were performed during the first week (follicular phase) of the menstrual cycle",
+          "pass_2_value": "In ten subjects, VLDL1 (Svedberg flotation rate (Sf) 60–400) and VLDL2 (Sf 20–60) were isolated by sequential flotation using density gradient ultracentrifugation",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].label",
+          "pass_1_value": "Study timing: menstrual cycle phase",
+          "pass_2_value": "VLDL isolation",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].method",
+          "pass_1_value": null,
+          "pass_2_value": "sequential flotation using density gradient ultracentrifugation",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[17].value",
+          "pass_1_value": "follicular phase",
+          "pass_2_value": "VLDL1 (Sf 60-400) and VLDL2 (Sf 20-60)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results",
+          "pass_1_value": "len=7",
+          "pass_2_value": "len=9",
+          "severity": "medium"
+        },
+        {
+          "path": "narrative_results[0].evidence[0].quote",
+          "pass_1_value": "The ability of young women to partition fatty acids towards ketone body production rather than VLDL-TAG may contribute to their more advantageous metabolic profile compared with young men.",
+          "pass_2_value": "The ability of young women to partition fatty acids towards ketone body production ratherthanVLDL-TAGmay contribute totheir moreadvantageous metabolic profilecompared withyoungmen.",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[1].evidence[0].quote",
+          "pass_1_value": "After 12h fasting, the women had a more advantageous metabolic profile with lower plasma glucose (P<0·05) and TAG (P<0·05) but higher plasma NEFA (P<0·05) concentrations.",
+          "pass_2_value": "After 12h fasting, the women had a more advantageous metabolic profile with lower plasma glucose (P,0·05) and TAG (P,0·05) but higher plasma NEFA (P,0·05) concentrations.",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[1].statement",
+          "pass_1_value": "After 12h fasting, women had a more advantageous metabolic profile with lower plasma glucose and TAG but higher plasma NEFA concentrations",
+          "pass_2_value": "After 12h fasting, women had lower plasma glucose and TAG concentrations but higher plasma NEFA concentrations than men",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].evidence[0].quote",
+          "pass_1_value": "Plasma 3-hydroxybutyrate (3-OHB) concentrations rose more in women than in men",
+          "pass_2_value": "Plasma 3-hydroxybutyrate (3-OHB) concentrations rose more in womenthaninmen",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[3].evidence[0].quote",
+          "pass_1_value": "the transfer of 13C from [U-13C]palmitate to plasma [13C]3-OHB reached a plateau 6–7h after the start of the infusion in women but was still increasing at 6h in men.",
+          "pass_2_value": "thetransferof13Cfrom[U-13C]palmitatetoplasma[13C]3-OHBreachedaplateau6–7hafterthestartoftheinfu-sioninwomenbutwasstillincreasingat6hinmen.",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[3].statement",
+          "pass_1_value": "The transfer of 13C from [U-13C]palmitate to plasma [13C]3-OHB reached a plateau 6–7h after the start of the infusion in women but was still increasing at 6h in men",
+          "pass_2_value": "The transfer of 13C from palmitate to plasma 3-OHB reached a plateau 6-7h after infusion start in women but was still increasing at 6h in men",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[4].evidence[0].quote",
+          "pass_1_value": "In women, the high isotopic enrichment of plasma 3-OHB suggested that systemic plasma fatty acids were the major source of 3-OHB production. However, in men, this was not observed during the course of the study (P<0·01).",
+          "pass_2_value": "In women, the high isotopic enrichment of plasma 3-OHB suggested that systemic plasma fatty acids were the major source of 3-OHB production. However, in men, this was not observed during the course of the study (P,0·01).",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].statement",
+          "pass_1_value": "The ratio of [13C]3-OHB:[13C]VLDL-TAG in the plasma was significantly higher in women than in men",
+          "pass_2_value": "The ratio of [13C]3-OHB:[13C]VLDL-TAG in plasma was significantly higher in women than in men",
+          "severity": "low"
+        }
+      ],
+      "aligned_method_pairs": [
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 0.18518518518518517,
+          "pass_1_summary": "Participant sex distribution | 6 men, 6 women",
+          "pass_2_summary": "Participant sex | men and women"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 0.5833333333333334,
+          "pass_1_summary": "Participant age (men) | 25.5 | years",
+          "pass_2_summary": "Participant age | 25.5 years (men), 22.5 years (women) | years"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 0.26666666666666666,
+          "pass_1_summary": "Participant age (women) | 22.5 | years",
+          "pass_2_summary": "Participant BMI | 21.5 kg/m2 (men), 21.0 kg/m2 (women) | kg/m2"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 4,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Inclusion criterion: BMI | less than 25 | kg/m2",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 5,
+          "pass_2_index": 4,
+          "alignment_score": 0.8823529411764706,
+          "pass_1_summary": "Inclusion criterion: health status | Healthy, lean, weight stable, no disease, no lipid-lowering medication",
+          "pass_2_summary": "Inclusion criteria | Healthy, lean, weight stable, no disease, no lipid-lowering medication"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 6,
+          "pass_2_index": 6,
+          "alignment_score": 0.8846153846153846,
+          "pass_1_summary": "Study timing: pre-study food avoidance | 48 hours | hours",
+          "pass_2_summary": "Pre-study preparation - food avoidance | 48 hours | avoid foodstuffs naturally enriched in 13C | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 7,
+          "pass_2_index": 7,
+          "alignment_score": 0.7777777777777778,
+          "pass_1_summary": "Study timing: exercise and alcohol avoidance | 24 hours | hours",
+          "pass_2_summary": "Pre-study preparation - exercise and alcohol avoidance | 24 hours | refrain from strenuous exercise and alcohol | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 8,
+          "pass_2_index": 9,
+          "alignment_score": 0.16129032258064516,
+          "pass_1_summary": "Study timing: overnight fast | 12 | hours",
+          "pass_2_summary": "Fasting duration | overnight fast"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 9,
+          "pass_2_index": 14,
+          "alignment_score": 0.6818181818181818,
+          "pass_1_summary": "Study timing: total experiment duration | 7 | hours",
+          "pass_2_summary": "Infusion duration | 7 hours | continuous intravenous infusion | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 10,
+          "pass_2_index": 10,
+          "alignment_score": 0.9166666666666666,
+          "pass_1_summary": "Assay: body composition measurement | bioelectrical impedance analysis | bioelectrical impedance analysis",
+          "pass_2_summary": "Body composition measurement | bioelectrical impedance analysis | bioelectrical impedance analysis"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 11,
+          "pass_2_index": 11,
+          "alignment_score": 0.9736842105263158,
+          "pass_1_summary": "Assay: isotope tracer infusion | potassium [U-13C]palmitate | continuous intravenous infusion | mmol/kg per min",
+          "pass_2_summary": "Isotope tracer infusion | potassium [U-13C]palmitate | continuous intravenous infusion | mmol/kg per min"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 12,
+          "pass_2_index": 12,
+          "alignment_score": 0.5217391304347826,
+          "pass_1_summary": "Dosing: [U-13C]palmitate infusion rate | 0.04 | continuous intravenous infusion | mmol/kg per min",
+          "pass_2_summary": "Isotope tracer dose | 0.04 | continuous intravenous infusion | mmol/kg per min"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 13,
+          "pass_2_index": 15,
+          "alignment_score": 0.9444444444444444,
+          "pass_1_summary": "Assay: plasma metabolite analysis | enzymatic determination | enzymatic",
+          "pass_2_summary": "Plasma metabolite assay - NEFA, VLDL-TAG, 3-OHB | enzymatic determination | enzymatic"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 14,
+          "pass_2_index": 16,
+          "alignment_score": 0.9090909090909091,
+          "pass_1_summary": "Assay: plasma insulin measurement | RIA | RIA",
+          "pass_2_summary": "Plasma insulin assay | RIA | RIA"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 15,
+          "pass_2_index": 17,
+          "alignment_score": 0.7777777777777778,
+          "pass_1_summary": "Assay: VLDL isolation | sequential flotation using density gradient ultracentrifugation | density gradient ultracentrifugation",
+          "pass_2_summary": "VLDL isolation | VLDL1 (Sf 60-400) and VLDL2 (Sf 20-60) | sequential flotation using density gradient ultracentrifugation"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 16,
+          "pass_2_index": 18,
+          "alignment_score": 0.9230769230769231,
+          "pass_1_summary": "Assay: fatty acid analysis | GC and GC-MS | GC and GC-MS",
+          "pass_2_summary": "Fatty acid analysis | GC and GC-MS | GC and GC-MS"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 17,
+          "pass_2_index": 5,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Study timing: menstrual cycle phase | follicular phase",
+          "pass_2_summary": "Study timing - menstrual cycle phase | follicular phase"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Participant N | 12",
+          "pass_2_summary": "Participant N | 12"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 8,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Pre-study meal | low-fat meal"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 13,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Isotope tracer purity | 98%"
+        }
+      ],
+      "aligned_narrative_pairs": [
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 0.9285714285714286,
+          "pass_1_summary": "After 12h fasting, women had a more advantageous metabolic profile with lower plasma glucose and TAG but higher plasma NEFA concentrations",
+          "pass_2_summary": "After 12h fasting, women had lower plasma glucose and TAG concentrations but higher plasma NEFA concentrations than men"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 0.9333333333333333,
+          "pass_1_summary": "Plasma 3-hydroxybutyrate concentrations rose more in women than in men",
+          "pass_2_summary": "Plasma 3-hydroxybutyrate concentrations rose more in women than in men"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 0.8333333333333334,
+          "pass_1_summary": "The transfer of 13C from [U-13C]palmitate to plasma [13C]3-OHB reached a plateau 6–7h after the start of the infusion in women but was still increasing at 6h in men",
+          "pass_2_summary": "The transfer of 13C from palmitate to plasma 3-OHB reached a plateau 6-7h after infusion start in women but was still increasing at 6h in men"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 4,
+          "pass_2_index": 4,
+          "alignment_score": 1.0,
+          "pass_1_summary": "In women, systemic plasma fatty acids were the major source of 3-OHB production, but in men, this was not observed",
+          "pass_2_summary": "In women, systemic plasma fatty acids were the major source of 3-OHB production, but in men, this was not observed"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 5,
+          "pass_2_index": 5,
+          "alignment_score": 1.0,
+          "pass_1_summary": "There were no sex differences for the incorporation of 13C into VLDL-TAG",
+          "pass_2_summary": "There were no sex differences for the incorporation of 13C into VLDL-TAG"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 6,
+          "pass_2_index": 6,
+          "alignment_score": 1.0,
+          "pass_1_summary": "The ratio of [13C]3-OHB:[13C]VLDL-TAG in the plasma was significantly higher in women than in men",
+          "pass_2_summary": "The ratio of [13C]3-OHB:[13C]VLDL-TAG in plasma was significantly higher in women than in men"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 0.6857142857142857,
+          "pass_1_summary": "Young women partition fatty acids towards ketone body production rather than VLDL-TAG synthesis, compared with young men",
+          "pass_2_summary": "Young women partition fatty acids towards ketone body production rather than VLDL-TAG synthesis, compared with young men"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": null,
+          "pass_2_index": 7,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "In women, the observed isotopic enrichment of the fatty acid tracer in 3-OHB was close to that predicted if systemic plasma fatty acids were the sole source of 3-OHB production"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": null,
+          "pass_2_index": 8,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "In men, the observed enrichment was less than half expected, implying either an alternative source of fatty acids or a slower rate of production"
+        }
+      ],
+      "semantic_groups": [
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 0,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Pass 1 provides specific counts (6 men, 6 women); Pass 2 only states both sexes present. Same underlying fact, different specificity levels.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 1,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Pass 1 shows only men's age; Pass 2 shows both men (25.5) and women (22.5). Pass 1 is incomplete but not contradictory.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 2,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 claims to report women's age (22.5 years) but Pass 2 reports BMI data instead. These are different facts entirely.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 3,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 contains BMI inclusion criterion; Pass 2 is empty. Orphan entry from Pass 1.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 4,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe identical health status inclusion criteria with negligible wording differences (criterion vs criteria).",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both report 48-hour food avoidance pre-study. Pass 2 adds detail about 13C enrichment but core fact is identical.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 6,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both report 24-hour exercise and alcohol avoidance. Pass 2 adds clarification about strenuous exercise but core fact is identical.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 7,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Pass 1 specifies 12 hours; Pass 2 states 'overnight fast' without hours. Same fact, different expression of duration.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 8,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe 7-hour duration; pass_1 emphasizes total experiment duration while pass_2 specifies infusion duration, but both convey the same temporal fact",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 9,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical information about bioelectrical impedance analysis for body composition measurement; only minor labeling difference",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 10,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical descriptions of isotope tracer infusion method, substance, and units",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 11,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe 0.04 mmol/kg per min infusion rate via continuous IV; pass_1 specifies '[U-13C]palmitate' while pass_2 uses 'isotope tracer dose' but refer to same measurement",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 12,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe enzymatic determination for plasma metabolite analysis; pass_2 provides more specific metabolite list (NEFA, VLDL-TAG, 3-OHB) but same assay method",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 13,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical information about RIA method for plasma insulin measurement; only minor wording variation",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 14,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe density gradient ultracentrifugation for VLDL isolation; pass_2 adds specific Sf fractions (VLDL1 and VLDL2) providing additional detail but same core method",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 15,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical information about GC and GC-MS for fatty acid analysis",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 16,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe follicular phase timing; only punctuation differs (colon vs dash)",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 17,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical participant count of 12",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 18,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pre-study meal information only in pass_2; missing from pass_1",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 19,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Isotope tracer purity information only in pass_2; missing from pass_1",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 0,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Pass 1 uses 'more advantageous metabolic profile' as framing while Pass 2 directly states the comparison with men. Both convey identical factual content about glucose, TAG, and NEFA levels.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both extractions are identical in wording and content.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 2,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Pass 1 includes isotopic notation '[U-13C]palmitate' and '[13C]3-OHB' while Pass 2 simplifies to 'palmitate' and '3-OHB'. The factual content about timing and sex differences is identical.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 3,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both extractions are identical in wording and content.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 4,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both extractions are identical in wording and content.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Negligible difference: Pass 1 includes 'the' before 'plasma' while Pass 2 omits it. Content is identical.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 6,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both extractions are identical in wording and content.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 7,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 is empty while Pass 2 contains a valid extraction about isotopic enrichment in women. This is an orphan statement from Pass 2.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 8,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 is empty while Pass 2 contains a specific finding about fatty acid enrichment in men. No comparison possible.",
+          "recommended_action": "human_review"
+        }
+      ]
+    }
+  }
+}

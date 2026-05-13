@@ -1,0 +1,2167 @@
+{
+  "paper_id": "jcem3646-268bddf5e09c",
+  "source_file": "papers/jcem3646.pdf",
+  "metadata": {
+    "title": "Gender-Related Differences in the Metabolic Response to Fasting",
+    "authors": [
+      "Maarten R. Soeters",
+      "Hans P. Sauerwein",
+      "Johanna E. Groener",
+      "Johannes M. Aerts",
+      "Mariëtte T. Ackermans",
+      "Jan F. C. Glatz",
+      "Eric Fliers",
+      "Mireille J. Serlie"
+    ],
+    "year": 2007,
+    "journal": "The Journal of Clinical Endocrinology & Metabolism",
+    "study_design": "Experimental study with hyperinsulinemic euglycemic clamp",
+    "demographics": "Ten male and ten female subjects, age 18-35 years, Caucasian race, BMI 20-25 kg/m2, no excessive sport activities, no medication",
+    "evidence": [
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3646,
+        "quote": "Gender-Related Differences in the Metabolic Response to Fasting",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3646,
+        "quote": "TheJournalofClinicalEndocrinology&Metabolism92(9):3646–3652",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3646,
+        "quote": "Copyright©2007byTheEndocrineSociety",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3647,
+        "quote": "Tenmaleand10femalesubjectswererecruitedviaadvertisementsinlocalmagazines. Criteriaforinclusionwere1)absenceofafamilyhistoryofdiabetes;2)age18–35yr;3)Caucasianrace;4)bodymassindex(BMI)20–25kg/m2;5)noexcessivesportactivities,i.e.fewerthanthreetimesperweek;and6)nomedication.",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3647,
+        "quote": "Afteran38hoffasting,measurementsofglucoseandlipidfluxesandmuscleceramideandfattyacidtranslocase/CD36wereperformedbeforeandafterahyperinsulinemiceuglycemicclamp",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Participant N",
+      "value": "10 male and 10 female subjects",
+      "method": null,
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Ten male and 10 female subjects were recruited via advertisements in local magazines.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Age inclusion criteria",
+      "value": "18-35 years",
+      "method": null,
+      "unit": "years",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Criteria for inclusion were 1) absence of a family history of diabetes; 2) age 18–35 yr",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "BMI inclusion criteria",
+      "value": "20-25",
+      "method": null,
+      "unit": "kg/m2",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "4) body mass index (BMI) 20–25 kg/m2",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Fasting duration",
+      "value": "38 hours",
+      "method": null,
+      "unit": "hours",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "the subjects were fasting from 2000 h 2 d before the start of the study until the end of the study",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Stable isotope tracer - glucose",
+      "value": "[6,6-2H]Glucose",
+      "method": "stable isotope technique",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "[6,6-2H]Glucose and [1,1,2,3,3-2H]glycerol were used as tracers (≥99% enriched; Cambridge Isotopes, Andover, MA).",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Stable isotope tracer - glycerol",
+      "value": "[1,1,2,3,3-2H5]Glycerol",
+      "method": "stable isotope technique",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "To study total triglyceride hydrolysis, we used [1,1,2,3,3-2H5]glycerol.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Insulin infusion rate",
+      "value": "60",
+      "method": "hyperinsulinemic euglycemic clamp",
+      "unit": "mU/m2·min",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "infusions of insulin (60 mU/m2·min) (Actrapid 100 IU/ml; Novo Nordisk Farma B.V., Alphen aan den Rijn, The Netherlands)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood sampling frequency - basal",
+      "value": "Every 5 minutes",
+      "method": "arterial sampling",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Plasma glucose levels were measured every 5 min at the bedside.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood sampling - enrichment determination",
+      "value": "5-minute intervals",
+      "method": "stable isotope enrichment",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "At T = 8 h, five blood samples were drawn at 5-min intervals for determination of glucose and glycerol enrichments.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body composition measurement",
+      "value": "Bioelectrical impedance analysis",
+      "method": "Maltron BF906",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Body composition was measured with bioelectrical impedance analysis (Maltron BF906; Maltron, Rayleigh, UK).",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Indirect calorimetry measurement duration",
+      "value": "Final 20 minutes",
+      "method": "ventilated hood system",
+      "unit": "minutes",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Oxygen consumption (VO2) and CO2 production (VCO2) were measured continuously during the final 20 min of both the basal state and the hyperinsulinemic euglycemic clamp by indirect calorimetry using a ventilated hood system",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Muscle biopsy anesthesia",
+      "value": "Lidocaine 20 mg/ml",
+      "method": "local anesthesia",
+      "unit": "mg/ml",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "The muscle biopsy was performed under local anesthesia (lidocaine 20 mg/ml; Fresenius Kabi, Den Bosch, The Netherlands)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucose measurement method",
+      "value": "Glucose oxidase method",
+      "method": "Beckman Glucose Analyzer 2",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Plasma glucose concentrations were measured with the glucose oxidase method using a Beckman Glucose Analyzer 2 (Beckman, Palo Alto, CA) with intraassay variation of 2–3%.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "FFA measurement method",
+      "value": "Enzymatic colorimetric method",
+      "method": "NEFA-C test kit",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Plasma FFA concentrations were determined with an enzymatic colorimetric method (NEFA-C test kit; Wako Chemicals GmbH, Neuss, Germany)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Insulin measurement method",
+      "value": "Chemiluminescent immunometric assay",
+      "method": "Immulite 2000 system",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Insulin was measured with a chemiluminescent immunometric assay with intraassay variation of 3–6%, interassay variation of 4–6%, and detection limit of 15 pmol/liter.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Cortisol measurement method",
+      "value": "Chemiluminescent immunoassay",
+      "method": "Immulite 2000 system",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Cortisol was measured with a chemiluminescent immunoassay with intraassay variation of 7–8%, interassay variation of 7–8%, and detection limit of 50 nmol/liter.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucagon measurement method",
+      "value": "RIA",
+      "method": "Linco 125I RIA",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Glucagon was determined with the Linco 125I RIA (Linco Research, St. Charles, MO) with an intraassay variation of 9–10%, interassay variation of 5–7%, and detection limit of 15 ng/liter.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Adiponectin measurement method",
+      "value": "RIA",
+      "method": "Linco RIA",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Adiponectin was determined by a RIA (Linco) with intraassay variation of 2–7%, interassay variation of 16–17%, and detection limit of 1 ng/ml.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Ceramide and glucosylceramide measurement method",
+      "value": "HPLC method",
+      "method": "HPLC",
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Ceramide and glucosylceramide in muscle biopsies were measured with an HPLC method as described (33).",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Women menstrual cycle phase",
+      "value": "Follicular phase",
+      "method": null,
+      "unit": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Women were studied during the follicular phase of the menstrual cycle.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Pre-study diet carbohydrate content",
+      "value": "At least 250 grams per day",
+      "method": "weight-maintaining diet",
+      "unit": "grams/day",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "For 3 d before the fasting period, all volunteers consumed a weight-maintaining diet containing at least 250 g carbohydrates per day.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Saline infusion rate",
+      "value": "50",
+      "method": "catheter patency maintenance",
+      "unit": "ml/h",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "saline was infused as NaCl 0.9% at a rate of 50 ml/h to keep the catheters patent.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucose prime dose",
+      "value": "8.8",
+      "method": "stable isotope infusion",
+      "unit": "μmol/kg",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "[6,6-2H]glucose (prime, 8.8 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucose continuous infusion rate",
+      "value": "0.11",
+      "method": "stable isotope infusion",
+      "unit": "μmol/kg·min",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "[6,6-2H]glucose (prime, 8.8 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glycerol prime dose",
+      "value": "1.6",
+      "method": "stable isotope infusion",
+      "unit": "μmol/kg",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "[1,1,2,3,3-2H]glycerol (prime, 1.6 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glycerol continuous infusion rate",
+      "value": "0.11",
+      "method": "stable isotope infusion",
+      "unit": "μmol/kg·min",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "[1,1,2,3,3-2H]glycerol (prime, 1.6 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Equilibration period duration",
+      "value": "2 hours",
+      "method": null,
+      "unit": "hours",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "After an equilibration period of 2 h (38 h of fasting), three blood samples were drawn for glucose and glycerol enrichments",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucose target level during clamp",
+      "value": "5",
+      "method": "hyperinsulinemic euglycemic clamp",
+      "unit": "mmol/liter",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "glucose 20% (to maintain a plasma glucose level of 5 mmol/liter)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucose enrichment target during clamp",
+      "value": "1%",
+      "method": "stable isotope enrichment",
+      "unit": "%",
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "[6,6-2H]Glucose was added to the 20% glucose solution to achieve glucose enrichments of 1%",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Plasma glucose levels were significantly lower in women than men after 38 h of fasting",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "Plasma glucose levels were significantly lower in women than men with a trend for a lower endogenous glucose production in women",
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "In the female group, plasma glucose concentrations were significantly lower after 38 h of fasting compared with the male group",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Basal plasma FFA were significantly higher in women compared with men",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "FFA and lipolysis were significantly higher",
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Basal plasma FFA were significantly higher in women compared with men but were equally suppressed during the hyperinsulinemic euglycemic clamp in both groups",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Insulin-mediated peripheral glucose uptake was not different between sexes",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "Insulin-mediated peripheral glucose uptake was not different between sexes",
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Insulin-mediated peripheral glucose uptake during the clamp (Rd) did not differ significantly between men and women",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "There was no gender difference in muscle ceramide in the basal state",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "There was no gender difference in muscle ceramide in the basal state",
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Muscle ceramide concentrations in the basal state were not different between sexes",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Ceramide did not correlate with peripheral glucose uptake",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "ceramide did not correlate with peripheral glucose uptake",
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "No correlation was found between insulin-mediated peripheral glucose uptake and muscle ceramide or glucosylceramide levels in women and men",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Muscle fatty acid translocase/CD36 was not different between sexes in the basal state and during the clamp",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "Muscle fatty acid translocase/CD36 was not different between sexes in the basal state and during the clamp",
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "There were no differences in muscle FAT/CD36 content between women and men during both the basal state and the hyperinsulinemic euglycemic clamp",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Adiponectin was significantly higher in females in both the basal state and during the clamp",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Adiponectin was significantly higher in females in both the basal state and during the clamp",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Women had significantly higher lipolysis rates in the basal state when expressed in micromoles per kilocalorie but not during the clamp",
+      "relationship": null,
+      "confidence": 0.95,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "when expressed in micromoles per kilocalorie, it was shown that women had significantly higher lipolysis rates in the basal state but not during the clamp",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Women are relatively protected from FFA-induced insulin resistance by preventing myocellular accumulation of ceramide",
+      "relationship": null,
+      "confidence": 0.85,
+      "extraction_method": "llm",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "We suggest that during fasting, women are relatively protected from FFA-induced insulin resistance by preventing myocellular accumulation of ceramide",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [
+    {
+      "figure_id": "fig_p5_i1",
+      "page": 5,
+      "bbox": [
+        75.48290252685547,
+        538.6163940429688,
+        240.55020141601562,
+        695.6163940429688
+      ],
+      "caption": "FIG. 1. Muscle ceramide content in men (f) and women (\u0002) in the",
+      "image_sha256": "c3d2ff22ab69a50ee48803d114e7ead0f11ba525da20b7076ac7c931a39f37a0",
+      "image_path": "/home/pjrei/Fasting-Atlas/artifacts/jcem3646-268bddf5e09c/fig_p5_i1_xref43.png",
+      "extraction_method": "embedded_image",
+      "confidence": 0.85,
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 5,
+          "quote": "FIG. 1. Muscle ceramide content in men (f) and women (\u0002) in the",
+          "bbox": [
+            75.48290252685547,
+            538.6163940429688,
+            240.55020141601562,
+            695.6163940429688
+          ]
+        }
+      ],
+      "digitized_series": [],
+      "digitization_metadata": {}
+    },
+    {
+      "figure_id": "fig_p5_i2",
+      "page": 5,
+      "bbox": [
+        338.46868896484375,
+        526.6163940429688,
+        517.501220703125,
+        695.6163940429688
+      ],
+      "caption": "FIG. 1. Muscle ceramide content in men (f) and women (\u0002) in the",
+      "image_sha256": "251c74e5c4bca7a7a0b639b80cb499542ad9f4ed1ef6f34676a37658c7822ac8",
+      "image_path": "/home/pjrei/Fasting-Atlas/artifacts/jcem3646-268bddf5e09c/fig_p5_i2_xref44.png",
+      "extraction_method": "embedded_image",
+      "confidence": 0.85,
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 5,
+          "quote": "FIG. 1. Muscle ceramide content in men (f) and women (\u0002) in the",
+          "bbox": [
+            338.46868896484375,
+            526.6163940429688,
+            517.501220703125,
+            695.6163940429688
+          ]
+        }
+      ],
+      "digitized_series": [],
+      "digitization_metadata": {}
+    }
+  ],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [
+        {
+          "path": "semantic.methods_participants[pair=3]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes glucose tracer type, Pass 2 describes glycerol tracer dose - different parameters entirely",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=4]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes glycerol tracer type, Pass 2 describes glycerol tracer continuous infusion dose - different parameters",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=6]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes basal sampling frequency, Pass 2 describes specific glucose/glycerol enrichment sampling at T=8h - different sampling protocols",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=7]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes enrichment sampling intervals, Pass 2 describes glucose tracer prime dose - completely different parameters",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=9]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 specifies only final 20 minutes. Pass 2 specifies two separate 20-minute periods (basal state and clamp). Different measurement protocols.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=21]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass_1 describes glucose prime dose (8.8 μmol/kg); pass_2 describes continuous infusion rate (0.11 μmol/kg·min). Different parameters and units indicate distinct measurements",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=26]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes glucose target level during clamp (5 mmol/liter); Pass 2 describes muscle biopsy timing - completely different parameters",
+          "severity": "high"
+        }
+      ],
+      "needs_human_review": true,
+      "structural_discrepancies": [
+        {
+          "path": "methods_participants",
+          "pass_1_value": "len=29",
+          "pass_2_value": "len=24",
+          "severity": "medium"
+        },
+        {
+          "path": "methods_participants[2].evidence[0].quote",
+          "pass_1_value": "4) body mass index (BMI) 20–25 kg/m2",
+          "pass_2_value": "Criteria for inclusion were... 4) body mass index (BMI) 20–25 kg/m2",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].value",
+          "pass_1_value": "20-25",
+          "pass_2_value": "20-25 kg/m2",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].evidence[0].quote",
+          "pass_1_value": "the subjects were fasting from 2000 h 2 d before the start of the study until the end of the study",
+          "pass_2_value": "For 3 d before the fasting period, all volunteers consumed a weight-maintaining diet containing at least 250 g carbohydrates per day. Then, the subjects were fasting from 2000 h 2 d before the start of the study until the end of the study.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].evidence[0].page",
+          "pass_1_value": 3647,
+          "pass_2_value": 3648,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].evidence[0].quote",
+          "pass_1_value": "[6,6-2H]Glucose and [1,1,2,3,3-2H]glycerol were used as tracers (≥99% enriched; Cambridge Isotopes, Andover, MA).",
+          "pass_2_value": "Plasma glucose concentrations were measured with the glucose oxidase method using a Beckman Glucose Analyzer 2 (Beckman, Palo Alto, CA) with intraassay variation of 2–3%.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].label",
+          "pass_1_value": "Stable isotope tracer - glucose",
+          "pass_2_value": "Glucose measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].method",
+          "pass_1_value": "stable isotope technique",
+          "pass_2_value": "glucose oxidase method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].value",
+          "pass_1_value": "[6,6-2H]Glucose",
+          "pass_2_value": "Glucose oxidase method using Beckman Glucose Analyzer 2",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].evidence[0].page",
+          "pass_1_value": 3647,
+          "pass_2_value": 3648,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].evidence[0].quote",
+          "pass_1_value": "To study total triglyceride hydrolysis, we used [1,1,2,3,3-2H5]glycerol.",
+          "pass_2_value": "Plasma FFA concentrations were determined with an enzymatic colorimetric method (NEFA-C test kit; Wako Chemicals GmbH, Neuss, Germany) with intraassay variation of 1%, interassay variation of 4–15%, and detection limit of 0.02 mmol/liter.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].label",
+          "pass_1_value": "Stable isotope tracer - glycerol",
+          "pass_2_value": "Plasma FFA measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].method",
+          "pass_1_value": "stable isotope technique",
+          "pass_2_value": "enzymatic colorimetric method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].value",
+          "pass_1_value": "[1,1,2,3,3-2H5]Glycerol",
+          "pass_2_value": "Enzymatic colorimetric method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].evidence[0].quote",
+          "pass_1_value": "infusions of insulin (60 mU/m2·min) (Actrapid 100 IU/ml; Novo Nordisk Farma B.V., Alphen aan den Rijn, The Netherlands)",
+          "pass_2_value": "Thereafter (T = 3 h), infusions of insulin (60 mU/m2·min) (Actrapid 100 IU/ml; Novo Nordisk Farma B.V., Alphen aan den Rijn, The Netherlands)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].label",
+          "pass_1_value": "Insulin infusion rate",
+          "pass_2_value": "Insulin infusion rate during clamp",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].method",
+          "pass_1_value": "hyperinsulinemic euglycemic clamp",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[6].value",
+          "pass_1_value": "60",
+          "pass_2_value": "60 mU/m2·min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].evidence[0].quote",
+          "pass_1_value": "Plasma glucose levels were measured every 5 min at the bedside.",
+          "pass_2_value": "[6,6-2H2]glucose (prime, 8.8 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].label",
+          "pass_1_value": "Blood sampling frequency - basal",
+          "pass_2_value": "Glucose tracer dose - prime",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].method",
+          "pass_1_value": "arterial sampling",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[7].unit",
+          "pass_1_value": null,
+          "pass_2_value": "μmol/kg",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[7].value",
+          "pass_1_value": "Every 5 minutes",
+          "pass_2_value": "8.8 μmol/kg",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].evidence[0].quote",
+          "pass_1_value": "At T = 8 h, five blood samples were drawn at 5-min intervals for determination of glucose and glycerol enrichments.",
+          "pass_2_value": "[6,6-2H2]glucose (prime, 8.8 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].label",
+          "pass_1_value": "Blood sampling - enrichment determination",
+          "pass_2_value": "Glucose tracer dose - continuous",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].method",
+          "pass_1_value": "stable isotope enrichment",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[8].unit",
+          "pass_1_value": null,
+          "pass_2_value": "μmol/kg·min",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[8].value",
+          "pass_1_value": "5-minute intervals",
+          "pass_2_value": "0.11 μmol/kg·min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].evidence[0].quote",
+          "pass_1_value": "Body composition was measured with bioelectrical impedance analysis (Maltron BF906; Maltron, Rayleigh, UK).",
+          "pass_2_value": "[1,1,2,3,3-2H5]glycerol (prime, 1.6 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].label",
+          "pass_1_value": "Body composition measurement",
+          "pass_2_value": "Glycerol tracer dose - prime",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].method",
+          "pass_1_value": "Maltron BF906",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[9].unit",
+          "pass_1_value": null,
+          "pass_2_value": "μmol/kg",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[9].value",
+          "pass_1_value": "Bioelectrical impedance analysis",
+          "pass_2_value": "1.6 μmol/kg",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].evidence[0].quote",
+          "pass_1_value": "Oxygen consumption (VO2) and CO2 production (VCO2) were measured continuously during the final 20 min of both the basal state and the hyperinsulinemic euglycemic clamp by indirect calorimetry using a ventilated hood system",
+          "pass_2_value": "[1,1,2,3,3-2H5]glycerol (prime, 1.6 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].label",
+          "pass_1_value": "Indirect calorimetry measurement duration",
+          "pass_2_value": "Glycerol tracer dose - continuous",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].method",
+          "pass_1_value": "ventilated hood system",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[10].unit",
+          "pass_1_value": "minutes",
+          "pass_2_value": "μmol/kg·min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].value",
+          "pass_1_value": "Final 20 minutes",
+          "pass_2_value": "0.11 μmol/kg·min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].evidence[0].quote",
+          "pass_1_value": "The muscle biopsy was performed under local anesthesia (lidocaine 20 mg/ml; Fresenius Kabi, Den Bosch, The Netherlands)",
+          "pass_2_value": "At T = 8 h, five blood samples were drawn at 5-min intervals for determination of glucose and glycerol enrichments.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].label",
+          "pass_1_value": "Muscle biopsy anesthesia",
+          "pass_2_value": "Blood sampling timing - glucose and glycerol enrichments",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].method",
+          "pass_1_value": "local anesthesia",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[11].unit",
+          "pass_1_value": "mg/ml",
+          "pass_2_value": "minutes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].value",
+          "pass_1_value": "Lidocaine 20 mg/ml",
+          "pass_2_value": "Every 5 minutes for 5 samples at T=8h",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].evidence[0].page",
+          "pass_1_value": 3648,
+          "pass_2_value": 3647,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].evidence[0].quote",
+          "pass_1_value": "Plasma glucose concentrations were measured with the glucose oxidase method using a Beckman Glucose Analyzer 2 (Beckman, Palo Alto, CA) with intraassay variation of 2–3%.",
+          "pass_2_value": "Muscle biopsies were performed to assess muscle content of ceramide, glucosylceramide, and FAT/CD36 at the end of both the basal state and the hyperinsulinemic euglycemic clamp.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].label",
+          "pass_1_value": "Glucose measurement method",
+          "pass_2_value": "Muscle biopsy timing",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].method",
+          "pass_1_value": "Beckman Glucose Analyzer 2",
+          "pass_2_value": "Pro-Mag I biopsy needle",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].value",
+          "pass_1_value": "Glucose oxidase method",
+          "pass_2_value": "End of basal state and end of hyperinsulinemic euglycemic clamp",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].evidence[0].page",
+          "pass_1_value": 3648,
+          "pass_2_value": 3647,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].evidence[0].quote",
+          "pass_1_value": "Plasma FFA concentrations were determined with an enzymatic colorimetric method (NEFA-C test kit; Wako Chemicals GmbH, Neuss, Germany)",
+          "pass_2_value": "Oxygen consumption (VO2) and CO2 production (VCO2) were measured continuously during the final 20 min of both the basal state and the hyperinsulinemic euglycemic clamp by indirect calorimetry using a ventilated hood system",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].label",
+          "pass_1_value": "FFA measurement method",
+          "pass_2_value": "Indirect calorimetry timing",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].method",
+          "pass_1_value": "NEFA-C test kit",
+          "pass_2_value": "ventilated hood system",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].unit",
+          "pass_1_value": null,
+          "pass_2_value": "minutes",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[13].value",
+          "pass_1_value": "Enzymatic colorimetric method",
+          "pass_2_value": "Final 20 minutes of basal state and final 20 minutes of hyperinsulinemic euglycemic clamp",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].method",
+          "pass_1_value": "Immulite 2000 system",
+          "pass_2_value": "chemiluminescent immunometric assay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].method",
+          "pass_1_value": "Immulite 2000 system",
+          "pass_2_value": "chemiluminescent immunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].method",
+          "pass_1_value": "Linco 125I RIA",
+          "pass_2_value": "RIA",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].value",
+          "pass_1_value": "RIA",
+          "pass_2_value": "Linco 125I RIA",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].evidence[0].quote",
+          "pass_1_value": "Adiponectin was determined by a RIA (Linco) with intraassay variation of 2–7%, interassay variation of 16–17%, and detection limit of 1 ng/ml.",
+          "pass_2_value": "Norepinephrine and epinephrine were determined with an in-house HPLC method.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].label",
+          "pass_1_value": "Adiponectin measurement method",
+          "pass_2_value": "Catecholamine measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].method",
+          "pass_1_value": "Linco RIA",
+          "pass_2_value": "HPLC",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].value",
+          "pass_1_value": "RIA",
+          "pass_2_value": "In-house HPLC method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].evidence[0].quote",
+          "pass_1_value": "Ceramide and glucosylceramide in muscle biopsies were measured with an HPLC method as described (33).",
+          "pass_2_value": "Adiponectin was determined by a RIA (Linco) with intraassay variation of 2–7%, interassay variation of 16–17%, and detection limit of 1 ng/ml.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].label",
+          "pass_1_value": "Ceramide and glucosylceramide measurement method",
+          "pass_2_value": "Adiponectin measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].method",
+          "pass_1_value": "HPLC",
+          "pass_2_value": "RIA",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].value",
+          "pass_1_value": "HPLC method",
+          "pass_2_value": "RIA",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].evidence[0].page",
+          "pass_1_value": 3647,
+          "pass_2_value": 3648,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].evidence[0].quote",
+          "pass_1_value": "Women were studied during the follicular phase of the menstrual cycle.",
+          "pass_2_value": "Ceramide and glucosylceramide in muscle biopsies were measured with an HPLC method as described (33).",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].label",
+          "pass_1_value": "Women menstrual cycle phase",
+          "pass_2_value": "Ceramide and glucosylceramide measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].method",
+          "pass_1_value": null,
+          "pass_2_value": "HPLC",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[19].value",
+          "pass_1_value": "Follicular phase",
+          "pass_2_value": "HPLC method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].evidence[0].quote",
+          "pass_1_value": "For 3 d before the fasting period, all volunteers consumed a weight-maintaining diet containing at least 250 g carbohydrates per day.",
+          "pass_2_value": "Body composition was measured with bioelectrical impedance analysis (Maltron BF906; Maltron, Rayleigh, UK).",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].label",
+          "pass_1_value": "Pre-study diet carbohydrate content",
+          "pass_2_value": "Body composition measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].method",
+          "pass_1_value": "weight-maintaining diet",
+          "pass_2_value": "bioelectrical impedance analysis",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].unit",
+          "pass_1_value": "grams/day",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[20].value",
+          "pass_1_value": "At least 250 grams per day",
+          "pass_2_value": "Bioelectrical impedance analysis",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].evidence[0].quote",
+          "pass_1_value": "saline was infused as NaCl 0.9% at a rate of 50 ml/h to keep the catheters patent.",
+          "pass_2_value": "Women were studied during the follicular phase of the menstrual cycle.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].label",
+          "pass_1_value": "Saline infusion rate",
+          "pass_2_value": "Women menstrual cycle phase",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].method",
+          "pass_1_value": "catheter patency maintenance",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[21].unit",
+          "pass_1_value": "ml/h",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[21].value",
+          "pass_1_value": "50",
+          "pass_2_value": "Follicular phase",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].evidence[0].quote",
+          "pass_1_value": "[6,6-2H]glucose (prime, 8.8 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "pass_2_value": "Criteria for inclusion were... 5) no excessive sport activities, i.e. fewer than three times per week",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].label",
+          "pass_1_value": "Glucose prime dose",
+          "pass_2_value": "Sport activity inclusion criteria",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].method",
+          "pass_1_value": "stable isotope infusion",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[22].unit",
+          "pass_1_value": "μmol/kg",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[22].value",
+          "pass_1_value": "8.8",
+          "pass_2_value": "Fewer than three times per week",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].evidence[0].quote",
+          "pass_1_value": "[6,6-2H]glucose (prime, 8.8 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "pass_2_value": "Criteria for inclusion were... 3) Caucasian race",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].label",
+          "pass_1_value": "Glucose continuous infusion rate",
+          "pass_2_value": "Race inclusion criteria",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].method",
+          "pass_1_value": "stable isotope infusion",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[23].unit",
+          "pass_1_value": "μmol/kg·min",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[23].value",
+          "pass_1_value": "0.11",
+          "pass_2_value": "Caucasian",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results",
+          "pass_1_value": "len=10",
+          "pass_2_value": "len=11",
+          "severity": "medium"
+        },
+        {
+          "path": "narrative_results[0].evidence[0].quote",
+          "pass_1_value": "Plasma glucose levels were significantly lower in women than men with a trend for a lower endogenous glucose production in women",
+          "pass_2_value": "Plasma glucose levels were significantly lower in women than men",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[0].evidence[1].page",
+          "pass_1_value": 3648,
+          "pass_2_value": 3649,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[0].statement",
+          "pass_1_value": "Plasma glucose levels were significantly lower in women than men after 38 h of fasting",
+          "pass_2_value": "Plasma glucose levels were significantly lower in women than men",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[1].evidence[0].quote",
+          "pass_1_value": "FFA and lipolysis were significantly higher",
+          "pass_2_value": "Basal plasma FFA were significantly higher in women compared with men",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[4].evidence[1].quote",
+          "pass_1_value": "No correlation was found between insulin-mediated peripheral glucose uptake and muscle ceramide or glucosylceramide levels in women and men",
+          "pass_2_value": "No correlation was found between insulin-mediated peripheral glucose uptake and the muscle ceramide or glucosylceramide levels in women and men",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].confidence",
+          "pass_1_value": 0.95,
+          "pass_2_value": 0.85,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].evidence",
+          "pass_1_value": "len=1",
+          "pass_2_value": "len=2",
+          "severity": "medium"
+        },
+        {
+          "path": "narrative_results[6].evidence[0].page",
+          "pass_1_value": 3648,
+          "pass_2_value": 3646,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].evidence[0].quote",
+          "pass_1_value": "Adiponectin was significantly higher in females in both the basal state and during the clamp",
+          "pass_2_value": "there was a trend for a lower endogenous glucose production in women",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].statement",
+          "pass_1_value": "Adiponectin was significantly higher in females in both the basal state and during the clamp",
+          "pass_2_value": "Basal endogenous glucose production tended to be lower in women",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[7].evidence[0].quote",
+          "pass_1_value": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp",
+          "pass_2_value": "Adiponectin was significantly higher in females in both the basal state and during the clamp",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[7].statement",
+          "pass_1_value": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp",
+          "pass_2_value": "Adiponectin was significantly higher in females in both the basal state and during the clamp",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[8].evidence[0].quote",
+          "pass_1_value": "when expressed in micromoles per kilocalorie, it was shown that women had significantly higher lipolysis rates in the basal state but not during the clamp",
+          "pass_2_value": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[8].statement",
+          "pass_1_value": "Women had significantly higher lipolysis rates in the basal state when expressed in micromoles per kilocalorie but not during the clamp",
+          "pass_2_value": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[9].confidence",
+          "pass_1_value": 0.85,
+          "pass_2_value": 0.9,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[9].evidence[0].page",
+          "pass_1_value": 3646,
+          "pass_2_value": 3649,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[9].evidence[0].quote",
+          "pass_1_value": "We suggest that during fasting, women are relatively protected from FFA-induced insulin resistance by preventing myocellular accumulation of ceramide",
+          "pass_2_value": "if expressed as flux per REE, women displayed a higher rate of lipolysis",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[9].statement",
+          "pass_1_value": "Women are relatively protected from FFA-induced insulin resistance by preventing myocellular accumulation of ceramide",
+          "pass_2_value": "Women displayed a higher rate of lipolysis when expressed as flux per resting energy expenditure",
+          "severity": "low"
+        }
+      ],
+      "aligned_method_pairs": [
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Age inclusion criteria | 18-35 years | years",
+          "pass_2_summary": "Age inclusion criteria | 18-35 years | years"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 0.8461538461538461,
+          "pass_1_summary": "BMI inclusion criteria | 20-25 | kg/m2",
+          "pass_2_summary": "BMI inclusion criteria | 20-25 kg/m2 | kg/m2"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 0.5,
+          "pass_1_summary": "Fasting duration | 38 hours | hours",
+          "pass_2_summary": "Fasting duration | 38 hours | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 4,
+          "pass_2_index": 9,
+          "alignment_score": 0.24242424242424243,
+          "pass_1_summary": "Stable isotope tracer - glucose | [6,6-2H]Glucose | stable isotope technique",
+          "pass_2_summary": "Glycerol tracer dose - prime | 1.6 μmol/kg | μmol/kg"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 5,
+          "pass_2_index": 10,
+          "alignment_score": 0.2962962962962963,
+          "pass_1_summary": "Stable isotope tracer - glycerol | [1,1,2,3,3-2H5]Glycerol | stable isotope technique",
+          "pass_2_summary": "Glycerol tracer dose - continuous | 0.11 μmol/kg·min | μmol/kg·min"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 6,
+          "pass_2_index": 6,
+          "alignment_score": 0.7941176470588235,
+          "pass_1_summary": "Insulin infusion rate | 60 | hyperinsulinemic euglycemic clamp | mU/m2·min",
+          "pass_2_summary": "Insulin infusion rate during clamp | 60 mU/m2·min | mU/m2·min"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 7,
+          "pass_2_index": 11,
+          "alignment_score": 0.2647058823529412,
+          "pass_1_summary": "Blood sampling frequency - basal | Every 5 minutes | arterial sampling",
+          "pass_2_summary": "Blood sampling timing - glucose and glycerol enrichments | Every 5 minutes for 5 samples at T=8h | minutes"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 8,
+          "pass_2_index": 7,
+          "alignment_score": 0.1388888888888889,
+          "pass_1_summary": "Blood sampling - enrichment determination | 5-minute intervals | stable isotope enrichment",
+          "pass_2_summary": "Glucose tracer dose - prime | 8.8 μmol/kg | μmol/kg"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 9,
+          "pass_2_index": 20,
+          "alignment_score": 0.9333333333333333,
+          "pass_1_summary": "Body composition measurement | Bioelectrical impedance analysis | Maltron BF906",
+          "pass_2_summary": "Body composition measurement method | Bioelectrical impedance analysis | bioelectrical impedance analysis"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 10,
+          "pass_2_index": 13,
+          "alignment_score": 0.8611111111111112,
+          "pass_1_summary": "Indirect calorimetry measurement duration | Final 20 minutes | ventilated hood system | minutes",
+          "pass_2_summary": "Indirect calorimetry timing | Final 20 minutes of basal state and final 20 minutes of hyperinsulinemic euglycemic clamp | ventilated hood system | minutes"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 11,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Muscle biopsy anesthesia | Lidocaine 20 mg/ml | local anesthesia | mg/ml",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 12,
+          "pass_2_index": 4,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Glucose measurement method | Glucose oxidase method | Beckman Glucose Analyzer 2",
+          "pass_2_summary": "Glucose measurement method | Glucose oxidase method using Beckman Glucose Analyzer 2 | glucose oxidase method"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 13,
+          "pass_2_index": 5,
+          "alignment_score": 0.5789473684210527,
+          "pass_1_summary": "FFA measurement method | Enzymatic colorimetric method | NEFA-C test kit",
+          "pass_2_summary": "Plasma FFA measurement method | Enzymatic colorimetric method | enzymatic colorimetric method"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 14,
+          "pass_2_index": 14,
+          "alignment_score": 0.8928571428571429,
+          "pass_1_summary": "Insulin measurement method | Chemiluminescent immunometric assay | Immulite 2000 system",
+          "pass_2_summary": "Insulin measurement method | Chemiluminescent immunometric assay | chemiluminescent immunometric assay"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 15,
+          "pass_2_index": 15,
+          "alignment_score": 0.8888888888888888,
+          "pass_1_summary": "Cortisol measurement method | Chemiluminescent immunoassay | Immulite 2000 system",
+          "pass_2_summary": "Cortisol measurement method | Chemiluminescent immunoassay | chemiluminescent immunoassay"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 16,
+          "pass_2_index": 16,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Glucagon measurement method | RIA | Linco 125I RIA",
+          "pass_2_summary": "Glucagon measurement method | Linco 125I RIA | RIA"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 17,
+          "pass_2_index": 18,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Adiponectin measurement method | RIA | Linco RIA",
+          "pass_2_summary": "Adiponectin measurement method | RIA | RIA"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 18,
+          "pass_2_index": 19,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Ceramide and glucosylceramide measurement method | HPLC method | HPLC",
+          "pass_2_summary": "Ceramide and glucosylceramide measurement method | HPLC method | HPLC"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 19,
+          "pass_2_index": 21,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Women menstrual cycle phase | Follicular phase",
+          "pass_2_summary": "Women menstrual cycle phase | Follicular phase"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 20,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Pre-study diet carbohydrate content | At least 250 grams per day | weight-maintaining diet | grams/day",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 21,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Saline infusion rate | 50 | catheter patency maintenance | ml/h",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 22,
+          "pass_2_index": 8,
+          "alignment_score": 0.5789473684210527,
+          "pass_1_summary": "Glucose prime dose | 8.8 | stable isotope infusion | μmol/kg",
+          "pass_2_summary": "Glucose tracer dose - continuous | 0.11 μmol/kg·min | μmol/kg·min"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 23,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Glucose continuous infusion rate | 0.11 | stable isotope infusion | μmol/kg·min",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 24,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Glycerol prime dose | 1.6 | stable isotope infusion | μmol/kg",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 25,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Glycerol continuous infusion rate | 0.11 | stable isotope infusion | μmol/kg·min",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 26,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Equilibration period duration | 2 hours | hours",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 27,
+          "pass_2_index": 12,
+          "alignment_score": 0.12195121951219512,
+          "pass_1_summary": "Glucose target level during clamp | 5 | hyperinsulinemic euglycemic clamp | mmol/liter",
+          "pass_2_summary": "Muscle biopsy timing | End of basal state and end of hyperinsulinemic euglycemic clamp | Pro-Mag I biopsy needle"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 28,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Glucose enrichment target during clamp | 1% | stable isotope enrichment | %",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Participant N | 10 male and 10 female subjects",
+          "pass_2_summary": "Participant N | 10 male and 10 female subjects"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 17,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Catecholamine measurement method | In-house HPLC method | HPLC"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 22,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Sport activity inclusion criteria | Fewer than three times per week"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 23,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Race inclusion criteria | Caucasian"
+        }
+      ],
+      "aligned_narrative_pairs": [
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 0.8461538461538461,
+          "pass_1_summary": "Basal plasma FFA were significantly higher in women compared with men",
+          "pass_2_summary": "Basal plasma FFA were significantly higher in women compared with men"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Insulin-mediated peripheral glucose uptake was not different between sexes",
+          "pass_2_summary": "Insulin-mediated peripheral glucose uptake was not different between sexes"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 1.0,
+          "pass_1_summary": "There was no gender difference in muscle ceramide in the basal state",
+          "pass_2_summary": "There was no gender difference in muscle ceramide in the basal state"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 4,
+          "pass_2_index": 4,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Ceramide did not correlate with peripheral glucose uptake",
+          "pass_2_summary": "Ceramide did not correlate with peripheral glucose uptake"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 5,
+          "pass_2_index": 5,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Muscle fatty acid translocase/CD36 was not different between sexes in the basal state and during the clamp",
+          "pass_2_summary": "Muscle fatty acid translocase/CD36 was not different between sexes in the basal state and during the clamp"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 6,
+          "pass_2_index": 7,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Adiponectin was significantly higher in females in both the basal state and during the clamp",
+          "pass_2_summary": "Adiponectin was significantly higher in females in both the basal state and during the clamp"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 7,
+          "pass_2_index": 8,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp",
+          "pass_2_summary": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 8,
+          "pass_2_index": 9,
+          "alignment_score": 0.2,
+          "pass_1_summary": "Women had significantly higher lipolysis rates in the basal state when expressed in micromoles per kilocalorie but not during the clamp",
+          "pass_2_summary": "Women displayed a higher rate of lipolysis when expressed as flux per resting energy expenditure"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 9,
+          "pass_2_index": 10,
+          "alignment_score": 0.7727272727272727,
+          "pass_1_summary": "Women are relatively protected from FFA-induced insulin resistance by preventing myocellular accumulation of ceramide",
+          "pass_2_summary": "Women are relatively protected from FFA-induced insulin resistance by preventing myocellular accumulation of ceramide"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 0.45454545454545453,
+          "pass_1_summary": "Plasma glucose levels were significantly lower in women than men after 38 h of fasting",
+          "pass_2_summary": "Plasma glucose levels were significantly lower in women than men"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": null,
+          "pass_2_index": 6,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Basal endogenous glucose production tended to be lower in women"
+        }
+      ],
+      "semantic_groups": [
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 0,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical age inclusion criteria with same formatting",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 1,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same BMI criteria, minor formatting difference in unit placement",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 2,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical fasting duration specification",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 3,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes glucose tracer type, Pass 2 describes glycerol tracer dose - different parameters entirely",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 4,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes glycerol tracer type, Pass 2 describes glycerol tracer continuous infusion dose - different parameters",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 5,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same insulin infusion rate with minor formatting differences in unit presentation",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 6,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes basal sampling frequency, Pass 2 describes specific glucose/glycerol enrichment sampling at T=8h - different sampling protocols",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 7,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes enrichment sampling intervals, Pass 2 describes glucose tracer prime dose - completely different parameters",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 8,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe bioelectrical impedance analysis for body composition. Pass 1 specifies device model (Maltron BF906), Pass 2 is more generic. Same underlying fact.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 9,
+          "verdict": "true_conflict",
+          "severity": "medium",
+          "rationale": "Pass 1 specifies only final 20 minutes. Pass 2 specifies two separate 20-minute periods (basal state and clamp). Different measurement protocols.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 10,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 contains muscle biopsy anesthesia information; Pass 2 is empty. Only one side present.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 11,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe glucose oxidase method using Beckman Glucose Analyzer 2. Negligible wording differences in presentation.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 12,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe enzymatic colorimetric method for FFA measurement. Pass 1 specifies NEFA-C kit, Pass 2 is more generic. Same underlying method.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 13,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe chemiluminescent immunometric assay for insulin. Pass 1 specifies Immulite 2000 system, Pass 2 is generic. Same method.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 14,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe chemiluminescent immunoassay for cortisol. Pass 1 specifies Immulite 2000 system, Pass 2 is generic. Same method.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 15,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe Linco 125I RIA for glucagon measurement. Information presented in different order but identical content.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 16,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe RIA method for adiponectin; pass_1 specifies manufacturer (Linco) while pass_2 is generic",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 17,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical measurement method (HPLC) for ceramide and glucosylceramide",
+          "recommended_action": "no_action"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 18,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify follicular phase of menstrual cycle",
+          "recommended_action": "no_action"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 19,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass_1 contains pre-study diet carbohydrate content information; pass_2 is empty",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 20,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass_1 contains saline infusion rate information; pass_2 is empty",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 21,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass_1 describes glucose prime dose (8.8 μmol/kg); pass_2 describes continuous infusion rate (0.11 μmol/kg·min). Different parameters and units indicate distinct measurements",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 22,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass_1 contains glucose continuous infusion rate; pass_2 is empty",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 23,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass_1 contains glycerol prime dose information; pass_2 is empty",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 24,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 contains glycerol infusion rate data; Pass 2 is empty",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 25,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 contains equilibration period duration; Pass 2 is empty",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 26,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes glucose target level during clamp (5 mmol/liter); Pass 2 describes muscle biopsy timing - completely different parameters",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 27,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 contains glucose enrichment target; Pass 2 is empty",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 28,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe identical participant composition: 10 male and 10 female subjects",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 29,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 is empty; Pass 2 contains catecholamine measurement method",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 30,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 is empty; Pass 2 contains sport activity inclusion criteria",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 31,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 is empty; Pass 2 contains race inclusion criteria",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 0,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about basal plasma FFA being significantly higher in women compared with men",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about insulin-mediated peripheral glucose uptake showing no sex difference",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 2,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about no gender difference in basal muscle ceramide",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 3,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about ceramide not correlating with peripheral glucose uptake",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 4,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about muscle fatty acid translocase/CD36 showing no sex difference in basal state and during clamp",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about adiponectin being significantly higher in females in both basal state and during clamp",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 6,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about plasma epinephrine being significantly lower in females during hyperinsulinemic euglycemic clamp",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 7,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe higher female lipolysis rates in basal state with different normalization methods (per kilocalorie vs per resting energy expenditure), which are related concepts. Pass 1 adds detail about clamp condition.",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 8,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both extractions are identical statements about ceramide accumulation protection in women",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 9,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same core finding about lower plasma glucose in women vs men; pass_1 includes specific fasting duration (38h) while pass_2 omits it",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 10,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass_1 is empty; only pass_2 contains information about basal endogenous glucose production",
+          "recommended_action": "human_review"
+        }
+      ]
+    }
+  }
+}
