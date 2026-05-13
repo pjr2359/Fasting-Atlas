@@ -1,0 +1,6 @@
+paper_id,check,arg1,arg2
+replace-with-real-paper-id,methods_count_ge,1,
+replace-with-real-paper-id,narrative_count_ge,1,
+replace-with-real-paper-id,tables_count_ge,0,
+replace-with-real-paper-id,metadata_title_contains,fasting,
+replace-with-real-paper-id,json_path_equals,qa.council.needs_human_review,false
