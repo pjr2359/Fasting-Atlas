@@ -29,14 +29,43 @@ class JsonLLM(Protocol):
 
 def _extract_first_json_object(text: str) -> dict[str, Any]:
     start = text.find("{")
-    end = text.rfind("}")
-    if start < 0 or end <= start:
+    if start < 0:
         raise ValueError("No JSON object found.")
-    candidate = text[start : end + 1]
-    parsed = json.loads(candidate)
-    if not isinstance(parsed, dict):
-        raise ValueError("Expected JSON object.")
-    return parsed
+
+    depth = 0
+    in_string = False
+    escaped = False
+    for idx, ch in enumerate(text[start:], start=start):
+        if escaped:
+            escaped = False
+            continue
+        if ch == "\\":
+            escaped = True
+            continue
+        if ch == '"':
+            in_string = not in_string
+            continue
+        if in_string:
+            continue
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                candidate = text[start : idx + 1]
+                try:
+                    parsed = json.loads(candidate)
+                except json.JSONDecodeError:
+                    try:
+                        import ast
+
+                        parsed = ast.literal_eval(candidate)
+                    except Exception as exc:  # noqa: BLE001
+                        raise ValueError(f"Failed to decode JSON object: {exc}") from exc
+                if not isinstance(parsed, dict):
+                    raise ValueError("Expected JSON object.")
+                return parsed
+    raise ValueError("No complete JSON object found.")
 
 
 def _is_model_not_found(exc: LLMError) -> bool:
@@ -55,7 +84,7 @@ class OllamaClient:
     model: str = "llama3.2:1b"
     timeout_seconds: int = 600
     debug: bool = False
-    default_num_predict: int = 1536
+    default_num_predict: int = 1024
 
     def extract_json(
         self,
@@ -66,13 +95,17 @@ class OllamaClient:
         num_predict: int | None = None,
     ) -> dict[str, Any]:
         request_prompt = (
-            "Return only valid JSON matching the schema hint. No markdown, no prose.\n"
+            "You are a JSON-only extraction assistant.\n"
+            "Output exactly one valid JSON object and nothing else.\n"
+            "Do not add markdown, headings, explanations, or any extra text.\n"
+            "Begin with '{' and end with '}'.\n"
             f"Schema hint:\n{schema_hint}\n\n"
             f"Task input:\n{prompt}"
         )
         cap = num_predict if num_predict is not None else self.default_num_predict
         last_error: Exception | None = None
         for attempt in range(retries + 1):
+            response_text = ""
             try:
                 response_text = self._generate(request_prompt, temperature=temperature, num_predict=cap)
                 return _extract_first_json_object(response_text)
@@ -83,6 +116,11 @@ class OllamaClient:
                         f"[llm] request failed attempt={attempt + 1}/{retries + 1} error={type(exc).__name__}: {exc}",
                         flush=True,
                     )
+                    if response_text:
+                        print(
+                            f"[llm] raw response:\n{response_text[:2000]}\n--- end raw response ---",
+                            flush=True,
+                        )
                 if isinstance(exc, LLMError) and _is_model_not_found(exc):
                     raise LLMError(
                         f"{exc} — Install the model with: ollama pull {self.model}"
@@ -155,7 +193,10 @@ class ClaudeClient:
         num_predict: int | None = None,
     ) -> dict[str, Any]:
         user_content = (
-            "Return only valid JSON matching the schema hint. No markdown, no prose, no code fences.\n"
+            "You are a JSON-only extraction assistant.\n"
+            "Output exactly one valid JSON object and nothing else.\n"
+            "Do not add markdown, headings, explanations, or code fences.\n"
+            "Begin with '{' and end with '}'.\n"
             f"Schema hint:\n{schema_hint}\n\n"
             f"Task input:\n{prompt}"
         )
@@ -164,6 +205,7 @@ class ClaudeClient:
 
         last_error: Exception | None = None
         for attempt in range(retries + 1):
+            response_text = ""
             try:
                 response_text = self._messages(user_content, temperature, max_tokens)
                 return _extract_first_json_object(response_text)
@@ -175,6 +217,11 @@ class ClaudeClient:
                         f"error={type(exc).__name__}: {exc}",
                         flush=True,
                     )
+                    if response_text:
+                        print(
+                            f"[llm/claude] raw response:\n{response_text[:2000]}\n--- end raw response ---",
+                            flush=True,
+                        )
                 if isinstance(exc, LLMError) and _is_anthropic_model_not_found(exc):
                     raise LLMError(
                         f"{exc} — Check model id (e.g. --model {DEFAULT_CLAUDE_MODEL}) or "

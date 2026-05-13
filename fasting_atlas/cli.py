@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import os
 import sys
 import time
@@ -9,15 +10,18 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from fasting_atlas.council import run_council
+from fasting_atlas.consensus import build_consensus_methods, build_consensus_narrative
+from fasting_atlas.eval_harness import run_eval
 from fasting_atlas.extractors import (
     extract_metadata_llm,
     extract_methods_items,
     extract_narrative_results_items,
 )
+from fasting_atlas.figures import extract_figures
 from fasting_atlas.llm_client import DEFAULT_CLAUDE_MODEL, ClaudeClient, JsonLLM, LLMError, OllamaClient
 from fasting_atlas.output_writer import build_paper_id, write_paper_output
 from fasting_atlas.pdf_ingest import PageText, ingest_pdf
-from fasting_atlas.schemas import PaperExtraction, QAResult
+from fasting_atlas.schemas import ConsensusResult, FigureExtracted, PaperExtraction, QAResult
 from fasting_atlas.sections import find_methods_and_results_sections
 from fasting_atlas.tables import extract_tables
 
@@ -59,7 +63,66 @@ def main() -> None:
         default=300,
         help="HTTP read timeout seconds per LLM request (default 300).",
     )
+    parse_parser.add_argument(
+        "--ocr",
+        choices=("auto", "off", "force"),
+        default="off",
+        help="OCR merge for low-text pages (requires Tesseract). Default off until environment is verified.",
+    )
+    parse_parser.add_argument(
+        "--ocr-lang",
+        default="eng",
+        help="Tesseract languages, e.g. eng+deu+rus",
+    )
+    parse_parser.add_argument("--ocr-dpi", type=float, default=200.0, help="Render DPI for OCR (default 200).")
+    parse_parser.add_argument(
+        "--council-mode",
+        choices=("structural", "full"),
+        default="full",
+        help="Council: structural JSON diff only, or alignment + semantic adjudication.",
+    )
+    parse_parser.add_argument(
+        "--figures",
+        choices=("off", "a", "b"),
+        default="off",
+        help="Figure extraction: off | tier-a (inventory+PNG) | tier-b (+ optional digitization).",
+    )
+    parse_parser.add_argument(
+        "--artifacts-dir",
+        default="artifacts",
+        help="Root folder for figure PNGs and calibration sidecars.",
+    )
+    parse_parser.add_argument(
+        "--figures-digitize",
+        action="store_true",
+        help="With --figures b, run calibration mapping and bounded CV sampling.",
+    )
+    parse_parser.add_argument(
+        "--figures-calibration-dir",
+        default=None,
+        help="Folder containing <figure_id>_calibration.json (defaults to per-paper artifact dir).",
+    )
+    parse_parser.add_argument(
+        "--consensus-samples",
+        type=int,
+        default=2,
+        help="Number of independent extraction samples used for consensus-style output.",
+    )
+    parse_parser.add_argument(
+        "--consensus-temperature",
+        type=float,
+        default=0.6,
+        help="Sampling temperature for consensus extraction passes (higher = more diverse outputs).",
+    )
     parse_parser.add_argument("--debug", action="store_true", help="Print per-stage progress and timings.")
+
+    eval_parser = subparsers.add_parser(
+        "eval",
+        help="Run labeled checks from a gold CSV against parsed JSON outputs.",
+    )
+    eval_parser.add_argument("--gold", required=True, help="Path to gold CSV (see scripts/eval/gold_template.csv).")
+    eval_parser.add_argument("--parsed", required=True, help="Directory containing <paper_id>.json files.")
+    eval_parser.add_argument("--out", default=None, help="Optional path to write eval JSON report.")
 
     args = parser.parse_args()
     if args.command == "parse":
@@ -73,8 +136,36 @@ def main() -> None:
             ollama_url=args.ollama_url,
             model=model,
             llm_timeout=args.llm_timeout,
+            ocr_mode=args.ocr,
+            ocr_lang=args.ocr_lang,
+            ocr_dpi=args.ocr_dpi,
+            council_mode=args.council_mode,
+            figures_tier=args.figures,
+            artifacts_dir=args.artifacts_dir,
+            figures_digitize=args.figures_digitize,
+            figures_calibration_dir=args.figures_calibration_dir,
+            consensus_samples=args.consensus_samples,
+            consensus_temperature=args.consensus_temperature,
             debug=args.debug,
         )
+    elif args.command == "eval":
+        gold = Path(args.gold)
+        parsed = Path(args.parsed)
+        if not gold.is_file():
+            print(f"Gold CSV not found: {gold}", flush=True)
+            sys.exit(1)
+        if not parsed.is_dir():
+            print(f"Parsed directory not found: {parsed}", flush=True)
+            sys.exit(1)
+        report = run_eval(gold, parsed)
+        text = json.dumps(report, indent=2, ensure_ascii=False)
+        if args.out:
+            Path(args.out).parent.mkdir(parents=True, exist_ok=True)
+            Path(args.out).write_text(text, encoding="utf-8")
+            print(f"Wrote {args.out}", flush=True)
+        else:
+            print(text, flush=True)
+        sys.exit(0 if report.get("failed", 0) == 0 else 2)
 
 
 def _pages_preview(pages: list[PageText], max_pages: int = 2) -> str:
@@ -112,6 +203,16 @@ def parse_command(
     ollama_url: str,
     model: str,
     llm_timeout: int,
+    ocr_mode: str,
+    ocr_lang: str,
+    ocr_dpi: float,
+    council_mode: str,
+    figures_tier: str,
+    artifacts_dir: str,
+    figures_digitize: bool,
+    figures_calibration_dir: str | None,
+    consensus_samples: int,
+    consensus_temperature: float,
     debug: bool,
 ) -> None:
     def log(message: str) -> None:
@@ -127,6 +228,9 @@ def parse_command(
 
     input_path = Path(input_dir)
     pdf_files = sorted(input_path.rglob("*.pdf"))
+    if consensus_samples < 1:
+        log("ERROR consensus_samples must be at least 1.")
+        sys.exit(1)
     if not pdf_files:
         log(f"No PDF files found in {input_path}.")
         return
@@ -139,7 +243,12 @@ def parse_command(
 
         try:
             t0 = time.perf_counter()
-            ingested = ingest_pdf(str(pdf_file))
+            ingested = ingest_pdf(
+                str(pdf_file),
+                ocr_mode=ocr_mode,
+                ocr_lang=ocr_lang,
+                ocr_dpi=ocr_dpi,
+            )
             if debug:
                 log(
                     f"[{pdf_file.name}] ingest done pages={len(ingested.pages)} tables={len(ingested.tables)} "
@@ -160,29 +269,50 @@ def parse_command(
             if debug:
                 log(f"[{pdf_file.name}] metadata (LLM) done elapsed={time.perf_counter() - t0:.2f}s")
 
-            log(f"[{pdf_file.name}] methods/results pass1 start")
+            log(f"[{pdf_file.name}] methods/results consensus sampling start")
             t0 = time.perf_counter()
-            methods_pass_1 = extract_methods_items(ingested.source_file, methods_section, llm_client, temperature=0.1)
-            results_pass_1 = extract_narrative_results_items(
-                ingested.source_file, results_section, llm_client, temperature=0.1
-            )
+            methods_passes = [
+                extract_methods_items(
+                    ingested.source_file,
+                    methods_section,
+                    llm_client,
+                    temperature=consensus_temperature,
+                )
+                for _ in range(consensus_samples)
+            ]
+            results_passes = [
+                extract_narrative_results_items(
+                    ingested.source_file,
+                    results_section,
+                    llm_client,
+                    temperature=consensus_temperature,
+                )
+                for _ in range(consensus_samples)
+            ]
             if debug:
                 log(
-                    f"[{pdf_file.name}] methods/results pass1 done items=({len(methods_pass_1)}, {len(results_pass_1)}) "
+                    f"[{pdf_file.name}] consensus sampling done passes={consensus_samples} "
                     f"elapsed={time.perf_counter() - t0:.2f}s"
                 )
 
-            log(f"[{pdf_file.name}] methods/results pass2 start")
-            t0 = time.perf_counter()
-            methods_pass_2 = extract_methods_items(ingested.source_file, methods_section, pass_2_client, temperature=0.6)
-            results_pass_2 = extract_narrative_results_items(
-                ingested.source_file, results_section, pass_2_client, temperature=0.6
+            methods_consensus, method_clusters, avg_method_support = build_consensus_methods(
+                methods_passes
+            )
+            narrative_consensus, narrative_clusters, avg_narrative_support = build_consensus_narrative(
+                results_passes
             )
             if debug:
                 log(
-                    f"[{pdf_file.name}] methods/results pass2 done items=({len(methods_pass_2)}, {len(results_pass_2)}) "
-                    f"elapsed={time.perf_counter() - t0:.2f}s"
+                    f"[{pdf_file.name}] consensus built methods={len(methods_consensus)} "
+                    f"clusters={method_clusters} avg_support={avg_method_support:.2f}; "
+                    f"narrative={len(narrative_consensus)} clusters={narrative_clusters} "
+                    f"avg_support={avg_narrative_support:.2f}"
                 )
+
+            methods_pass_1 = methods_passes[0] if methods_passes else []
+            results_pass_1 = results_passes[0] if results_passes else []
+            methods_pass_2 = methods_passes[1] if len(methods_passes) > 1 else methods_pass_1
+            results_pass_2 = results_passes[1] if len(results_passes) > 1 else results_pass_1
 
             log(f"[{pdf_file.name}] table extraction start")
             t0 = time.perf_counter()
@@ -199,28 +329,52 @@ def parse_command(
                 "narrative_results": [item.model_dump() for item in results_pass_2],
             }
 
+            adjudication_llm: JsonLLM | None = llm_client if council_mode == "full" else None
             council = run_council(
                 pass_1_model=backend_label,
                 pass_2_model=f"{backend_label}-alt",
                 pass_1_payload=payload_1,
                 pass_2_payload=payload_2,
+                mode=council_mode,
+                adjudication_llm=adjudication_llm,
             )
             if debug:
                 log(
                     f"[{pdf_file.name}] council done discrepancies={len(council.discrepancies)} "
-                    f"needs_review={council.needs_human_review}"
+                    f"needs_review={council.needs_human_review} "
+                    f"aligned_methods={len(council.aligned_method_pairs)} "
+                    f"semantic={len(council.semantic_groups)}"
                 )
 
             paper_id = build_paper_id(ingested.source_file)
+            figures_list: list[FigureExtracted] = []
+            if figures_tier != "off":
+                cal_dir = Path(figures_calibration_dir) if figures_calibration_dir else None
+                figures_list = extract_figures(
+                    str(pdf_file),
+                    paper_id,
+                    artifacts_dir,
+                    tier=figures_tier,
+                    calibration_dir=cal_dir,
+                    digitize_flag=figures_digitize,
+                )
+
+            consensus_summary = ConsensusResult(
+                samples=consensus_samples,
+                method_clusters=method_clusters,
+                narrative_clusters=narrative_clusters,
+                average_method_support=avg_method_support,
+                average_narrative_support=avg_narrative_support,
+            )
             extraction = PaperExtraction(
                 paper_id=paper_id,
                 source_file=ingested.source_file,
                 metadata=metadata,
-                methods_participants=methods_pass_1,
-                narrative_results=results_pass_1,
+                methods_participants=methods_consensus,
+                narrative_results=narrative_consensus,
                 tables=tables,
-                figures_graphs=[],
-                qa=QAResult(council=council),
+                figures_graphs=figures_list,
+                qa=QAResult(council=council, consensus=consensus_summary),
             )
             out_file = write_paper_output(output_dir, extraction)
             log(f"[{index}/{len(pdf_files)}] Wrote {out_file} elapsed_total={time.perf_counter() - paper_started:.2f}s")
@@ -228,3 +382,7 @@ def parse_command(
         except LLMError as exc:
             log(f"ERROR [{pdf_file.name}] LLM failed: {exc}")
             sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

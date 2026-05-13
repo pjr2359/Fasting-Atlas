@@ -9,6 +9,7 @@ import pdfplumber
 class PageText:
     page_number: int
     text: str
+    text_source: str = "digital"  # digital | ocr | mixed
 
 
 @dataclass
@@ -19,6 +20,7 @@ class WordBox:
     top: float
     x1: float
     bottom: float
+    source: str = "digital"  # digital | ocr
 
 
 @dataclass
@@ -36,7 +38,7 @@ class IngestedPaper:
     tables: list[IngestedTable]
 
 
-def ingest_pdf(pdf_path: str) -> IngestedPaper:
+def _ingest_with_pdfplumber(pdf_path: str) -> IngestedPaper:
     pages: list[PageText] = []
     words: list[WordBox] = []
     tables: list[IngestedTable] = []
@@ -44,7 +46,7 @@ def ingest_pdf(pdf_path: str) -> IngestedPaper:
     with pdfplumber.open(pdf_path) as pdf:
         for page_idx, page in enumerate(pdf.pages, start=1):
             text = page.extract_text() or ""
-            pages.append(PageText(page_number=page_idx, text=text))
+            pages.append(PageText(page_number=page_idx, text=text, text_source="digital"))
 
             for word in page.extract_words() or []:
                 words.append(
@@ -55,6 +57,7 @@ def ingest_pdf(pdf_path: str) -> IngestedPaper:
                         top=float(word.get("top", 0.0)),
                         x1=float(word.get("x1", 0.0)),
                         bottom=float(word.get("bottom", 0.0)),
+                        source="digital",
                     )
                 )
 
@@ -72,3 +75,19 @@ def ingest_pdf(pdf_path: str) -> IngestedPaper:
                 )
 
     return IngestedPaper(source_file=pdf_path, pages=pages, words=words, tables=tables)
+
+
+def ingest_pdf(
+    pdf_path: str,
+    *,
+    ocr_mode: str = "off",
+    ocr_lang: str = "eng",
+    ocr_dpi: float = 200.0,
+) -> IngestedPaper:
+    """Digital text/tables via pdfplumber; optional OCR merge via ``ocr_mode``."""
+    base = _ingest_with_pdfplumber(pdf_path)
+    if ocr_mode == "off":
+        return base
+    from fasting_atlas.ocr import apply_ocr_to_ingest
+
+    return apply_ocr_to_ingest(base, mode=ocr_mode, ocr_lang=ocr_lang, dpi=ocr_dpi)
