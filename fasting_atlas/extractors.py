@@ -7,6 +7,13 @@ from fasting_atlas.schemas import EvidenceText, MethodsParticipantsItem, Metadat
 from fasting_atlas.sections import SectionBlock
 
 
+def _coerce_page(value: Any, default: int = 1) -> int:
+    try:
+        return int(value)
+    except (TypeError, ValueError):
+        return default
+
+
 def extract_metadata_llm(source_file: str, pages_preview: str, client: JsonLLM) -> Metadata:
     """Structured metadata via LLM only. Empty preview returns empty metadata."""
     preview = pages_preview.strip()
@@ -31,7 +38,7 @@ def extract_metadata_llm(source_file: str, pages_preview: str, client: JsonLLM) 
     evidence_list = [
         EvidenceText(
             source_file=source_file,
-            page=int(ev.get("page", 1)),
+            page=_coerce_page(ev.get("page", 1)),
             quote=str(ev.get("quote", "")),
         )
         for ev in parsed.get("evidence", [])
@@ -81,6 +88,7 @@ def extract_methods_items(
         ),
         schema_hint=schema_hint,
         temperature=temperature,
+        num_predict=8192,
     )
     return _parse_methods_items(source_file, parsed)
 
@@ -107,6 +115,7 @@ def extract_narrative_results_items(
         ),
         schema_hint=schema_hint,
         temperature=temperature,
+        num_predict=8192,
     )
     return _parse_results_items(source_file, parsed)
 
@@ -117,7 +126,7 @@ def _parse_methods_items(source_file: str, parsed: dict[str, Any]) -> list[Metho
         evidence = [
             EvidenceText(
                 source_file=source_file,
-                page=int(ev.get("page", 1)),
+                page=_coerce_page(ev.get("page", 1)),
                 quote=str(ev.get("quote", "")),
             )
             for ev in item.get("evidence", [])
@@ -143,7 +152,7 @@ def _parse_results_items(source_file: str, parsed: dict[str, Any]) -> list[Narra
         evidence = [
             EvidenceText(
                 source_file=source_file,
-                page=int(ev.get("page", 1)),
+                page=_coerce_page(ev.get("page", 1)),
                 quote=str(ev.get("quote", "")),
             )
             for ev in item.get("evidence", [])

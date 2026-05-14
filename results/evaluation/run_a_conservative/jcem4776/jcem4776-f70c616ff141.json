@@ -1,0 +1,1510 @@
+{
+  "paper_id": "jcem4776-f70c616ff141",
+  "source_file": "papers/jcem4776.pdf",
+  "metadata": {
+    "title": "Incorporation of the Fasting Plasma FFA Concentration into QUICKI Improves Its Association with Insulin Sensitivity in Nonobese Individuals",
+    "authors": [
+      "GIANLUCA PERSEGHIN",
+      "ANDREA CAUMO",
+      "MARIANNA CALONI",
+      "GIULIO TESTOLIN",
+      "LIVIO LUZI"
+    ],
+    "year": 2001,
+    "journal": "The Journal of Clinical Endocrinology & Metabolism",
+    "study_design": "Euglycemic hyperinsulinemic clamp study in nonobese subjects with and without family history of type 2 diabetes",
+    "demographics": "57 young, healthy, nonobese individuals (38F/19M), age 19-45 years, white race, BMI <27 kg/m², sedentary lifestyle, no history of hypertension, endocrine/metabolic disease, or cigarette smoking. 17 with first-degree relatives affected by type 2 diabetes, 40 without family history of diabetes",
+    "evidence": [
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "Incorporation of the Fasting Plasma FFA Concentration into QUICKI Improves Its Association with Insulin Sensitivity in Nonobese Individuals",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "GIANLUCA PERSEGHIN, ANDREA CAUMO, MARIANNA CALONI, GIULIO TESTOLIN, AND LIVIO LUZI",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "The Journal of Clinical Endocrinology & Metabolism 86(10):4776–4781",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "Copyright © 2001 by The Endocrine Society",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "we performed a euglycemic hyperinsulinemic clamp [40 mU/(m2·min)] in 57 young, healthy, nonobese individuals with (n = 17) or without (n = 40) first-degree relatives affected by type 2 diabetes",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "Fifty-seven healthy, young, nonobese subjects were recruited at the Istituto Scientifico H San Raffaele. The main criteria for their inclusion in the study were the following: 1) age (19–45 yr); 2) white race; 3) body mass index less than 27 kg/m2; 4) sedentary lifestyle; and 5) no history of hypertension, endocrine/metabolic disease, or cigarette smoking.",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Study Population - Without Family History",
+      "value": "40",
+      "method": null,
+      "unit": null,
+      "confidence": 0.453125,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4776,
+          "quote": "57 young, healthy, nonobese individuals with (n = 17) or without (n = 40) first-degree relatives affected by type 2 diabetes",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion Criteria - Race",
+      "value": "white race",
+      "method": null,
+      "unit": null,
+      "confidence": 0.6071428571428571,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "2) white race",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Dose-Response Study Subgroup - N",
+      "value": "sedentary lifestyle",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "body mass index less than 27 kg/m2",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Fasting Period",
+      "value": "150",
+      "method": "euglycemic hyperinsulinemic clamp",
+      "unit": "minutes",
+      "confidence": 0.28409090909090906,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "plasma glucose concentration was kept at 5 mmol/liter for 150 min by means of a variable infusion of 20% dextrose infusion",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Plasma Insulin Measurement - CV Fasting",
+      "value": "7.2 ± 1.7",
+      "method": "FFA determination",
+      "unit": "%",
+      "confidence": 0.375,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4778,
+          "quote": "Plasma insulin was measured with a microparticle enzyme immunoassay technology with no cross-reactions with proinsulin, c-peptide, and glucagon (IMx insulin assay, Abbott Laboratories, Rome, Italy). CV was 7.2 ± 1.7% and 5.7 ± 0.7%, respectively, in the fasting and clamp conditions.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion Criteria - Medical History",
+      "value": "no history of hypertension, endocrine/metabolic disease, or cigarette smoking",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "5) no history of hypertension, endocrine/metabolic disease, or cigarette smoking",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Exercise Abstinence Period",
+      "value": "isocaloric diet",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5833333333333333,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "Subjects were instructed to consume an isocaloric diet and to abstain from exercise activity for 3 wk before the studies.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "FFA Sample Storage Temperature",
+      "value": "0-5 working days",
+      "method": null,
+      "unit": "°C",
+      "confidence": 0.625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "Plasma was then frozen and stored at −70 C, and FFA determinations were performed as previously described",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body Composition Assessment - Method",
+      "value": "dual-energy x-ray absorptiometry",
+      "method": "Lunar Corp.-DPX-IQ scanner",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "Body composition, with regional three-compartment analysis (arms, trunk, and legs), was performed with a Lunar Corp.-DPX-IQ scanner",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "FFA levels during the low-dose insulin clamp were inversely associated with S I(clamp) calculated during both the low- and high-dose insulin clamp",
+      "relationship": "inverse association",
+      "confidence": 0.34615384615384615,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4778,
+          "quote": "FFA levels during the low-dose insulin clamp (which is more appropriate to study the antilipolytic insulin action) were inversely associated with the S I(clamp) calculated during both the low- (r (cid:1) -0.57, P (cid:1) 0.033) and high-dose insulin clamp (r (cid:1) - 0.58, P (cid:1) 0.028)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Fasting plasma glucose and FFA concentrations were significantly increased in the offspring of type 2 diabetic parents with respect to normal subjects",
+      "relationship": "reduction",
+      "confidence": 0.3333333333333333,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4778,
+          "quote": "Fasting plasma glucose and FFA concentrations were significantly increased in the offspring of type 2 diabetic parents with respect to the normal subjects",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "The revised QUICKI found a significant reduction in insulin sensitivity in the offspring group (10%), whereas HOMA-IR and QUICKI did not detect any significant difference",
+      "relationship": "detection of difference",
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4778,
+          "quote": "Whereas HOMA-IR and QUICKI did not detect any significant difference in insulin sensitivity between the two groups, the revised QUICKI found a significant reduction in insulin sensitivity in the offspring group (10%)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "The multiple stepwise regression analysis selected log(I b) and log(FFA b) as the best set of predictors of IR",
+      "relationship": "significant association",
+      "confidence": 0.4,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4778,
+          "quote": "The multiple stepwise regression analysis selected log(I b) and log(FFA b) as the best set of predictors of IR",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [
+        {
+          "path": "semantic.narrative_results[pair=4]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass_1 states revised QUICKI found 10% reduction; pass_2 omits this finding and only mentions HOMA-IR and QUICKI found no difference",
+          "severity": "high"
+        }
+      ],
+      "needs_human_review": true,
+      "structural_discrepancies": [
+        {
+          "path": "methods_participants",
+          "pass_1_value": "len=18",
+          "pass_2_value": "len=31",
+          "severity": "medium"
+        },
+        {
+          "path": "methods_participants[0].evidence[0].quote",
+          "pass_1_value": "we performed a euglycemic hyperinsulinemic clamp [40 mU/(m2·min)] in 57 young, healthy, nonobese individuals with (n = 17) or without (n = 40) first-degree relatives affected by type 2 diabetes",
+          "pass_2_value": "we performed a euglycemic hyperinsulinemic clamp [40 mU/(m2·min)] in 57 young, healthy, nonobese individuals",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].evidence[0].quote",
+          "pass_1_value": "57 young, healthy, nonobese individuals with (n = 17) or without (n = 40) first-degree relatives affected by type 2 diabetes",
+          "pass_2_value": "with (n = 17) or without (n = 40) first-degree relatives affected by type 2 diabetes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].evidence[0].quote",
+          "pass_1_value": "57 young, healthy, nonobese individuals with (n = 17) or without (n = 40) first-degree relatives affected by type 2 diabetes",
+          "pass_2_value": "with (n = 17) or without (n = 40) first-degree relatives affected by type 2 diabetes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].evidence[0].quote",
+          "pass_1_value": "a subgroup of 14 subjects (age = 35 ± 3 yr, body mass index = 24.5 ± 1.1 kg/m2) performed a dose-response clamp study using insulin infusion rates of 10 (low dose) and 40 (high dose) mU/(m2·min)",
+          "pass_2_value": "The main criteria for their inclusion in the study were the following: 1) age (19–45 yr)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].label",
+          "pass_1_value": "Dose-Response Study Subgroup N",
+          "pass_2_value": "Inclusion Criteria - Age",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].unit",
+          "pass_1_value": null,
+          "pass_2_value": "years",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[3].value",
+          "pass_1_value": "14",
+          "pass_2_value": "19-45 years",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].evidence[0].quote",
+          "pass_1_value": "The main criteria for their inclusion in the study were the following: 1) age (19–45 yr)",
+          "pass_2_value": "3) body mass index less than 27 kg/m2",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].label",
+          "pass_1_value": "Inclusion Criteria - Age Range",
+          "pass_2_value": "Inclusion Criteria - Body Mass Index",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].unit",
+          "pass_1_value": "years",
+          "pass_2_value": "kg/m2",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].value",
+          "pass_1_value": "19-45",
+          "pass_2_value": "less than 27",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].evidence[0].quote",
+          "pass_1_value": "body mass index less than 27 kg/m2",
+          "pass_2_value": "2) white race",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].label",
+          "pass_1_value": "Inclusion Criteria - BMI",
+          "pass_2_value": "Inclusion Criteria - Race",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].unit",
+          "pass_1_value": "kg/m2",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[5].value",
+          "pass_1_value": "<27",
+          "pass_2_value": "white race",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].evidence[0].quote",
+          "pass_1_value": "2) white race",
+          "pass_2_value": "4) sedentary lifestyle",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].label",
+          "pass_1_value": "Inclusion Criteria - Race",
+          "pass_2_value": "Inclusion Criteria - Lifestyle",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].value",
+          "pass_1_value": "white race",
+          "pass_2_value": "sedentary lifestyle",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].evidence[0].quote",
+          "pass_1_value": "Body weight was stable for at least 6–12 months.",
+          "pass_2_value": "5) no history of hypertension, endocrine/metabolic disease, or cigarette smoking",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].label",
+          "pass_1_value": "Inclusion Criteria - Body Weight Stability",
+          "pass_2_value": "Inclusion Criteria - Medical History",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].value",
+          "pass_1_value": "6-12 months",
+          "pass_2_value": "no history of hypertension, endocrine/metabolic disease, or cigarette smoking",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].evidence[0].quote",
+          "pass_1_value": "Insulin was infused at 40 mU/[m2·min] to reach a plasma insulin concentration of about 350 pmol/liter",
+          "pass_2_value": "Body weight was stable for at least 6–12 months.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].label",
+          "pass_1_value": "Euglycemic-Hyperinsulinemic Clamp - Insulin Infusion Rate",
+          "pass_2_value": "Inclusion Criteria - Weight Stability",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].method",
+          "pass_1_value": "euglycemic hyperinsulinemic clamp",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[8].unit",
+          "pass_1_value": "mU/(m2·min)",
+          "pass_2_value": "months",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].value",
+          "pass_1_value": "40",
+          "pass_2_value": "stable for at least 6-12 months",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].evidence[0].quote",
+          "pass_1_value": "plasma glucose concentration was kept at 5 mmol/liter for 150 min by means of a variable infusion of 20% dextrose infusion",
+          "pass_2_value": "Insulin was infused at 40 mU/[m2·min] to reach a plasma insulin concentration of about 350 pmol/liter",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].label",
+          "pass_1_value": "Euglycemic-Hyperinsulinemic Clamp - Target Plasma Glucose",
+          "pass_2_value": "Euglycemic Hyperinsulinemic Clamp - Insulin Infusion Rate",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].unit",
+          "pass_1_value": "mmol/liter",
+          "pass_2_value": "mU/(m2·min)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].value",
+          "pass_1_value": "5",
+          "pass_2_value": "40",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].evidence[0].quote",
+          "pass_1_value": "plasma glucose concentration was kept at 5 mmol/liter for 150 min by means of a variable infusion of 20% dextrose infusion",
+          "pass_2_value": "and plasma glucose concentration was kept at 5 mmol/liter for 150 min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].label",
+          "pass_1_value": "Euglycemic-Hyperinsulinemic Clamp - Duration",
+          "pass_2_value": "Euglycemic Hyperinsulinemic Clamp - Target Plasma Glucose",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].unit",
+          "pass_1_value": "minutes",
+          "pass_2_value": "mmol/liter",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].value",
+          "pass_1_value": "150",
+          "pass_2_value": "5",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].evidence[0].quote",
+          "pass_1_value": "Blood samples for plasma insulin, glucose, and FFAs were drawn every 15 min throughout the study.",
+          "pass_2_value": "plasma glucose concentration was kept at 5 mmol/liter for 150 min",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].label",
+          "pass_1_value": "Euglycemic-Hyperinsulinemic Clamp - Blood Sampling Interval",
+          "pass_2_value": "Euglycemic Hyperinsulinemic Clamp - Duration",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].value",
+          "pass_1_value": "15",
+          "pass_2_value": "150",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].evidence[0].quote",
+          "pass_1_value": "Subjects were studied by means of the euglycemic-hyperinsulinemic clamp to assess insulin sensitivity after a 10-hour overnight fast period.",
+          "pass_2_value": "Blood samples for plasma insulin, glucose, and FFAs were drawn every 15 min throughout the study.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].label",
+          "pass_1_value": "Fasting Period",
+          "pass_2_value": "Euglycemic Hyperinsulinemic Clamp - Blood Sampling Frequency",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].method",
+          "pass_1_value": null,
+          "pass_2_value": "euglycemic hyperinsulinemic clamp",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[12].unit",
+          "pass_1_value": "hours",
+          "pass_2_value": "minutes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].value",
+          "pass_1_value": "10",
+          "pass_2_value": "every 15 minutes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].evidence[0].page",
+          "pass_1_value": 4778,
+          "pass_2_value": 4777,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].evidence[0].quote",
+          "pass_1_value": "Plasma glucose was measured with a glucose analyzer (Beckman Coulter, Inc., Fullerton, CA) and coefficient of variation (CV) was 1.7 ± 0.1% and 3.0 ± 0.4%, respectively, in the fasting and clamp conditions.",
+          "pass_2_value": "Subjects were studied by means of the euglycemic-hyperinsulinemic clamp to assess insulin sensitivity after a 10-hour overnight fast period.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].label",
+          "pass_1_value": "Plasma Glucose Measurement - CV Fasting",
+          "pass_2_value": "Fasting Period",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].method",
+          "pass_1_value": "glucose analyzer (Beckman Coulter, Inc.)",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[13].unit",
+          "pass_1_value": "%",
+          "pass_2_value": "hours",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].value",
+          "pass_1_value": "1.7 ± 0.1",
+          "pass_2_value": "10 hours overnight",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].evidence[0].page",
+          "pass_1_value": 4778,
+          "pass_2_value": 4777,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].evidence[0].quote",
+          "pass_1_value": "Plasma insulin was measured with a microparticle enzyme immunoassay technology with no cross-reactions with proinsulin, c-peptide, and glucagon (IMx insulin assay, Abbott Laboratories, Rome, Italy). CV was 7.2 ± 1.7% and 5.7 ± 0.7%, respectively, in the fasting and clamp conditions.",
+          "pass_2_value": "a subgroup of 14 subjects (age = 35 ± 3 yr, body mass index = 24.5 ± 1.1 kg/m2) performed a dose-response clamp study",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].label",
+          "pass_1_value": "Plasma Insulin Measurement - CV Fasting",
+          "pass_2_value": "Dose-Response Study Subgroup - N",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].method",
+          "pass_1_value": "microparticle enzyme immunoassay technology",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[14].unit",
+          "pass_1_value": "%",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[14].value",
+          "pass_1_value": "7.2 ± 1.7",
+          "pass_2_value": "14",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].evidence[0].page",
+          "pass_1_value": 4778,
+          "pass_2_value": 4777,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].evidence[0].quote",
+          "pass_1_value": "CV was 5.9 ± 1.8% and 9.3 ± 3.8%, respectively, in the fasting and clamp conditions.",
+          "pass_2_value": "using insulin infusion rates of 10 (low dose) and 40 (high dose) mU/(m2·min)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].label",
+          "pass_1_value": "FFA Measurement - CV Fasting",
+          "pass_2_value": "Dose-Response Study - Low Dose Insulin Infusion",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].method",
+          "pass_1_value": "FFA determination",
+          "pass_2_value": "dose-response clamp study",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].unit",
+          "pass_1_value": "%",
+          "pass_2_value": "mU/(m2·min)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].value",
+          "pass_1_value": "5.9 ± 1.8",
+          "pass_2_value": "10",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].evidence[0].quote",
+          "pass_1_value": "a dose-response clamp study using insulin infusion rates of 10 (low dose) and 40 (high dose) mU/(m2·min)",
+          "pass_2_value": "using insulin infusion rates of 10 (low dose) and 40 (high dose) mU/(m2·min)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].label",
+          "pass_1_value": "Dose-Response Study - Low Dose Insulin Infusion",
+          "pass_2_value": "Dose-Response Study - High Dose Insulin Infusion",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].value",
+          "pass_1_value": "10",
+          "pass_2_value": "40",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].evidence[0].quote",
+          "pass_1_value": "The low-dose insulin clamp was designed to reach appropriate (150 pmol/liter) plasma insulin levels to investigate the antilipolytic insulin action.",
+          "pass_2_value": "The low-dose insulin clamp was designed to reach appropriate (150 pmol/liter) plasma insulin levels",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].label",
+          "pass_1_value": "Dose-Response Study - Low Dose Target Plasma Insulin",
+          "pass_2_value": "Dose-Response Study - Target Plasma Insulin (Low Dose)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results",
+          "pass_1_value": "len=10",
+          "pass_2_value": "len=11",
+          "severity": "medium"
+        },
+        {
+          "path": "narrative_results[0].evidence[0].quote",
+          "pass_1_value": "S I(clamp) (r (cid:1) -0.40, P (cid:7) 0.013), GIR (r (cid:1) -0.58, P (cid:7) 0.0001) were inversely associated with fasting FFA",
+          "pass_2_value": "S I(clamp) (r (cid:1) -0.40, P (cid:7) 0.01), IR (r (cid:1) -0.40, P (cid:7) 0.01), and GIR (r (cid:1) -0.58, P (cid:7) 0.0001) were inversely associated with fasting FFA",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[1].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.92,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].confidence",
+          "pass_1_value": 0.95,
+          "pass_2_value": 0.96,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[3].confidence",
+          "pass_1_value": 0.95,
+          "pass_2_value": 0.94,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[3].relationship",
+          "pass_1_value": "increased in offspring",
+          "pass_2_value": "increased in offspring group",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].confidence",
+          "pass_1_value": 0.95,
+          "pass_2_value": 0.93,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].relationship",
+          "pass_1_value": "detection of difference",
+          "pass_2_value": "no difference detected",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].statement",
+          "pass_1_value": "The revised QUICKI found a significant reduction in insulin sensitivity in the offspring group (10%), whereas HOMA-IR and QUICKI did not detect any significant difference",
+          "pass_2_value": "HOMA-IR and QUICKI did not detect any significant difference in insulin sensitivity between offspring and control groups",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].confidence",
+          "pass_1_value": 0.95,
+          "pass_2_value": 0.94,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].evidence[0].quote",
+          "pass_1_value": "FFA levels during the low-dose insulin clamp (which is more appropriate to study the antilipolytic insulin action) were inversely associated with the S I(clamp) calculated during both the low- (r (cid:1) -0.57, P (cid:1) 0.033) and high-dose insulin clamp (r (cid:1) - 0.58, P (cid:1) 0.028)",
+          "pass_2_value": "the revised QUICKI found a significant reduction in insulin sensitivity in the offspring group (10%)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].relationship",
+          "pass_1_value": "inverse association",
+          "pass_2_value": "significant reduction",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].statement",
+          "pass_1_value": "FFA levels during the low-dose insulin clamp were inversely associated with S I(clamp) calculated during both the low- and high-dose insulin clamp",
+          "pass_2_value": "The revised QUICKI found a significant reduction in insulin sensitivity in the offspring group",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[7].confidence",
+          "pass_1_value": 0.95,
+          "pass_2_value": 0.93,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[7].evidence[0].quote",
+          "pass_1_value": "Simple regression analysis showed that, when taken separately, log(I b) and log(FFA b) were significantly associated with IR, whereas log(G b) was not",
+          "pass_2_value": "FFA levels during the low-dose insulin clamp (which is more appropriate to study the antilipolytic insulin action) were inversely associated with the S I(clamp) calculated during both the low- (r (cid:1) -0.57, P (cid:1) 0.033) and high-dose insulin clamp (r (cid:1) - 0.58, P (cid:1) 0.028)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[7].relationship",
+          "pass_1_value": "significant association",
+          "pass_2_value": "inverse association",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[7].statement",
+          "pass_1_value": "Simple regression analysis showed that log(I b) and log(FFA b) were significantly associated with IR, whereas log(G b) was not",
+          "pass_2_value": "FFA levels during the low-dose insulin clamp were inversely associated with S I(clamp) calculated during both the low- and high-dose insulin clamp",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[8].confidence",
+          "pass_1_value": 0.95,
+          "pass_2_value": 0.94,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[8].evidence[0].quote",
+          "pass_1_value": "The multiple stepwise regression analysis selected log(I b) and log(FFA b) as the best set of predictors of IR",
+          "pass_2_value": "Simple regression analysis showed that, when taken separately, log(I b ) and log(FFA b ) were significantly associated with IR, whereas log(G b ) was not",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[8].relationship",
+          "pass_1_value": "predictive association",
+          "pass_2_value": "significant association",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[8].statement",
+          "pass_1_value": "The multiple stepwise regression analysis selected log(I b) and log(FFA b) as the best set of predictors of IR",
+          "pass_2_value": "Simple regression analysis showed that log(I b) and log(FFA b) were significantly associated with IR, whereas log(G b) was not",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[9].evidence[0].page",
+          "pass_1_value": 4779,
+          "pass_2_value": 4778,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[9].evidence[0].quote",
+          "pass_1_value": "Incorporation of the fasting FFA concentration into QUICKI not only improved its association with insulin sensitivity but also enhanced its discriminatory power",
+          "pass_2_value": "The multiple stepwise regression analysis selected log(I b ) and log(FFA b ) as the best set of predictors of IR",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[9].relationship",
+          "pass_1_value": "improvement",
+          "pass_2_value": "best predictors",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[9].statement",
+          "pass_1_value": "Incorporation of the fasting FFA concentration into QUICKI improved its association with insulin sensitivity and enhanced its discriminatory power",
+          "pass_2_value": "Multiple stepwise regression analysis selected log(I b) and log(FFA b) as the best set of predictors of IR",
+          "severity": "low"
+        }
+      ],
+      "aligned_method_pairs": [
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 0.782608695652174,
+          "pass_1_summary": "Study Population - With Family History | 17",
+          "pass_2_summary": "Study Population - With Family History | 17"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 0.782608695652174,
+          "pass_1_summary": "Study Population - Without Family History | 40",
+          "pass_2_summary": "Study Population - Without Family History | 40"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 3,
+          "pass_2_index": 14,
+          "alignment_score": 0.6571428571428571,
+          "pass_1_summary": "Dose-Response Study Subgroup N | 14",
+          "pass_2_summary": "Dose-Response Study Subgroup - N | 14"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 4,
+          "pass_2_index": 3,
+          "alignment_score": 0.8888888888888888,
+          "pass_1_summary": "Inclusion Criteria - Age Range | 19-45 | years",
+          "pass_2_summary": "Inclusion Criteria - Age | 19-45 years | years"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 5,
+          "pass_2_index": 4,
+          "alignment_score": 0.8333333333333334,
+          "pass_1_summary": "Inclusion Criteria - BMI | <27 | kg/m2",
+          "pass_2_summary": "Inclusion Criteria - Body Mass Index | less than 27 | kg/m2"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 6,
+          "pass_2_index": 5,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Inclusion Criteria - Race | white race",
+          "pass_2_summary": "Inclusion Criteria - Race | white race"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 7,
+          "pass_2_index": 8,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Inclusion Criteria - Body Weight Stability | 6-12 months",
+          "pass_2_summary": "Inclusion Criteria - Weight Stability | stable for at least 6-12 months | months"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 8,
+          "pass_2_index": 9,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Euglycemic-Hyperinsulinemic Clamp - Insulin Infusion Rate | 40 | euglycemic hyperinsulinemic clamp | mU/(m2·min)",
+          "pass_2_summary": "Euglycemic Hyperinsulinemic Clamp - Insulin Infusion Rate | 40 | euglycemic hyperinsulinemic clamp | mU/(m2·min)"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 9,
+          "pass_2_index": 10,
+          "alignment_score": 0.6428571428571429,
+          "pass_1_summary": "Euglycemic-Hyperinsulinemic Clamp - Target Plasma Glucose | 5 | euglycemic hyperinsulinemic clamp | mmol/liter",
+          "pass_2_summary": "Euglycemic Hyperinsulinemic Clamp - Target Plasma Glucose | 5 | euglycemic hyperinsulinemic clamp | mmol/liter"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 10,
+          "pass_2_index": 11,
+          "alignment_score": 0.7037037037037037,
+          "pass_1_summary": "Euglycemic-Hyperinsulinemic Clamp - Duration | 150 | euglycemic hyperinsulinemic clamp | minutes",
+          "pass_2_summary": "Euglycemic Hyperinsulinemic Clamp - Duration | 150 | euglycemic hyperinsulinemic clamp | minutes"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 11,
+          "pass_2_index": 12,
+          "alignment_score": 0.92,
+          "pass_1_summary": "Euglycemic-Hyperinsulinemic Clamp - Blood Sampling Interval | 15 | euglycemic hyperinsulinemic clamp | minutes",
+          "pass_2_summary": "Euglycemic Hyperinsulinemic Clamp - Blood Sampling Frequency | every 15 minutes | euglycemic hyperinsulinemic clamp | minutes"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 12,
+          "pass_2_index": 13,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Fasting Period | 10 | hours",
+          "pass_2_summary": "Fasting Period | 10 hours overnight | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 13,
+          "pass_2_index": 21,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Plasma Glucose Measurement - CV Fasting | 1.7 ± 0.1 | glucose analyzer (Beckman Coulter, Inc.) | %",
+          "pass_2_summary": "Plasma Glucose Measurement - CV Fasting | 1.7 ± 0.1 | glucose analyzer | %"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 14,
+          "pass_2_index": 23,
+          "alignment_score": 0.5128205128205128,
+          "pass_1_summary": "Plasma Insulin Measurement - CV Fasting | 7.2 ± 1.7 | microparticle enzyme immunoassay technology | %",
+          "pass_2_summary": "Plasma Insulin Measurement - CV Fasting | 7.2 ± 1.7 | microparticle enzyme immunoassay | %"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 15,
+          "pass_2_index": 25,
+          "alignment_score": 1.0,
+          "pass_1_summary": "FFA Measurement - CV Fasting | 5.9 ± 1.8 | FFA determination | %",
+          "pass_2_summary": "FFA Measurement - CV Fasting | 5.9 ± 1.8 | FFA determination | %"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 16,
+          "pass_2_index": 15,
+          "alignment_score": 0.9473684210526315,
+          "pass_1_summary": "Dose-Response Study - Low Dose Insulin Infusion | 10 | dose-response clamp study | mU/(m2·min)",
+          "pass_2_summary": "Dose-Response Study - Low Dose Insulin Infusion | 10 | dose-response clamp study | mU/(m2·min)"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 17,
+          "pass_2_index": 17,
+          "alignment_score": 0.8571428571428571,
+          "pass_1_summary": "Dose-Response Study - Low Dose Target Plasma Insulin | 150 | dose-response clamp study | pmol/liter",
+          "pass_2_summary": "Dose-Response Study - Target Plasma Insulin (Low Dose) | 150 | dose-response clamp study | pmol/liter"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 0.625,
+          "pass_1_summary": "Study Population - Total N | 57",
+          "pass_2_summary": "Study Population - Total N | 57"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 6,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Inclusion Criteria - Lifestyle | sedentary lifestyle"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 7,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Inclusion Criteria - Medical History | no history of hypertension, endocrine/metabolic disease, or cigarette smoking"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 16,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Dose-Response Study - High Dose Insulin Infusion | 40 | dose-response clamp study | mU/(m2·min)"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 18,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Dietary Preparation | isocaloric diet"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 19,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Exercise Abstinence Period | 3 weeks | weeks"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 20,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Women Study Timing | days 3-8 of menstrual cycle"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 22,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Plasma Glucose Measurement - CV Clamp | 3.0 ± 0.4 | glucose analyzer | %"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 24,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Plasma Insulin Measurement - CV Clamp | 5.7 ± 0.7 | microparticle enzyme immunoassay | %"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 26,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "FFA Measurement - CV Clamp | 9.3 ± 3.8 | FFA determination | %"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 27,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "FFA Sample Storage Temperature | -70 | °C"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 28,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "FFA Assay Timing | 0-5 working days | days"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 29,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Steady-State Period Definition | final 30 minutes (120-150 min) | euglycemic hyperinsulinemic clamp | minutes"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 30,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Steady-State Criteria - CV Threshold | less than 7% | euglycemic hyperinsulinemic clamp | %"
+        }
+      ],
+      "aligned_narrative_pairs": [
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 1.0,
+          "pass_1_summary": "HOMA-IR was weakly associated with S I(clamp) [weak association]",
+          "pass_2_summary": "HOMA-IR was weakly associated with S I(clamp) [weak association]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 1.0,
+          "pass_1_summary": "The revised QUICKI markedly improved the relationships with both S I(clamp) and GIR [improvement]",
+          "pass_2_summary": "The revised QUICKI markedly improved the relationships with both S I(clamp) and GIR [improvement]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 0.96,
+          "pass_1_summary": "Fasting plasma glucose and FFA concentrations were significantly increased in the offspring of type 2 diabetic parents with respect to normal subjects [increased in offspring]",
+          "pass_2_summary": "Fasting plasma glucose and FFA concentrations were significantly increased in the offspring of type 2 diabetic parents with respect to normal subjects [increased in offspring group]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 4,
+          "pass_2_index": 4,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Impaired insulin sensitivity in the offspring of type 2 diabetic parents was reflected by 21% and 20% reduction in GIR and S I(clamp), respectively [reduction]",
+          "pass_2_summary": "Impaired insulin sensitivity in the offspring of type 2 diabetic parents was reflected by 21% and 20% reduction in GIR and S I(clamp), respectively [reduction]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 5,
+          "pass_2_index": 5,
+          "alignment_score": 0.8125,
+          "pass_1_summary": "The revised QUICKI found a significant reduction in insulin sensitivity in the offspring group (10%), whereas HOMA-IR and QUICKI did not detect any significant difference [detection of difference]",
+          "pass_2_summary": "HOMA-IR and QUICKI did not detect any significant difference in insulin sensitivity between offspring and control groups [no difference detected]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 6,
+          "pass_2_index": 7,
+          "alignment_score": 1.0,
+          "pass_1_summary": "FFA levels during the low-dose insulin clamp were inversely associated with S I(clamp) calculated during both the low- and high-dose insulin clamp [inverse association]",
+          "pass_2_summary": "FFA levels during the low-dose insulin clamp were inversely associated with S I(clamp) calculated during both the low- and high-dose insulin clamp [inverse association]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 7,
+          "pass_2_index": 8,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Simple regression analysis showed that log(I b) and log(FFA b) were significantly associated with IR, whereas log(G b) was not [significant association]",
+          "pass_2_summary": "Simple regression analysis showed that log(I b) and log(FFA b) were significantly associated with IR, whereas log(G b) was not [significant association]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 8,
+          "pass_2_index": 9,
+          "alignment_score": 0.8947368421052632,
+          "pass_1_summary": "The multiple stepwise regression analysis selected log(I b) and log(FFA b) as the best set of predictors of IR [predictive association]",
+          "pass_2_summary": "Multiple stepwise regression analysis selected log(I b) and log(FFA b) as the best set of predictors of IR [best predictors]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 9,
+          "pass_2_index": 10,
+          "alignment_score": 0.4722222222222222,
+          "pass_1_summary": "Incorporation of the fasting FFA concentration into QUICKI improved its association with insulin sensitivity and enhanced its discriminatory power [improvement]",
+          "pass_2_summary": "Incorporation of fasting FFA concentration into QUICKI improved its association with insulin sensitivity [improvement]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 0.8888888888888888,
+          "pass_1_summary": "S I(clamp), M value, and GIR were inversely associated with fasting FFA [inverse association]",
+          "pass_2_summary": "S I(clamp), M value, and GIR were inversely associated with fasting FFA [inverse association]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": null,
+          "pass_2_index": 6,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "The revised QUICKI found a significant reduction in insulin sensitivity in the offspring group [significant reduction]"
+        }
+      ],
+      "semantic_groups": [
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 0,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text and values",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text and values",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 2,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact with minor punctuation difference (hyphen placement in 'Subgroup N' vs 'Subgroup - N')",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 3,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same age range (19-45 years) with minor label variation ('Age Range' vs 'Age') and redundant 'years' unit in pass_2",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 4,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same BMI criterion (<27 kg/m2) with different phrasing ('BMI' vs 'Body Mass Index', '<27' vs 'less than 27')",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text and values",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 6,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same weight stability criterion (6-12 months) with minor phrasing differences ('Body Weight Stability' vs 'Weight Stability', added 'stable for at least')",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 7,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same insulin infusion rate with minor hyphenation difference in label ('Euglycemic-Hyperinsulinemic' vs 'Euglycemic Hyperinsulinemic')",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 8,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Hyphen usage differs ('Euglycemic-Hyperinsulinemic' vs 'Euglycemic Hyperinsulinemic') but facts are identical",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 9,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Hyphen usage differs ('Euglycemic-Hyperinsulinemic' vs 'Euglycemic Hyperinsulinemic') but facts are identical",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 10,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Different phrasing ('Blood Sampling Interval | 15' vs 'Blood Sampling Frequency | every 15 minutes') but same underlying fact",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 11,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Pass 2 adds contextual detail ('overnight') but both describe 10-hour fasting period",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 12,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Pass 1 includes manufacturer details while Pass 2 is more generic, but same measurement value",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 13,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Pass 1 includes 'technology' suffix in method name but same measurement and value",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 14,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical facts with identical values and negligible wording differences",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 15,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical facts with identical values and negligible wording differences",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 16,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact with different word order: 'Low Dose Target' vs 'Target (Low Dose)'. Both refer to the same 150 pmol/liter measurement in dose-response clamp study.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 17,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical extraction: Study Population Total N = 57 in both passes.",
+          "recommended_action": "no_action"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 18,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 has no data while Pass 2 contains inclusion criteria about sedentary lifestyle. This information is only in Pass 2.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 19,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 has no data while Pass 2 contains inclusion criteria about medical history. This information is only in Pass 2.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 20,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 has no data while Pass 2 contains high dose insulin infusion parameters (40 mU/(m2·min)). This information is only in Pass 2.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 21,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 has no data while Pass 2 contains dietary preparation information (isocaloric diet). This information is only in Pass 2.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 22,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 has no data while Pass 2 contains exercise abstinence period (3 weeks). This information is only in Pass 2.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 23,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 has no data while Pass 2 contains women study timing information (days 3-8 of menstrual cycle). This information is only in Pass 2.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 24,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 is empty; only Pass 2 contains data on Plasma Glucose Measurement CV",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 25,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 is empty; only Pass 2 contains data on Plasma Insulin Measurement CV",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 26,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 is empty; only Pass 2 contains data on FFA Measurement CV",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 27,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 is empty; only Pass 2 contains FFA Sample Storage Temperature data",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 28,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 is empty; only Pass 2 contains FFA Assay Timing data",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 29,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 is empty; only Pass 2 contains Steady-State Period Definition data",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 30,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 is empty; only Pass 2 contains Steady-State Criteria CV Threshold data",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 0,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about HOMA-IR and SI(clamp) weak association",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about revised QUICKI improvement",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 2,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact; pass_2 adds 'group' descriptor to 'offspring' in summary tag",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 3,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about insulin sensitivity reduction percentages",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 4,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass_1 states revised QUICKI found 10% reduction; pass_2 omits this finding and only mentions HOMA-IR and QUICKI found no difference",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about FFA inverse association with SI(clamp)",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 6,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about regression analysis associations",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 7,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact; minor wording difference ('predictive association' vs 'best predictors')",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 8,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe incorporation of fasting FFA into QUICKI improving association with insulin sensitivity. Pass 1 adds 'enhanced its discriminatory power' which is additional detail, not a contradiction.",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 9,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both extractions are identical, describing inverse association between SI(clamp), M value, GIR and fasting FFA.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 10,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 is empty while Pass 2 contains information about revised QUICKI finding significant reduction in insulin sensitivity in offspring group. This is an orphan entry with no corresponding extraction in Pass 1.",
+          "recommended_action": "human_review"
+        }
+      ]
+    },
+    "consensus": {
+      "samples": 3,
+      "method_clusters": 9,
+      "narrative_clusters": 4,
+      "average_method_support": 0.6030768999519,
+      "average_narrative_support": 0.39487179487179486
+    }
+  }
+}

@@ -227,7 +227,10 @@ def parse_command(
         sys.exit(1)
 
     input_path = Path(input_dir)
-    pdf_files = sorted(input_path.rglob("*.pdf"))
+    if input_path.is_file() and input_path.suffix.lower() == ".pdf":
+        pdf_files = [input_path]
+    else:
+        pdf_files = sorted(input_path.rglob("*.pdf"))
     if consensus_samples < 1:
         log("ERROR consensus_samples must be at least 1.")
         sys.exit(1)

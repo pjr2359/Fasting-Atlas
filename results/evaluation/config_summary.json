@@ -1,0 +1,53 @@
+{
+  "run_a_conservative": {
+    "samples": 3,
+    "temperature": 0.4,
+    "successful_parses": "9/9",
+    "schema_valid": "9/9",
+    "titles_extracted": "9/9",
+    "mean_methods_per_paper": 12.111,
+    "mean_narrative_per_paper": 3.889,
+    "tables_total": 10,
+    "mean_method_support": 0.638,
+    "mean_narrative_support": 0.589,
+    "mean_council_conflicts": 3.111,
+    "evidence_exact_match_rate": 0.201,
+    "evidence_token_grounding_rate": 0.65,
+    "mean_evidence_token_overlap": 0.802,
+    "mean_runtime_seconds_per_paper": 127
+  },
+  "run_b_moderate": {
+    "samples": 3,
+    "temperature": 0.6,
+    "successful_parses": "9/9",
+    "schema_valid": "9/9",
+    "titles_extracted": "9/9",
+    "mean_methods_per_paper": 11.556,
+    "mean_narrative_per_paper": 3.222,
+    "tables_total": 10,
+    "mean_method_support": 0.608,
+    "mean_narrative_support": 0.551,
+    "mean_council_conflicts": 4.667,
+    "evidence_exact_match_rate": 0.207,
+    "evidence_token_grounding_rate": 0.659,
+    "mean_evidence_token_overlap": 0.809,
+    "mean_runtime_seconds_per_paper": 130
+  },
+  "run_c_diverse": {
+    "samples": 5,
+    "temperature": 0.8,
+    "successful_parses": "9/9",
+    "schema_valid": "9/9",
+    "titles_extracted": "9/9",
+    "mean_methods_per_paper": 13.0,
+    "mean_narrative_per_paper": 3.556,
+    "tables_total": 10,
+    "mean_method_support": 0.558,
+    "mean_narrative_support": 0.469,
+    "mean_council_conflicts": 3.889,
+    "evidence_exact_match_rate": 0.231,
+    "evidence_token_grounding_rate": 0.645,
+    "mean_evidence_token_overlap": 0.782,
+    "mean_runtime_seconds_per_paper": 195
+  }
+}

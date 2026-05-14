@@ -1,0 +1,2465 @@
+{
+  "paper_id": "jcem0698-a6a525d16a2f",
+  "source_file": "papers/jcem0698.pdf",
+  "metadata": {
+    "title": "Homeostasis During Fasting. II. Hormone Substrate Differences Between Men and Women",
+    "authors": [
+      "THOMAS J. MERIMEE",
+      "S. EDWIN FINEBERG"
+    ],
+    "year": 1973,
+    "journal": "Journal of Clinical Endocrinology and Metabolism",
+    "study_design": "Comparative fasting study with controlled intervention",
+    "demographics": "Ten normal men and 9 normal women; Four men matched with 4 women in weight and age; Five women fasted in both preovulatory and postovulatory phases",
+    "evidence": [
+      {
+        "source_file": "papers/jcem0698.pdf",
+        "page": 698,
+        "quote": "Ten normal men and 9 normal women were fasted for 72 hr.",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem0698.pdf",
+        "page": 698,
+        "quote": "Four men, matching 4 of the women in weight and age, were also fasted a second time while receiving ethinylestradiol (0.1 mg twice daily).",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem0698.pdf",
+        "page": 698,
+        "quote": "Five of the women were fasted in both the preovulatory and postovulatory phases of the menstrual cycle.",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem0698.pdf",
+        "page": 698,
+        "quote": "The mean lowest glucose concentration in plasma in the male group during the 3 days of starvation was 66.4 ± 2.9 mg/100 ml. The corresponding figure in females was 47.8 ±2.9 mg/100 ml (p < 0.01).",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem0698.pdf",
+        "page": 698,
+        "quote": "Mean peak glucagon concentrations in women and men were, respectively, 230.0 ± 36.1 mig/ml and 121.8 ± 17.9 nng/ml (p < 0.01).",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem0698.pdf",
+        "page": 698,
+        "quote": "(/ Clin Endocrinol Metab 37: 698, 1973)",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Matched Subjects for Ethinylestradiol Study",
+      "value": "72 hours",
+      "method": null,
+      "unit": null,
+      "confidence": 0.4230769230769231,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "Ten normal men and 9 normal women were fasted for 72 hr.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucose assay - coefficient of variation within assay",
+      "value": "15 to 17 days after the last day of menstrual bleeding",
+      "method": null,
+      "unit": "days",
+      "confidence": 0.41666666666666663,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 700,
+          "quote": "The former study was conducted 4 to 5 days after the last day of menstrual bleeding",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Prefasting Diet Carbohydrate Content",
+      "value": "1 g/kg of body weight",
+      "method": null,
+      "unit": "weeks",
+      "confidence": 0.3888888888888889,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "Prior to admission, all subjects ingested a diet containing a minimum of 150 g of carbyhodrate",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Ethinylestradiol Treatment Duration",
+      "value": "2 days",
+      "method": null,
+      "unit": "days",
+      "confidence": 0.55,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "Each 3-day fast was preceded by a 2-day control period.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood sampling frequency",
+      "value": "8 AM and 8 PM daily",
+      "method": null,
+      "unit": null,
+      "confidence": 0.8333333333333334,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "Samples were obtained at 8 AM and 8 PM daily.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucose assay - coefficient of variation between assays",
+      "value": "modifications of Roth, Click, Yalow and Berson method",
+      "method": "glucose oxidase",
+      "unit": "%",
+      "confidence": 0.3333333333333333,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "and between assays, 2.5%.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Ethinylestradiol Dosing",
+      "value": "modifications of Berson and Yalow method",
+      "method": null,
+      "unit": null,
+      "confidence": 0.359375,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "FFA were measured in duplicate by the method of Trout, Estes and Friedberg using palmitic acid standards and a 4 point standard curve",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Insulin Assay - Maximum Variation in Basal Range",
+      "value": "quadruplicate",
+      "method": null,
+      "unit": null,
+      "confidence": 0.4642857142857143,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "Maximum variation in the basal range (0 to 15) was 1.0 u.U/ml.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion Criterion - Hepatic Function",
+      "value": "No subject was receiving any type of medication",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5833333333333334,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "No subject had CHO intolerance and hepatic screening tests were normal.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body Weight Criterion",
+      "value": "Within 10% of ideal body weight",
+      "method": null,
+      "unit": "%",
+      "confidence": 0.75,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "Within 10% of ideal body weight according to New York Metropolitan Tables.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucagon Assay - Sample Replicates",
+      "value": "triplicate",
+      "method": null,
+      "unit": null,
+      "confidence": 0.875,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 698,
+          "quote": "For glucagon measurements, samples were run in triplicate with appropriate control tubes for each sample.",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Men treated with ethinylestradiol did not exhibit a metabolic pattern comparable to women matched in age and weight",
+      "relationship": null,
+      "confidence": 0.33333333333333337,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "page": 702,
+          "quote": "men treated with ethinylestradiol did not exhibit a metabolic pattern comparable to women matched in age and weight.",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "p1_t1",
+      "page": 1,
+      "caption": null,
+      "variable_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "unit_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "Homeostasis During Fasting. II. Hormone Substrate\nDifferences Between Men and Women\nTHOMAS J. MERIMEE, AND S. EDWIN FINEBERG\nDepartment of Medicine, Boston University School of Medicine, Boston, Massachusetts 02118 and Boston\nCity Hospital Medical Service, Boston City Hospital, Boston, Massachusetts 02118\nABSTRACT. Ten normal men and 9 normal 17.9 nng/ml (p < 0.01). These differences of glu-\nwomen were fasted for 72 hr. Four men, matching cagon were, likewise, significant when expressed Downloaded\n4 of the women in weight and age, were also in terms of per cent increase from basal (170 ±\nfasted a second time while receiving ethinyl- 25% vs. 56 ± 20%, P < 0.01).\nestradiol (0.1 mg twice daily). Five of the women There was no significant difference in plasma\nwere fasted in both the preovulatory and post- insulin concentrations during the fast, but plasma\novulatory phases of the menstrual cycle. free fatty acid (FFA) concentration rose signifi- from\nPremenopausal women had significantly lower cantly higher in the women than in the men (mean\nconcentrations of glucose during fasting than men. peak concentration: women, 2.25 ± 0.204 mmole/1 https://academic.oup.com/jcem/article/37/5/698/2686244\nThe mean lowest glucose concentration in plasma vs men, 1.429 ± 0.149 mmole/1, p < 0.01). An\nin the male group during the 3 days of starvation attempt to correlate the hormone-substrate re-\nwas 66.4 ± 2.9 mg/100 ml (X ± SEM). The sponse with (a) body weight of the subjects, (b)\ncorresponding figure in females was 47.8 ±2.9 treatment or nontreatment with estrogen or (c)\nmg/100 ml (p < 0.01). Associated with the phases of the menstrual cycle was unsuccessful.\ngreater decrease of plasma glucose in women was The data obtained from these fasts supports a\na significantly greater and earlier increase of different hormone-fuel pattern of response for\nplasma immunoreactive glucagon. Mean peak men and women. The data are not consistent with\nglucagon concentrations in women and men were, a single, primary hormone of fasting. (/ Clin\nrespectively, 230.0 ± 36.1 mig/ml and 121.8 ± Endocrinol Metab 37: 698, 1973)\nT HE regulation of substrate production from 9 women and 10 men.1 Four men were\nduring starvation has been the subject closely matched for body weight and age with\n4 of the women. The men were fasted twice,\nof intense investigation (1-3). Although\nboth with and without ethinylestradiol, 0.1 mg\ninsulin has been suggested as a primary\ntwice daily. Five of the women were fasted dur-\nhormone of fasting, (1) we were able to\ning the preovulatory and postovulatory phases\nshow in previous studies that plasma glucose\nof the menstrual cycle. No subject had CHO\nconcentrations could not be maintained ade-\nintolerance and hepatic screening tests were\nquately in the chronic absence of human normal. No srarjject was receiving any type of by\nCornell\ngrowth hormone (hGH) (2). medication.\nThe present study will emphasize three Each 3-day fast was preceded by a 2-day\npoints not appreciated previously concerning control period. Samples were obtained at 8 AM University\nthe hormone-substrate changes during fast- and 8 PM daily. Four ml of blood were added\nimmediately to a chilled tube containing 0.4 ml\ning: (a) that premenopausal women do not\nof Trasylol (1000 U/ml). Twenty ml of blood user\nmaintain plasma glucose concentration dur-\nwere collected in a heparinized syringe; both\ning a fast as do men of a comparable age, on\naliquots were centrifuged immediately and\n(b) that there is a greater increase of plasma 21\nstored at — 20C until analysis. The samples were\nglucagon in women and, likewise, (c) a March\nanalyzed for glucose, FFA, insulin, HGH and\ngreater increase in plasma free fatty acids glucagon concentrations. Glucose was measured\n(FFA). in triplicate by a glucose oxidase method (4). 2026\nThe coefficient of variation between triplicates\nMaterials and Methods in a given assay was 1.5% and between assays,\n2.5%. FFA were measured in duplicate by the\nPrior to admission, all subjects ingested a diet\nmethod of Trout, Estes and Friedberg using\ncontaining a minimum of 150 g of carbyhodrate\npalmitic acid standards and a 4 point standard\nand 1 g/kg of body weight of protein for at\ncurve (5). Serum immunoreactive insulin, HGH\nleast 2 weeks. Informed consent was obtained\n1 Within 10% of ideal body weight according to\nReceived June 6, 1973. New York Metropolitan Tables.\n698",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "cells": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 0,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 0,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 0,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 0,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 1,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 1,
+          "col": 1,
+          "text": "Homeostasis During Fasting. II. Hormone Substrate\nDifferences Between Men and Women\nTHOMAS J. MERIMEE, AND S. EDWIN FINEBERG\nDepartment of Medicine, Boston University School of Medicine, Boston, Massachusetts 02118 and Boston\nCity Hospital Medical Service, Boston City Hospital, Boston, Massachusetts 02118\nABSTRACT. Ten normal men and 9 normal 17.9 nng/ml (p < 0.01). These differences of glu-\nwomen were fasted for 72 hr. Four men, matching cagon were, likewise, significant when expressed Downloaded\n4 of the women in weight and age, were also in terms of per cent increase from basal (170 ±\nfasted a second time while receiving ethinyl- 25% vs. 56 ± 20%, P < 0.01).\nestradiol (0.1 mg twice daily). Five of the women There was no significant difference in plasma\nwere fasted in both the preovulatory and post- insulin concentrations during the fast, but plasma\novulatory phases of the menstrual cycle. free fatty acid (FFA) concentration rose signifi- from\nPremenopausal women had significantly lower cantly higher in the women than in the men (mean\nconcentrations of glucose during fasting than men. peak concentration: women, 2.25 ± 0.204 mmole/1 https://academic.oup.com/jcem/article/37/5/698/2686244\nThe mean lowest glucose concentration in plasma vs men, 1.429 ± 0.149 mmole/1, p < 0.01). An\nin the male group during the 3 days of starvation attempt to correlate the hormone-substrate re-\nwas 66.4 ± 2.9 mg/100 ml (X ± SEM). The sponse with (a) body weight of the subjects, (b)\ncorresponding figure in females was 47.8 ±2.9 treatment or nontreatment with estrogen or (c)\nmg/100 ml (p < 0.01). Associated with the phases of the menstrual cycle was unsuccessful.\ngreater decrease of plasma glucose in women was The data obtained from these fasts supports a\na significantly greater and earlier increase of different hormone-fuel pattern of response for\nplasma immunoreactive glucagon. Mean peak men and women. The data are not consistent with\nglucagon concentrations in women and men were, a single, primary hormone of fasting. (/ Clin\nrespectively, 230.0 ± 36.1 mig/ml and 121.8 ± Endocrinol Metab 37: 698, 1973)\nT HE regulation of substrate production from 9 women and 10 men.1 Four men were\nduring starvation has been the subject closely matched for body weight and age with\n4 of the women. The men were fasted twice,\nof intense investigation (1-3). Although\nboth with and without ethinylestradiol, 0.1 mg\ninsulin has been suggested as a primary\ntwice daily. Five of the women were fasted dur-\nhormone of fasting, (1) we were able to\ning the preovulatory and postovulatory phases\nshow in previous studies that plasma glucose\nof the menstrual cycle. No subject had CHO\nconcentrations could not be maintained ade-\nintolerance and hepatic screening tests were\nquately in the chronic absence of human normal. No srarjject was receiving any type of by\nCornell\ngrowth hormone (hGH) (2). medication.\nThe present study will emphasize three Each 3-day fast was preceded by a 2-day\npoints not appreciated previously concerning control period. Samples were obtained at 8 AM University\nthe hormone-substrate changes during fast- and 8 PM daily. Four ml of blood were added\nimmediately to a chilled tube containing 0.4 ml\ning: (a) that premenopausal women do not\nof Trasylol (1000 U/ml). Twenty ml of blood user\nmaintain plasma glucose concentration dur-\nwere collected in a heparinized syringe; both\ning a fast as do men of a comparable age, on\naliquots were centrifuged immediately and\n(b) that there is a greater increase of plasma 21\nstored at — 20C until analysis. The samples were\nglucagon in women and, likewise, (c) a March\nanalyzed for glucose, FFA, insulin, HGH and\ngreater increase in plasma free fatty acids glucagon concentrations. Glucose was measured\n(FFA). in triplicate by a glucose oxidase method (4). 2026\nThe coefficient of variation between triplicates\nMaterials and Methods in a given assay was 1.5% and between assays,\n2.5%. FFA were measured in duplicate by the\nPrior to admission, all subjects ingested a diet\nmethod of Trout, Estes and Friedberg using\ncontaining a minimum of 150 g of carbyhodrate\npalmitic acid standards and a 4 point standard\nand 1 g/kg of body weight of protein for at\ncurve (5). Serum immunoreactive insulin, HGH\nleast 2 weeks. Informed consent was obtained\n1 Within 10% of ideal body weight according to\nReceived June 6, 1973. New York Metropolitan Tables.\n698",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 1,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 1,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 2,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 2,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 2,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 2,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 3,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 3,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 3,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p1_t1",
+          "page": 1,
+          "row": 3,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        }
+      ],
+      "extraction_method": "pdfplumber+llm_hints",
+      "confidence": 0.75
+    },
+    {
+      "table_id": "p2_t1",
+      "page": 2,
+      "caption": null,
+      "variable_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "unit_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "HORMONE SUBSTRATE VARIATION IN FASTING 699\nand glucagon were assayed by modifications of\nGLUCOSE\nthe methods of Berson and Yalow, and Roth,\nClick, Yalow and Berson, respectively (6,7). 90\nHGH samples were checked in duplicate with\n70\nthe maximum variation between duplicates be-\n^»\ning 0.5 ng/ml in the 0 to 5 range, and 1.0 ng/\n50\nml in the 5 to 15 range. To obtain maximum Downloaded\naccuracy within the range of normal basal values 0\nof insulin, samples were run in quadruplicate,\n2.2 FFA\nthe final reported value being the mean of 4\ndeterminations. Maximum variation in the basal\n1.8 from\nrange (0 to 15) was 1.0 u.U/ml. Glucagon was\nmeasured using a charcoal separatory method \\ j 1.4 https://academic.oup.com/jcem/article/37/5/698/2686244\nand antiserum for pancreatic glucagon (30 K)\nwhich was obtained from Dr. Roger Unger. For 1.0\nglucagon measurements, samples were run in\ntriplicate with appropriate control tubes for 0.6\neach sample. To negate small differences be-\n0\ntween assays with glucagon, the values used in\nINSULIN\nthis report were obtained by reassaying all sam- 12\nples in a single assay.\n10\nThe reference hormones used for each assay\nwere as follows: HGH, HS 1394; Glucagon, I\n8\nGLF 599A; and for Insulin, PJ 5682 (Lilly).\n6\nResults\nA. Men/women pattern. Fig. 1 depicts the 4\nGLUCAGON\nmean plasma glucose, FFA, glucagon and 200\ninsulin concentrations of normal men and\nwomen at 12-hr intervals during the control 160 by\nperiod and 72 hr of fasting. Sample 1 was Cornell\n120\nobtained after a 12-hr fast while patients\nwere receiving the standard diet. With pro- 80 University\nlonged fasting, plasma glucose and insulin\nconcentrations decreased in both men and 40\n12 24 36 48 60 72\nwomen, reaching a plateau on the second user\nHOURS\nor third day of the fast.\nFIG. 1. Plasma concentrations of glucose, FFA, on\nThere was a striking sex-based difference\ninsulin and glucagon are shown for men and women 21\nin the pattern of glucose change. Basal at 12-hr intervals during 3 days of fasting. * Indi- March\nplasma glucose concentrations were similar, cates values differ with a p value of <0.01. Points\nbeing 89.0 ± 2.5 mg/100 ml in men and are mean ± SEM.\n2026\n86.3 ±3.2 mg/100 ml in women. In women,\nplasma glucose decreased to 52.5 ±3.4 mg/ Basal glucagon concentrations in women\n100 ml at 60 hr vs 67.5 ±2.0 mg/100 ml and men were 85.1 ± 15.4 pg/ml vs 75.0 ±\nin men. The difference between men and 7.3 pg/ml, respectively. At 36, 48 and 60\nwomen while fasting was significant at the hr of the fast, plasma glucagon concentra-\n1% level. The mean lowest glucose level in tions were significantly higher in women than\nthe men was 66.4 ±2.9 mg/100 ml and in in men (p < 0.01). Actual glucagon concen-\nthe female group, 47.8 ± 2.9 mg/100 ml trations at all time intervals are illustrated\n( 0 0) in Fig. 1 and given in Table 1. The corre-",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "cells": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 0,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 0,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 0,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 0,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 1,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 1,
+          "col": 1,
+          "text": "HORMONE SUBSTRATE VARIATION IN FASTING 699\nand glucagon were assayed by modifications of\nGLUCOSE\nthe methods of Berson and Yalow, and Roth,\nClick, Yalow and Berson, respectively (6,7). 90\nHGH samples were checked in duplicate with\n70\nthe maximum variation between duplicates be-\n^»\ning 0.5 ng/ml in the 0 to 5 range, and 1.0 ng/\n50\nml in the 5 to 15 range. To obtain maximum Downloaded\naccuracy within the range of normal basal values 0\nof insulin, samples were run in quadruplicate,\n2.2 FFA\nthe final reported value being the mean of 4\ndeterminations. Maximum variation in the basal\n1.8 from\nrange (0 to 15) was 1.0 u.U/ml. Glucagon was\nmeasured using a charcoal separatory method \\ j 1.4 https://academic.oup.com/jcem/article/37/5/698/2686244\nand antiserum for pancreatic glucagon (30 K)\nwhich was obtained from Dr. Roger Unger. For 1.0\nglucagon measurements, samples were run in\ntriplicate with appropriate control tubes for 0.6\neach sample. To negate small differences be-\n0\ntween assays with glucagon, the values used in\nINSULIN\nthis report were obtained by reassaying all sam- 12\nples in a single assay.\n10\nThe reference hormones used for each assay\nwere as follows: HGH, HS 1394; Glucagon, I\n8\nGLF 599A; and for Insulin, PJ 5682 (Lilly).\n6\nResults\nA. Men/women pattern. Fig. 1 depicts the 4\nGLUCAGON\nmean plasma glucose, FFA, glucagon and 200\ninsulin concentrations of normal men and\nwomen at 12-hr intervals during the control 160 by\nperiod and 72 hr of fasting. Sample 1 was Cornell\n120\nobtained after a 12-hr fast while patients\nwere receiving the standard diet. With pro- 80 University\nlonged fasting, plasma glucose and insulin\nconcentrations decreased in both men and 40\n12 24 36 48 60 72\nwomen, reaching a plateau on the second user\nHOURS\nor third day of the fast.\nFIG. 1. Plasma concentrations of glucose, FFA, on\nThere was a striking sex-based difference\ninsulin and glucagon are shown for men and women 21\nin the pattern of glucose change. Basal at 12-hr intervals during 3 days of fasting. * Indi- March\nplasma glucose concentrations were similar, cates values differ with a p value of <0.01. Points\nbeing 89.0 ± 2.5 mg/100 ml in men and are mean ± SEM.\n2026\n86.3 ±3.2 mg/100 ml in women. In women,\nplasma glucose decreased to 52.5 ±3.4 mg/ Basal glucagon concentrations in women\n100 ml at 60 hr vs 67.5 ±2.0 mg/100 ml and men were 85.1 ± 15.4 pg/ml vs 75.0 ±\nin men. The difference between men and 7.3 pg/ml, respectively. At 36, 48 and 60\nwomen while fasting was significant at the hr of the fast, plasma glucagon concentra-\n1% level. The mean lowest glucose level in tions were significantly higher in women than\nthe men was 66.4 ±2.9 mg/100 ml and in in men (p < 0.01). Actual glucagon concen-\nthe female group, 47.8 ± 2.9 mg/100 ml trations at all time intervals are illustrated\n( 0 0) in Fig. 1 and given in Table 1. The corre-",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 1,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 1,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 2,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 2,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 2,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 2,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 3,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 3,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 3,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p2_t1",
+          "page": 2,
+          "row": 3,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        }
+      ],
+      "extraction_method": "pdfplumber+llm_hints",
+      "confidence": 0.75
+    },
+    {
+      "table_id": "p3_t1",
+      "page": 3,
+      "caption": null,
+      "variable_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "unit_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "700 MERIMEE AND FINEBERG JCR & M • 1973\nVol 37 • No 5\nTABLE 1. Glucose and glucagon concentrations in plasma: group comparisons with 72 hours of fasting\nGlucose mg/lOOml Glucagon pg/ml\nMean basal Mean lowest MearI basal Mean highest\ncone. cone. cone. cone.\nA. Normal males (9) 87.3 ± 3.5 66.4 ± 2.8 75.0:± 7.3 122.0 ± 17.9\nNormal females (9) 86.3 ± 3.2 47.8 ± 2.9 85.1 ±: 15.4 230.0 ± 26.1\nDownloaded\np NS p< .01 P NS p< .01\nB. Light weight males (4) 90.1 ± 5.0 65.2 ±4.9 70.0:± 8.2 132.0 ± 16.0\n\"Matched\" females (4) 86.3 ± 3.2 47.0 ± 4.8 87.0:± 9.5 248.0 ± 17.3\np NS p< .01 P NS p< .01 from\nC. Females—preovulatory* (5) 88.0 ± 4.0 51.0 ±3.0 278.0 ± 16.0 https://academic.oup.com/jcem/article/37/5/698/2686244\nFemales—postovulatory (5) 86.3 ±3.2 47.0 ± 6.9 83.0:± 12.6 290.0 ± 23.0\np NS p NS p NS\nD. Untreated males (4) 90.0 ± 6.0 71.0 ± 4.9 70.0± 8.4 109.0 ± 14.2\nTreated with ethinylestradiol\n(4) 87.0 ± 3.2 68.0 ± 5.0 83.0± 10.0 116.0 ± 7.8\np NS p NS P NS p NS\n* First three subjects studied are shown in Fig. 2.\nlation coefficient for glucagon and glucose Results of fasting 4 men selected to match\nfor men was 0.64 (p < 0.01) and for women 4 women in weight and age are illustrated\nwas 0.51 (p < .01). The slope of the regres- in Fig. 3. Plasma concentrations of glucose\nsion line for men was —1.48 vs —2.20 for did not decrease to a greater degree in these\nwomen.2 men compared with the initial group of un-\nPrefasting plasma insulin levels were sim- selected men of greater body weight. Plasma\nilar in men and women; 11.9 ± 2.3 f-iU/ml glucose concentrations were significantly\nand 11.8 ± 1.7 M-U/ml, respectively. A simi- higher, however, in these men than in the by\nCornell\nlar decrease of insulin occurred during the weight-matched women. Thirty-one of 36\nfast in each of these groups. values of plasma glucose concentrations af-\nPlasma HGH levels were extremely vari- ter the first 24 hr of fasting were less than University\nable. Mean figures at all time intervals 60 mg/100 ml in women contrasting with\nstudied did not differ between groups, nor\nwithin any given group. user\non\nB. Effect of the menstrual cycle and body 21\nsize on glitcose-glucagon patterns. Women March\nwere fasted in both the preovulatory and\npostovulatory phase. The former study was 2026\nconducted 4 to 5 days after the last day of\nmenstrual bleeding; the latter, 15 to 17 days\nafter the last day of menstrual bleeding.\nChanges of plasma glucose and glucagon\nwere similar in each study period (Fig. 2,\nTable 1).\n0 24 48 72 0 24 48 72\n2 Regression formula: for men, y = —1.48X -f - FIG. 2. The glucose concentrations in plasma are\n192, degrees of freedom = 43; for women, y — shown for 3 women while fasting in the preovulatory\n— 2.20X + 285, degrees of freedom = 43. and postovulatory phases of the menstrual cycle.",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "cells": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 0,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 0,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 0,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 0,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 1,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 1,
+          "col": 1,
+          "text": "700 MERIMEE AND FINEBERG JCR & M • 1973\nVol 37 • No 5\nTABLE 1. Glucose and glucagon concentrations in plasma: group comparisons with 72 hours of fasting\nGlucose mg/lOOml Glucagon pg/ml\nMean basal Mean lowest MearI basal Mean highest\ncone. cone. cone. cone.\nA. Normal males (9) 87.3 ± 3.5 66.4 ± 2.8 75.0:± 7.3 122.0 ± 17.9\nNormal females (9) 86.3 ± 3.2 47.8 ± 2.9 85.1 ±: 15.4 230.0 ± 26.1\nDownloaded\np NS p< .01 P NS p< .01\nB. Light weight males (4) 90.1 ± 5.0 65.2 ±4.9 70.0:± 8.2 132.0 ± 16.0\n\"Matched\" females (4) 86.3 ± 3.2 47.0 ± 4.8 87.0:± 9.5 248.0 ± 17.3\np NS p< .01 P NS p< .01 from\nC. Females—preovulatory* (5) 88.0 ± 4.0 51.0 ±3.0 278.0 ± 16.0 https://academic.oup.com/jcem/article/37/5/698/2686244\nFemales—postovulatory (5) 86.3 ±3.2 47.0 ± 6.9 83.0:± 12.6 290.0 ± 23.0\np NS p NS p NS\nD. Untreated males (4) 90.0 ± 6.0 71.0 ± 4.9 70.0± 8.4 109.0 ± 14.2\nTreated with ethinylestradiol\n(4) 87.0 ± 3.2 68.0 ± 5.0 83.0± 10.0 116.0 ± 7.8\np NS p NS P NS p NS\n* First three subjects studied are shown in Fig. 2.\nlation coefficient for glucagon and glucose Results of fasting 4 men selected to match\nfor men was 0.64 (p < 0.01) and for women 4 women in weight and age are illustrated\nwas 0.51 (p < .01). The slope of the regres- in Fig. 3. Plasma concentrations of glucose\nsion line for men was —1.48 vs —2.20 for did not decrease to a greater degree in these\nwomen.2 men compared with the initial group of un-\nPrefasting plasma insulin levels were sim- selected men of greater body weight. Plasma\nilar in men and women; 11.9 ± 2.3 f-iU/ml glucose concentrations were significantly\nand 11.8 ± 1.7 M-U/ml, respectively. A simi- higher, however, in these men than in the by\nCornell\nlar decrease of insulin occurred during the weight-matched women. Thirty-one of 36\nfast in each of these groups. values of plasma glucose concentrations af-\nPlasma HGH levels were extremely vari- ter the first 24 hr of fasting were less than University\nable. Mean figures at all time intervals 60 mg/100 ml in women contrasting with\nstudied did not differ between groups, nor\nwithin any given group. user\non\nB. Effect of the menstrual cycle and body 21\nsize on glitcose-glucagon patterns. Women March\nwere fasted in both the preovulatory and\npostovulatory phase. The former study was 2026\nconducted 4 to 5 days after the last day of\nmenstrual bleeding; the latter, 15 to 17 days\nafter the last day of menstrual bleeding.\nChanges of plasma glucose and glucagon\nwere similar in each study period (Fig. 2,\nTable 1).\n0 24 48 72 0 24 48 72\n2 Regression formula: for men, y = —1.48X -f - FIG. 2. The glucose concentrations in plasma are\n192, degrees of freedom = 43; for women, y — shown for 3 women while fasting in the preovulatory\n— 2.20X + 285, degrees of freedom = 43. and postovulatory phases of the menstrual cycle.",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 1,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 1,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 2,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 2,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 2,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 2,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 3,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 3,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 3,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p3_t1",
+          "page": 3,
+          "row": 3,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        }
+      ],
+      "extraction_method": "pdfplumber+llm_hints",
+      "confidence": 0.75
+    },
+    {
+      "table_id": "p4_t1",
+      "page": 4,
+      "caption": null,
+      "variable_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "unit_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "HORMONE SUBSTRATE VARIATION IN FASTING 701\nonly 5 of 36 values less than 60 mg/100 ml\nin men (p<0.01). When these men were\n100,r\ntreated with 0.1 mg of ethinylestradiol twice\ndaily for 4 days prior to and during a similar \\ 80\nfast, the glucose-glucagon pattern in plasma\ndid not change. Detailed data for all studies\nDownloaded\nare given in Table 1.\nC. Plasma FFA. Considerable variation\nwas noted in plasma FFA concentrations in\nfrom\neach group and in each individual. Absolute\nvalues (mmole/1) were higher in women than 72 0 24 72 https://academic.oup.com/jcem/article/37/5/698/2686244\nin men during the fast. The actual difference FASTING\nwas significant at 12, 36 and 72 hr of the FIG. 3. Glucose responses of 4 age and weight-\nfast. The mean maximal FFA response re- matched men and women are shown at 12-hr inter-\nvals during 72 hr of fasting. Weights of each sub-\ncorded in women while fasting was 2.258\nject are indicated.\n± 0.204 mmole/1 vs 1.55 ± 0.110 mmole/1\nin the men (p < 0.01). we fasted hGH-deficient dwarfs, plasma glu-\nSince there was considerable variation of cose concentrations were not adequately\nthe basal plasma FFA concentrations in both maintained (2) suggesting that the homeo-\ngroups, FFA were, likewise, calculated in static mechanism in starvation was more\nterms of percent increase over basal. The complex than initially considered. The work-\nmean maximal female response was still sig- ing hypothesis which evolved in our labora-\nnificantly greater than in the male response tory to explain this data was as follows:\n(4809? - 81% vs 314% ± 43%), but the First, insulin, as postulated by Cahill, was\ndifferences between the 2 groups were less thought to act as a fulcrum regulating glu-\nimpressive. cose/FFA concentration in plasma, but,\nsecond, the setting of this mechanism was, by\nDiscussion\nin some manner, HGH dependent. To begin Cornell\nCarbohydrate stores provide only a small clarifying this data, studies were first de-\nfraction of the body's fuel requirements signed to investigate several alternative ex- University\nduring any fast exceeding 24 hr. The major planations.\nsource of emergency fuel is then provided by At the onset, we tested the adequacy of\namino acids mobilized from protein and FFA our control group, since in all fasting studies, user\nfrom adipose tissue (8-10). Several hor- including our own, control subjects were\non\nmones have been suggested as possible agents invariably men. This enlargement of the con-\n21\ncontrolling the release and usage of these trol group to include men and women resulted\nMarch\nsubstrates. Although early studies showed in the principal finding reported in this\nan increase of HGH during a fast (3), this paper: a prominent sex variation in glucose\n2026\nfinding was often discounted due to the spo- control.\nradic nature of the HGH response and, more The differences of glucose-glucagon re-\nimportantly, to its lack of correlation with sponses to fasting between normal men and\nany measurable metabolic parameters (1,2). women were striking and unequivocal. Pre-\nSince the total 24-hr secretory pattern of menopausal women had greater FFA mobil-\nHGH was not assessed in these studies, this ization than men in the face of lower glucose\nlatter conclusion may or may not be justified. concentrations during a fast. As indicated in\nInsulin was later offered as the hormone the previous section, the greater glucagon\nprimarily responsible for control of sub- response of women appeared to correlate\nstrate during starvation (1). However, when with this greater decrease of plasma glucose",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "cells": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 0,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 0,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 0,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 0,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 1,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 1,
+          "col": 1,
+          "text": "HORMONE SUBSTRATE VARIATION IN FASTING 701\nonly 5 of 36 values less than 60 mg/100 ml\nin men (p<0.01). When these men were\n100,r\ntreated with 0.1 mg of ethinylestradiol twice\ndaily for 4 days prior to and during a similar \\ 80\nfast, the glucose-glucagon pattern in plasma\ndid not change. Detailed data for all studies\nDownloaded\nare given in Table 1.\nC. Plasma FFA. Considerable variation\nwas noted in plasma FFA concentrations in\nfrom\neach group and in each individual. Absolute\nvalues (mmole/1) were higher in women than 72 0 24 72 https://academic.oup.com/jcem/article/37/5/698/2686244\nin men during the fast. The actual difference FASTING\nwas significant at 12, 36 and 72 hr of the FIG. 3. Glucose responses of 4 age and weight-\nfast. The mean maximal FFA response re- matched men and women are shown at 12-hr inter-\nvals during 72 hr of fasting. Weights of each sub-\ncorded in women while fasting was 2.258\nject are indicated.\n± 0.204 mmole/1 vs 1.55 ± 0.110 mmole/1\nin the men (p < 0.01). we fasted hGH-deficient dwarfs, plasma glu-\nSince there was considerable variation of cose concentrations were not adequately\nthe basal plasma FFA concentrations in both maintained (2) suggesting that the homeo-\ngroups, FFA were, likewise, calculated in static mechanism in starvation was more\nterms of percent increase over basal. The complex than initially considered. The work-\nmean maximal female response was still sig- ing hypothesis which evolved in our labora-\nnificantly greater than in the male response tory to explain this data was as follows:\n(4809? - 81% vs 314% ± 43%), but the First, insulin, as postulated by Cahill, was\ndifferences between the 2 groups were less thought to act as a fulcrum regulating glu-\nimpressive. cose/FFA concentration in plasma, but,\nsecond, the setting of this mechanism was, by\nDiscussion\nin some manner, HGH dependent. To begin Cornell\nCarbohydrate stores provide only a small clarifying this data, studies were first de-\nfraction of the body's fuel requirements signed to investigate several alternative ex- University\nduring any fast exceeding 24 hr. The major planations.\nsource of emergency fuel is then provided by At the onset, we tested the adequacy of\namino acids mobilized from protein and FFA our control group, since in all fasting studies, user\nfrom adipose tissue (8-10). Several hor- including our own, control subjects were\non\nmones have been suggested as possible agents invariably men. This enlargement of the con-\n21\ncontrolling the release and usage of these trol group to include men and women resulted\nMarch\nsubstrates. Although early studies showed in the principal finding reported in this\nan increase of HGH during a fast (3), this paper: a prominent sex variation in glucose\n2026\nfinding was often discounted due to the spo- control.\nradic nature of the HGH response and, more The differences of glucose-glucagon re-\nimportantly, to its lack of correlation with sponses to fasting between normal men and\nany measurable metabolic parameters (1,2). women were striking and unequivocal. Pre-\nSince the total 24-hr secretory pattern of menopausal women had greater FFA mobil-\nHGH was not assessed in these studies, this ization than men in the face of lower glucose\nlatter conclusion may or may not be justified. concentrations during a fast. As indicated in\nInsulin was later offered as the hormone the previous section, the greater glucagon\nprimarily responsible for control of sub- response of women appeared to correlate\nstrate during starvation (1). However, when with this greater decrease of plasma glucose",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 1,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 1,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 2,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 2,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 2,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 2,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 3,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 3,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 3,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p4_t1",
+          "page": 4,
+          "row": 3,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        }
+      ],
+      "extraction_method": "pdfplumber+llm_hints",
+      "confidence": 0.75
+    },
+    {
+      "table_id": "p5_t1",
+      "page": 5,
+      "caption": null,
+      "variable_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "unit_hints": [
+        "unknown",
+        "unknown",
+        "unknown",
+        "unknown"
+      ],
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "702 MERIMEE AND FINEBERG JCE & M 1973\nVol 37 • No 5\nconcentration. Insulin concentrations de- of plasma glucagon. Considering the data in\ncreased in the women, but not to a lower more general terms, it seems obvious that\nlevel than in the men. current thought regarding the hormonal\nIt would be attractive to postulate that control of fasting has been oversimplified.\nestrogen is responsible for the major differ- Maintenance of adequate substrate during\nences noted between normal men and women. starvation probably involves several hor-\nOne might hypothesize that since estrogen mones. The relative concentrations of each Downloaded\ncounters many effects of HGH, normal in regard to the other may also be of impor-\nwomen would behave as do HGH-deficient tance. The hormone-fuel pattern in plasma\nsubjects (11-13). The data, however, do probably reflects not merely endocrine secre-\nfrom\nnot support this conclusion. The same women tion, but the tissue masses reacting to this\nfasted at different periods of the menstrual secretion. https://academic.oup.com/jcem/article/37/5/698/2686244\ncycle had similar changes of glucose and\nAcknowledgments\nglucagon. Furthermore, men treated with\nThis work was supported by a grant (RR-533)\nethinylestradiol did not exhibit a metabolic from the General Clinical Research Centers Branch,\npattern comparable to women matched in Division of Research Resources, National Institutes\nof Health, and by a grant (AM-13565) from the\nage and weight.\nNational Institute of Arthritis, Metabolism and Di-\nA more likely explanation for the results\ngestive Diseases, National Institutes of Health.\nrelates to differences in body proportion. We wish, also, to thank Miss Ivy Brearley and\nAlthough we matched precisely four subjects Miss Charlene Burton for their technical assistance.\nof each sex for body weight and age, a differ-\nReferences\nence in adipose tissue to muscle mass ratio\n1. Cahill, G. F., Jr., M. F. Herrera, A. P. Morhan,\ncould still exist (14). A reduced muscle\nJ. S. Soeldner. J. Steinke, P. L. Levy, G. A.\ncompartment in women relative to men would Reichard, and D. M. Kipnis, / Clin Invest 45:\nresult, theoretically, in a dimunition of 1751, 1966.\nplasma amino acids for conversion to glucose 2. Merimee, T. J., P. Felig, E. Marliss, S. E. Fine-\nberg, and G. F. Cahill, Jr., / Clin Invest 50:\nplus reduced uptake of FFA by this tissue\n574, 1971.\ncompartment. A larger adipose tissue com- 3. Hunter, W. M., and F. G. Greenwood, Br Med by\npartment in women should yield a higher J 1: 804, 1964. Cornell\nplasma concentration of FFA. This explana- 4. Huggett, A. St. G., and D. A. Nixon, Lancet\ntion would explain nicely the difference ob- 2: 368, 1957.\nUniversity\n5. Trout, D. L., E. H. Estes, Jr., and S. J. Fried-\nserved in glucose levels and, in addition,\nberg, J Lipid Res 1: 199, 1959.\nwould be consistent with the observation that\n6. Yalow, R. S., and S. A. Berson, / Clin Invest\nalthough decreases of plasma insulin were\n39: 1157, 1960. user\nsimilar, increases of plasma FFA concentra- 7. Glick, S. M., J. Roth, R. S. Yalow, and S. A.\ntions were disparate. Whether glucagon is, Berson, Nature (Lond) 199: 784, 1963. on\nin any way, responsible for the greater in- 8. Benedict, F. G., Carnegie Institute Report, 21\n1915. March\ncrease of FFA in women cannot be deter-\n9. Mclllwain, H., Biochemistry and the Central\nmined from our data, nor do we know if\nNervous System, ed. 2, J & A Churchill, Ltd., 2026\ngreater glucagon concentrations will modify London, 1959.\nglucose concentrations during a longer fast. 10. Dole, V. P., / Clin Invest 35: 150, 1959.\n11. Schwartz, E., E. Weidemann, S. Simon, and M.\nAdditional studies quantifying adipose and\nSchiffer, / Clin Endocrinol Metab 29: 1176,\nmuscle compartments of the unmatched men 1969.\nand women remain to be performed, but the 12. Mintz, D. H., J. L. Finster, and J. B. Josinovich,\n/ Clin Endocrinol Metab 27: 1321, 1967.\ndata seems unequivocal in two separate re-\n13. Fraser, R., G. F. Joplin, L. H. Opie, and D.\nspects : there is a greater decrease of plasma\nRabinowitz, / Endocrinol 25: 299, 1962.\nglucose in women than in men during fasting\n14. Cheek, D. B., In Cheek, D. B. (ed.), Human\nand probably, as a result, a greater increase Growth, Lea and Febiger, Philadelphia, 1968.",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "cells": [
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 0,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 0,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 0,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 0,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 1,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 1,
+          "col": 1,
+          "text": "702 MERIMEE AND FINEBERG JCE & M 1973\nVol 37 • No 5\nconcentration. Insulin concentrations de- of plasma glucagon. Considering the data in\ncreased in the women, but not to a lower more general terms, it seems obvious that\nlevel than in the men. current thought regarding the hormonal\nIt would be attractive to postulate that control of fasting has been oversimplified.\nestrogen is responsible for the major differ- Maintenance of adequate substrate during\nences noted between normal men and women. starvation probably involves several hor-\nOne might hypothesize that since estrogen mones. The relative concentrations of each Downloaded\ncounters many effects of HGH, normal in regard to the other may also be of impor-\nwomen would behave as do HGH-deficient tance. The hormone-fuel pattern in plasma\nsubjects (11-13). The data, however, do probably reflects not merely endocrine secre-\nfrom\nnot support this conclusion. The same women tion, but the tissue masses reacting to this\nfasted at different periods of the menstrual secretion. https://academic.oup.com/jcem/article/37/5/698/2686244\ncycle had similar changes of glucose and\nAcknowledgments\nglucagon. Furthermore, men treated with\nThis work was supported by a grant (RR-533)\nethinylestradiol did not exhibit a metabolic from the General Clinical Research Centers Branch,\npattern comparable to women matched in Division of Research Resources, National Institutes\nof Health, and by a grant (AM-13565) from the\nage and weight.\nNational Institute of Arthritis, Metabolism and Di-\nA more likely explanation for the results\ngestive Diseases, National Institutes of Health.\nrelates to differences in body proportion. We wish, also, to thank Miss Ivy Brearley and\nAlthough we matched precisely four subjects Miss Charlene Burton for their technical assistance.\nof each sex for body weight and age, a differ-\nReferences\nence in adipose tissue to muscle mass ratio\n1. Cahill, G. F., Jr., M. F. Herrera, A. P. Morhan,\ncould still exist (14). A reduced muscle\nJ. S. Soeldner. J. Steinke, P. L. Levy, G. A.\ncompartment in women relative to men would Reichard, and D. M. Kipnis, / Clin Invest 45:\nresult, theoretically, in a dimunition of 1751, 1966.\nplasma amino acids for conversion to glucose 2. Merimee, T. J., P. Felig, E. Marliss, S. E. Fine-\nberg, and G. F. Cahill, Jr., / Clin Invest 50:\nplus reduced uptake of FFA by this tissue\n574, 1971.\ncompartment. A larger adipose tissue com- 3. Hunter, W. M., and F. G. Greenwood, Br Med by\npartment in women should yield a higher J 1: 804, 1964. Cornell\nplasma concentration of FFA. This explana- 4. Huggett, A. St. G., and D. A. Nixon, Lancet\ntion would explain nicely the difference ob- 2: 368, 1957.\nUniversity\n5. Trout, D. L., E. H. Estes, Jr., and S. J. Fried-\nserved in glucose levels and, in addition,\nberg, J Lipid Res 1: 199, 1959.\nwould be consistent with the observation that\n6. Yalow, R. S., and S. A. Berson, / Clin Invest\nalthough decreases of plasma insulin were\n39: 1157, 1960. user\nsimilar, increases of plasma FFA concentra- 7. Glick, S. M., J. Roth, R. S. Yalow, and S. A.\ntions were disparate. Whether glucagon is, Berson, Nature (Lond) 199: 784, 1963. on\nin any way, responsible for the greater in- 8. Benedict, F. G., Carnegie Institute Report, 21\n1915. March\ncrease of FFA in women cannot be deter-\n9. Mclllwain, H., Biochemistry and the Central\nmined from our data, nor do we know if\nNervous System, ed. 2, J & A Churchill, Ltd., 2026\ngreater glucagon concentrations will modify London, 1959.\nglucose concentrations during a longer fast. 10. Dole, V. P., / Clin Invest 35: 150, 1959.\n11. Schwartz, E., E. Weidemann, S. Simon, and M.\nAdditional studies quantifying adipose and\nSchiffer, / Clin Endocrinol Metab 29: 1176,\nmuscle compartments of the unmatched men 1969.\nand women remain to be performed, but the 12. Mintz, D. H., J. L. Finster, and J. B. Josinovich,\n/ Clin Endocrinol Metab 27: 1321, 1967.\ndata seems unequivocal in two separate re-\n13. Fraser, R., G. F. Joplin, L. H. Opie, and D.\nspects : there is a greater decrease of plasma\nRabinowitz, / Endocrinol 25: 299, 1962.\nglucose in women than in men during fasting\n14. Cheek, D. B., In Cheek, D. B. (ed.), Human\nand probably, as a result, a greater increase Growth, Lea and Febiger, Philadelphia, 1968.",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 1,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 1,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 2,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 2,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 2,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 2,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 3,
+          "col": 0,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 3,
+          "col": 1,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 3,
+          "col": 2,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem0698.pdf",
+          "table_id": "p5_t1",
+          "page": 5,
+          "row": 3,
+          "col": 3,
+          "text": "",
+          "numeric_value": null,
+          "bbox": null
+        }
+      ],
+      "extraction_method": "pdfplumber+llm_hints",
+      "confidence": 0.75
+    }
+  ],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [
+        {
+          "path": "semantic.methods_participants[pair=18]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes HGH assay replication method (duplicate), while Pass 2 describes duplicate variation measurement (0.5 ng/ml in 0-5 range). Different facts entirely",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=19]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes low range variation (0.5 ng/ml in 0-5 range), Pass 2 describes high range variation (1.0 ng/ml in 5-15 range). These are different measurements",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=20]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes HGH assay high range variation (1.0 ng/ml in 5-15 range), Pass 2 describes Insulin assay basal range variation (1.0 u.U/ml). Different assays and ranges",
+          "severity": "high"
+        }
+      ],
+      "needs_human_review": true,
+      "structural_discrepancies": [
+        {
+          "path": "methods_participants",
+          "pass_1_value": "len=29",
+          "pass_2_value": "len=28",
+          "severity": "medium"
+        },
+        {
+          "path": "methods_participants[0].label",
+          "pass_1_value": "Participant count - men",
+          "pass_2_value": "Study Population - Men",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[0].value",
+          "pass_1_value": "10",
+          "pass_2_value": "10 normal men",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].label",
+          "pass_1_value": "Participant count - women",
+          "pass_2_value": "Study Population - Women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].value",
+          "pass_1_value": "9",
+          "pass_2_value": "9 normal women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].label",
+          "pass_1_value": "Fasting duration",
+          "pass_2_value": "Fasting Duration",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].value",
+          "pass_1_value": "72",
+          "pass_2_value": "72 hours",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].label",
+          "pass_1_value": "Ethinylestradiol dosing",
+          "pass_2_value": "Ethinylestradiol Dosing",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].unit",
+          "pass_1_value": "mg twice daily",
+          "pass_2_value": "mg",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].value",
+          "pass_1_value": "0.1",
+          "pass_2_value": "0.1 mg twice daily",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].evidence[0].quote",
+          "pass_1_value": "Four men, matching 4 of the women in weight and age, were also fasted a second time",
+          "pass_2_value": "Four men, matching 4 of the women in weight and age, were also fasted a second time while receiving ethinylestradiol (0.1 mg twice daily).",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].label",
+          "pass_1_value": "Matched participant pairs",
+          "pass_2_value": "Matched Subjects for Ethinylestradiol Study",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].value",
+          "pass_1_value": "4",
+          "pass_2_value": "4 men and 4 women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].label",
+          "pass_1_value": "Women fasted in menstrual cycle phases",
+          "pass_2_value": "Menstrual Cycle Fasting - Women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].value",
+          "pass_1_value": "5",
+          "pass_2_value": "5 women fasted in preovulatory and postovulatory phases",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].label",
+          "pass_1_value": "Preovulatory phase timing",
+          "pass_2_value": "Preovulatory Phase Timing",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].unit",
+          "pass_1_value": null,
+          "pass_2_value": "days",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[6].value",
+          "pass_1_value": "4 to 5 days after the last day of menstrual bleeding",
+          "pass_2_value": "4 to 5 days after last day of menstrual bleeding",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].label",
+          "pass_1_value": "Postovulatory phase timing",
+          "pass_2_value": "Postovulatory Phase Timing",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].unit",
+          "pass_1_value": null,
+          "pass_2_value": "days",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[7].value",
+          "pass_1_value": "15 to 17 days after the last day of menstrual bleeding",
+          "pass_2_value": "15 to 17 days after last day of menstrual bleeding",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].evidence[0].quote",
+          "pass_1_value": "Prior to admission, all subjects ingested a diet containing a minimum of 150 g of carbyhodrate",
+          "pass_2_value": "Prior to admission, all subjects ingested a diet containing a minimum of 150 g of carbyhodrate and 1 g/kg of body weight of protein for at least 2 weeks.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].label",
+          "pass_1_value": "Prefasting diet - carbohydrate",
+          "pass_2_value": "Pre-fasting Diet - Carbohydrate",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].unit",
+          "pass_1_value": "g minimum",
+          "pass_2_value": "g",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].value",
+          "pass_1_value": "150",
+          "pass_2_value": "minimum of 150 g",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].evidence[0].quote",
+          "pass_1_value": "and 1 g/kg of body weight of protein for at least 2 weeks.",
+          "pass_2_value": "Prior to admission, all subjects ingested a diet containing a minimum of 150 g of carbyhodrate and 1 g/kg of body weight of protein for at least 2 weeks.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].label",
+          "pass_1_value": "Prefasting diet - protein",
+          "pass_2_value": "Pre-fasting Diet - Protein",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].unit",
+          "pass_1_value": "g/kg of body weight",
+          "pass_2_value": "g/kg",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].value",
+          "pass_1_value": "1",
+          "pass_2_value": "1 g/kg of body weight",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].evidence[0].quote",
+          "pass_1_value": "for at least 2 weeks.",
+          "pass_2_value": "Prior to admission, all subjects ingested a diet containing a minimum of 150 g of carbyhodrate and 1 g/kg of body weight of protein for at least 2 weeks.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].label",
+          "pass_1_value": "Prefasting diet duration",
+          "pass_2_value": "Pre-fasting Diet Duration",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].unit",
+          "pass_1_value": "weeks minimum",
+          "pass_2_value": "weeks",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].value",
+          "pass_1_value": "2",
+          "pass_2_value": "at least 2 weeks",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].label",
+          "pass_1_value": "Control period duration",
+          "pass_2_value": "Control Period Before Fasting",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].value",
+          "pass_1_value": "2",
+          "pass_2_value": "2 days",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].label",
+          "pass_1_value": "Blood sampling frequency",
+          "pass_2_value": "Blood Sampling Frequency",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].label",
+          "pass_1_value": "Glucose assay method",
+          "pass_2_value": "Glucose Assay Method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].label",
+          "pass_1_value": "Glucose assay - coefficient of variation within assay",
+          "pass_2_value": "Glucose Assay - Coefficient of Variation Within Assay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].value",
+          "pass_1_value": "1.5",
+          "pass_2_value": "1.5%",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].evidence[0].quote",
+          "pass_1_value": "and between assays, 2.5%.",
+          "pass_2_value": "between assays, 2.5%.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].label",
+          "pass_1_value": "Glucose assay - coefficient of variation between assays",
+          "pass_2_value": "Glucose Assay - Coefficient of Variation Between Assays",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].value",
+          "pass_1_value": "2.5",
+          "pass_2_value": "2.5%",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[16].label",
+          "pass_1_value": "FFA assay method",
+          "pass_2_value": "FFA Assay Method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[17].label",
+          "pass_1_value": "Insulin assay method",
+          "pass_2_value": "Insulin Assay Method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].evidence[0].quote",
+          "pass_1_value": "and Roth, Click, Yalow and Berson, respectively",
+          "pass_2_value": "and glucagon were assayed by modifications of the methods of Berson and Yalow, and Roth, Click, Yalow and Berson, respectively",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[18].label",
+          "pass_1_value": "Glucagon assay method",
+          "pass_2_value": "Glucagon Assay Method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].evidence[0].quote",
+          "pass_1_value": "HGH samples were checked in duplicate",
+          "pass_2_value": "HGH samples were checked in duplicate with the maximum variation between duplicates being 0.5 ng/ml in the 0 to 5 range",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].label",
+          "pass_1_value": "HGH assay replication",
+          "pass_2_value": "HGH Assay - Duplicate Variation (0-5 range)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[19].unit",
+          "pass_1_value": null,
+          "pass_2_value": "ng/ml",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[19].value",
+          "pass_1_value": "duplicate",
+          "pass_2_value": "0.5 ng/ml",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].evidence[0].quote",
+          "pass_1_value": "the maximum variation between duplicates being 0.5 ng/ml in the 0 to 5 range",
+          "pass_2_value": "and 1.0 ng/ml in the 5 to 15 range.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].label",
+          "pass_1_value": "HGH assay maximum variation - low range",
+          "pass_2_value": "HGH Assay - Duplicate Variation (5-15 range)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].unit",
+          "pass_1_value": "ng/ml in the 0 to 5 range",
+          "pass_2_value": "ng/ml",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[20].value",
+          "pass_1_value": "0.5",
+          "pass_2_value": "1.0 ng/ml",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].evidence[0].quote",
+          "pass_1_value": "and 1.0 ng/ml in the 5 to 15 range.",
+          "pass_2_value": "To obtain maximum accuracy within the range of normal basal values of insulin, samples were run in quadruplicate, the final reported value being the mean of 4 determinations.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].label",
+          "pass_1_value": "HGH assay maximum variation - high range",
+          "pass_2_value": "Insulin Assay - Sample Replicates",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[21].unit",
+          "pass_1_value": "ng/ml in the 5 to 15 range",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[21].value",
+          "pass_1_value": "1.0",
+          "pass_2_value": "quadruplicate",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].evidence[0].quote",
+          "pass_1_value": "samples were run in quadruplicate, the final reported value being the mean of 4 determinations.",
+          "pass_2_value": "Maximum variation in the basal range (0 to 15) was 1.0 u.U/ml.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].label",
+          "pass_1_value": "Insulin assay replication",
+          "pass_2_value": "Insulin Assay - Maximum Variation in Basal Range",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[22].unit",
+          "pass_1_value": null,
+          "pass_2_value": "u.U/ml",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[22].value",
+          "pass_1_value": "quadruplicate",
+          "pass_2_value": "1.0 u.U/ml",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].evidence[0].quote",
+          "pass_1_value": "Maximum variation in the basal range (0 to 15) was 1.0 u.U/ml.",
+          "pass_2_value": "For glucagon measurements, samples were run in triplicate with appropriate control tubes for each sample.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].label",
+          "pass_1_value": "Insulin assay maximum variation in basal range",
+          "pass_2_value": "Glucagon Assay - Sample Replicates",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[23].unit",
+          "pass_1_value": "u.U/ml in the 0 to 15 range",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[23].value",
+          "pass_1_value": "1.0",
+          "pass_2_value": "triplicate",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[24].evidence[0].quote",
+          "pass_1_value": "glucagon was measured using a charcoal separatory method and antiserum for pancreatic glucagon (30 K) which was obtained from Dr. Roger Unger. For glucagon measurements, samples were run in triplicate",
+          "pass_2_value": "No subject had CHO intolerance and hepatic screening tests were normal.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[24].label",
+          "pass_1_value": "Glucagon assay replication",
+          "pass_2_value": "Inclusion Criterion - CHO Tolerance",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[24].value",
+          "pass_1_value": "triplicate",
+          "pass_2_value": "No subject had CHO intolerance",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[25].label",
+          "pass_1_value": "Inclusion criteria - CHO intolerance",
+          "pass_2_value": "Inclusion Criterion - Hepatic Function",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[25].value",
+          "pass_1_value": "No",
+          "pass_2_value": "hepatic screening tests were normal",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[26].evidence[0].quote",
+          "pass_1_value": "No subject had CHO intolerance and hepatic screening tests were normal.",
+          "pass_2_value": "No srarjject was receiving any type of medication.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[26].label",
+          "pass_1_value": "Inclusion criteria - hepatic function",
+          "pass_2_value": "Inclusion Criterion - Medication",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[26].value",
+          "pass_1_value": "Normal",
+          "pass_2_value": "No subject was receiving any type of medication",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[27].evidence[0].quote",
+          "pass_1_value": "No srarjject was receiving any type of medication.",
+          "pass_2_value": "Within 10% of ideal body weight according to New York Metropolitan Tables.",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[27].label",
+          "pass_1_value": "Inclusion criteria - medication",
+          "pass_2_value": "Body Weight Criterion",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[27].unit",
+          "pass_1_value": null,
+          "pass_2_value": "%",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[27].value",
+          "pass_1_value": "None",
+          "pass_2_value": "Within 10% of ideal body weight",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results",
+          "pass_1_value": "len=6",
+          "pass_2_value": "len=8",
+          "severity": "medium"
+        },
+        {
+          "path": "narrative_results[0].statement",
+          "pass_1_value": "Plasma glucose and insulin concentrations decreased in both men and women during prolonged fasting, reaching a plateau on the second or third day of the fast",
+          "pass_2_value": "With prolonged fasting, plasma glucose and insulin concentrations decreased in both men and women, reaching a plateau on the second or third day of the fast",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].relationship",
+          "pass_1_value": "lower in women",
+          "pass_2_value": "sex-based difference",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].statement",
+          "pass_1_value": "In women, plasma glucose decreased to 52.5 ±3.4 mg/100 ml at 60 hr vs 67.5 ±2.0 mg/100 ml in men, with the difference being significant at the 1% level",
+          "pass_2_value": "In women, plasma glucose decreased to 52.5 ±3.4 mg/100 ml at 60 hr vs 67.5 ±2.0 mg/100 ml in men, with the difference significant at the 1% level",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[3].relationship",
+          "pass_1_value": "higher in women",
+          "pass_2_value": "sex-based difference",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[3].statement",
+          "pass_1_value": "Plasma glucagon concentrations were significantly higher in women than in men at 36, 48 and 60 hr of the fast (p < 0.01)",
+          "pass_2_value": "At 36, 48 and 60 hr of the fast, plasma glucagon concentrations were significantly higher in women than in men (p < 0.01)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[4].evidence[0].quote",
+          "pass_1_value": "Changes of plasma glucose and glucagon were similar in each study period",
+          "pass_2_value": "Changes of plasma glucose and glucagon were similar in each study period (Fig. 2, Table 1).",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[4].relationship",
+          "pass_1_value": "no difference",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "narrative_results[4].statement",
+          "pass_1_value": "Changes of plasma glucose and glucagon were similar in women fasted in both the preovulatory and postovulatory phase",
+          "pass_2_value": "Changes of plasma glucose and glucagon were similar in each study period during preovulatory and postovulatory phases",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].evidence[0].quote",
+          "pass_1_value": "men treated with ethinylestradiol did not exhibit a metabolic pattern comparable to women matched in age and weight.",
+          "pass_2_value": "The same women fasted at different periods of the menstrual cycle had similar changes of glucose and glucagon.",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].relationship",
+          "pass_1_value": "different",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "narrative_results[5].statement",
+          "pass_1_value": "Men treated with ethinylestradiol did not exhibit a metabolic pattern comparable to women matched in age and weight",
+          "pass_2_value": "The same women fasted at different periods of the menstrual cycle had similar changes of glucose and glucagon",
+          "severity": "low"
+        }
+      ],
+      "aligned_method_pairs": [
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 0.7333333333333333,
+          "pass_1_summary": "Participant count - women | 9",
+          "pass_2_summary": "Study Population - Women | 9 normal women"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Fasting duration | 72 | hours",
+          "pass_2_summary": "Fasting Duration | 72 hours | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Ethinylestradiol dosing | 0.1 | mg twice daily",
+          "pass_2_summary": "Ethinylestradiol Dosing | 0.1 mg twice daily | mg"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 4,
+          "pass_2_index": 4,
+          "alignment_score": 0.5454545454545454,
+          "pass_1_summary": "Matched participant pairs | 4",
+          "pass_2_summary": "Matched Subjects for Ethinylestradiol Study | 4 men and 4 women"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 5,
+          "pass_2_index": 5,
+          "alignment_score": 0.9375,
+          "pass_1_summary": "Women fasted in menstrual cycle phases | 5",
+          "pass_2_summary": "Menstrual Cycle Fasting - Women | 5 women fasted in preovulatory and postovulatory phases"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 6,
+          "pass_2_index": 6,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Preovulatory phase timing | 4 to 5 days after the last day of menstrual bleeding",
+          "pass_2_summary": "Preovulatory Phase Timing | 4 to 5 days after last day of menstrual bleeding | days"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 7,
+          "pass_2_index": 7,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Postovulatory phase timing | 15 to 17 days after the last day of menstrual bleeding",
+          "pass_2_summary": "Postovulatory Phase Timing | 15 to 17 days after last day of menstrual bleeding | days"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 8,
+          "pass_2_index": 8,
+          "alignment_score": 0.5483870967741935,
+          "pass_1_summary": "Prefasting diet - carbohydrate | 150 | g minimum",
+          "pass_2_summary": "Pre-fasting Diet - Carbohydrate | minimum of 150 g | g"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 9,
+          "pass_2_index": 9,
+          "alignment_score": 0.5,
+          "pass_1_summary": "Prefasting diet - protein | 1 | g/kg of body weight",
+          "pass_2_summary": "Pre-fasting Diet - Protein | 1 g/kg of body weight | g/kg"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 10,
+          "pass_2_index": 10,
+          "alignment_score": 0.30303030303030304,
+          "pass_1_summary": "Prefasting diet duration | 2 | weeks minimum",
+          "pass_2_summary": "Pre-fasting Diet Duration | at least 2 weeks | weeks"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 11,
+          "pass_2_index": 11,
+          "alignment_score": 0.7058823529411765,
+          "pass_1_summary": "Control period duration | 2 | days",
+          "pass_2_summary": "Control Period Before Fasting | 2 days | days"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 12,
+          "pass_2_index": 12,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Blood sampling frequency | 8 AM and 8 PM daily",
+          "pass_2_summary": "Blood Sampling Frequency | 8 AM and 8 PM daily"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 13,
+          "pass_2_index": 13,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Glucose assay method | glucose oxidase method | glucose oxidase",
+          "pass_2_summary": "Glucose Assay Method | glucose oxidase method | glucose oxidase"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 14,
+          "pass_2_index": 14,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Glucose assay - coefficient of variation within assay | 1.5 | glucose oxidase | %",
+          "pass_2_summary": "Glucose Assay - Coefficient of Variation Within Assay | 1.5% | glucose oxidase | %"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 15,
+          "pass_2_index": 15,
+          "alignment_score": 0.9090909090909091,
+          "pass_1_summary": "Glucose assay - coefficient of variation between assays | 2.5 | glucose oxidase | %",
+          "pass_2_summary": "Glucose Assay - Coefficient of Variation Between Assays | 2.5% | glucose oxidase | %"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 16,
+          "pass_2_index": 16,
+          "alignment_score": 1.0,
+          "pass_1_summary": "FFA assay method | Trout, Estes and Friedberg method | Trout, Estes and Friedberg",
+          "pass_2_summary": "FFA Assay Method | Trout, Estes and Friedberg method | Trout, Estes and Friedberg"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 17,
+          "pass_2_index": 17,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Insulin assay method | modifications of Berson and Yalow method | Berson and Yalow",
+          "pass_2_summary": "Insulin Assay Method | modifications of Berson and Yalow method | Berson and Yalow"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 18,
+          "pass_2_index": 18,
+          "alignment_score": 0.6875,
+          "pass_1_summary": "Glucagon assay method | modifications of Roth, Click, Yalow and Berson method | Roth, Click, Yalow and Berson",
+          "pass_2_summary": "Glucagon Assay Method | modifications of Roth, Click, Yalow and Berson method | Roth, Click, Yalow and Berson"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 19,
+          "pass_2_index": 19,
+          "alignment_score": 0.3181818181818182,
+          "pass_1_summary": "HGH assay replication | duplicate",
+          "pass_2_summary": "HGH Assay - Duplicate Variation (0-5 range) | 0.5 ng/ml | ng/ml"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 20,
+          "pass_2_index": 20,
+          "alignment_score": 0.5714285714285714,
+          "pass_1_summary": "HGH assay maximum variation - low range | 0.5 | ng/ml in the 0 to 5 range",
+          "pass_2_summary": "HGH Assay - Duplicate Variation (5-15 range) | 1.0 ng/ml | ng/ml"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 21,
+          "pass_2_index": 22,
+          "alignment_score": 0.5714285714285714,
+          "pass_1_summary": "HGH assay maximum variation - high range | 1.0 | ng/ml in the 5 to 15 range",
+          "pass_2_summary": "Insulin Assay - Maximum Variation in Basal Range | 1.0 u.U/ml | u.U/ml"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 22,
+          "pass_2_index": 21,
+          "alignment_score": 0.5333333333333333,
+          "pass_1_summary": "Insulin assay replication | quadruplicate",
+          "pass_2_summary": "Insulin Assay - Sample Replicates | quadruplicate"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 23,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Insulin assay maximum variation in basal range | 1.0 | u.U/ml in the 0 to 15 range",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 24,
+          "pass_2_index": 23,
+          "alignment_score": 0.24324324324324326,
+          "pass_1_summary": "Glucagon assay replication | triplicate",
+          "pass_2_summary": "Glucagon Assay - Sample Replicates | triplicate"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 25,
+          "pass_2_index": 24,
+          "alignment_score": 0.8235294117647058,
+          "pass_1_summary": "Inclusion criteria - CHO intolerance | No",
+          "pass_2_summary": "Inclusion Criterion - CHO Tolerance | No subject had CHO intolerance"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 26,
+          "pass_2_index": 25,
+          "alignment_score": 0.8823529411764706,
+          "pass_1_summary": "Inclusion criteria - hepatic function | Normal",
+          "pass_2_summary": "Inclusion Criterion - Hepatic Function | hepatic screening tests were normal"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 27,
+          "pass_2_index": 26,
+          "alignment_score": 0.7333333333333333,
+          "pass_1_summary": "Inclusion criteria - medication | None",
+          "pass_2_summary": "Inclusion Criterion - Medication | No subject was receiving any type of medication"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 28,
+          "pass_2_index": 27,
+          "alignment_score": 0.8571428571428571,
+          "pass_1_summary": "Body weight criteria | Within 10% of ideal body weight",
+          "pass_2_summary": "Body Weight Criterion | Within 10% of ideal body weight | %"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 0.75,
+          "pass_1_summary": "Participant count - men | 10",
+          "pass_2_summary": "Study Population - Men | 10 normal men"
+        }
+      ],
+      "aligned_narrative_pairs": [
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 1.0,
+          "pass_1_summary": "There was a striking sex-based difference in the pattern of glucose change during fasting",
+          "pass_2_summary": "There was a striking sex-based difference in the pattern of glucose change during fasting"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 0.8888888888888888,
+          "pass_1_summary": "In women, plasma glucose decreased to 52.5 ±3.4 mg/100 ml at 60 hr vs 67.5 ±2.0 mg/100 ml in men, with the difference being significant at the 1% level [lower in women]",
+          "pass_2_summary": "In women, plasma glucose decreased to 52.5 ±3.4 mg/100 ml at 60 hr vs 67.5 ±2.0 mg/100 ml in men, with the difference significant at the 1% level [sex-based difference]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 0.8888888888888888,
+          "pass_1_summary": "Plasma glucagon concentrations were significantly higher in women than in men at 36, 48 and 60 hr of the fast (p < 0.01) [higher in women]",
+          "pass_2_summary": "At 36, 48 and 60 hr of the fast, plasma glucagon concentrations were significantly higher in women than in men (p < 0.01) [sex-based difference]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 4,
+          "pass_2_index": 4,
+          "alignment_score": 0.5185185185185185,
+          "pass_1_summary": "Changes of plasma glucose and glucagon were similar in women fasted in both the preovulatory and postovulatory phase [no difference]",
+          "pass_2_summary": "Changes of plasma glucose and glucagon were similar in each study period during preovulatory and postovulatory phases"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 5,
+          "pass_2_index": 6,
+          "alignment_score": 0.9545454545454546,
+          "pass_1_summary": "Men treated with ethinylestradiol did not exhibit a metabolic pattern comparable to women matched in age and weight [different]",
+          "pass_2_summary": "Men treated with ethinylestradiol did not exhibit a metabolic pattern comparable to women matched in age and weight"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 0.9629629629629629,
+          "pass_1_summary": "Plasma glucose and insulin concentrations decreased in both men and women during prolonged fasting, reaching a plateau on the second or third day of the fast",
+          "pass_2_summary": "With prolonged fasting, plasma glucose and insulin concentrations decreased in both men and women, reaching a plateau on the second or third day of the fast"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": null,
+          "pass_2_index": 5,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "The same women fasted at different periods of the menstrual cycle had similar changes of glucose and glucagon"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": null,
+          "pass_2_index": 7,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "There is a greater decrease of plasma glucose in women than in men during fasting and probably a greater increase of plasma FFA [sex-based difference]"
+        }
+      ],
+      "semantic_groups": [
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 0,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both report 9 women participants; pass_2 adds descriptor 'normal' which is minor additional context",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify 72 hours fasting duration; redundant unit notation in pass_2 is formatting artifact",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 2,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify 0.1 mg twice daily dosing; redundant unit notation in pass_2 is formatting artifact",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 3,
+          "verdict": "minor_wording",
+          "severity": "medium",
+          "rationale": "Pass_1 reports 4 matched pairs (ambiguous); pass_2 clarifies 4 men and 4 women (8 total subjects). Same underlying count but different interpretation of 'pairs'",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 4,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both report 5 women in menstrual cycle fasting study; pass_2 adds specific phase details (preovulatory and postovulatory)",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify 4 to 5 days after last menstrual bleeding for preovulatory phase; redundant unit notation in pass_2 is formatting artifact",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 6,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify 15 to 17 days after last menstrual bleeding for postovulatory phase; redundant unit notation in pass_2 is formatting artifact",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 7,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify minimum 150 g carbohydrate in pre-fasting diet; minor wording variation ('150 g minimum' vs 'minimum of 150 g')",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 8,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe 1 g/kg body weight protein requirement; minor capitalization and formatting differences only",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 9,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify minimum 2 weeks pre-fasting diet duration; 'at least 2 weeks' and '2 weeks minimum' are semantically identical",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 10,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe 2-day control period before fasting; minor wording variation in naming convention",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 11,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical blood sampling frequency specification; only capitalization differs",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 12,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical glucose assay method specification; only capitalization differs",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 13,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify 1.5% coefficient of variation within assay; pass_2 includes % symbol while pass_1 separates it, but values are identical",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 14,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify 2.5% coefficient of variation between assays; minor formatting difference with % symbol placement",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 15,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical FFA assay method specification; only capitalization and formatting differ",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 16,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical content with only capitalization differences in headers",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 17,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical content with only capitalization differences in headers",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 18,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes HGH assay replication method (duplicate), while Pass 2 describes duplicate variation measurement (0.5 ng/ml in 0-5 range). Different facts entirely",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 19,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes low range variation (0.5 ng/ml in 0-5 range), Pass 2 describes high range variation (1.0 ng/ml in 5-15 range). These are different measurements",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 20,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes HGH assay high range variation (1.0 ng/ml in 5-15 range), Pass 2 describes Insulin assay basal range variation (1.0 u.U/ml). Different assays and ranges",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 21,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact about insulin assay replication method (quadruplicate), different phrasing in headers",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 22,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 contains insulin assay maximum variation data, Pass 2 is empty/missing",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 23,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact about glucagon assay replication method (triplicate), different phrasing in headers",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 24,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both state that subjects did not have CHO intolerance; pass_2 is more explicit but conveys the same inclusion criterion",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 25,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both indicate normal hepatic function as inclusion criterion; pass_2 provides more detail but same fact",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 26,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both state no medication as inclusion criterion; pass_2 is more explicit but conveys identical requirement",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 27,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both state same body weight criterion; pass_2 adds '%' notation which is minor formatting difference",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 28,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both report 10 men participants; pass_2 adds descriptor 'normal' which is contextual detail not contradictory",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 0,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about sex-based differences in glucose change during fasting",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Same numerical data and statistical significance; minor wording variation in descriptor ('lower in women' vs 'sex-based difference')",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 2,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Same glucagon concentration findings and significance level; only word order differs",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 3,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both convey that glucose and glucagon changes were similar across menstrual phases; pass_1 explicitly states 'no difference' while pass_2 describes similarity across study periods",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 4,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical core finding about ethinylestradiol-treated men not matching women; minor descriptor variation",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Same fact about glucose and insulin decrease with plateau timing; only word order differs",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 6,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Only pass_2 contains this statement about menstrual cycle phases; no corresponding pass_1 entry",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 7,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Only pass_2 contains this statement about greater glucose decrease in women and FFA increase; no corresponding pass_1 entry",
+          "recommended_action": "accept_pass_2"
+        }
+      ]
+    },
+    "consensus": {
+      "samples": 3,
+      "method_clusters": 11,
+      "narrative_clusters": 1,
+      "average_method_support": 0.5433902902652903,
+      "average_narrative_support": 0.33333333333333337
+    }
+  }
+}

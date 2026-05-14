@@ -1,0 +1,1326 @@
+{
+  "paper_id": "1-s2.0-0026049589900474-main-e7fdbd31d6c8",
+  "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+  "metadata": {
+    "title": "Accelerated Decline in Hepatic Glucose Production During Fasting in Normal Women Compared With Men",
+    "authors": [
+      "John N. Clore",
+      "Penny S. Glickman",
+      "Shirley T. Helm",
+      "John E. Nestler",
+      "William G. Blackard"
+    ],
+    "year": 1989,
+    "journal": "Metabolism",
+    "study_design": "Comparative metabolic study with sequential 3-3H-glucose infusions after 14 and 64-hour fasts",
+    "demographics": "Five normal men and five normal women in the midfollicular phase of menstrual cycle, matched for age and body mass index, with no history of diabetes mellitus, hypertension, kidney disease, or medication use",
+    "evidence": [
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1103,
+        "quote": "five normal men and five normal women underwent sequentiel 3-3H-glucose infusions after both a 14 and a 64hour fast",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1103,
+        "quote": "Ra fell 15.6% + 3.0% in men (2.11 f 0.24 to 1.79 ? 0.24 mg.kg-'.min-', P < .Ol) and 24.6% ? 1.4% in women (2.22 + 0.17 to 1.67 + 0.12 mg.kg-'.min-', P < .OOl)",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1103,
+        "quote": "women exhibit a significantly greater fall in Ra after 64 hours of fasting, which may account for the reportedly greater hypoglycemia during fasting in women",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1104,
+        "quote": "Ten normal volunteers were admitted to the General Clinical Research Center (GCRC) at the Medical College of Virginia for the metabolic studies. Five of the subjects were male and five were female in the midfollicular phase of their menstrual cycle. None had a history of diabetes mellitus, hypertension, or kidney disease or were on any medications.",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1104,
+        "quote": "Metabolism, Vol38. No 11 (November), 1989: pp 1103-l 107",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Study Population - Female Participants",
+      "value": "5 normal women",
+      "method": null,
+      "unit": null,
+      "confidence": 0.425,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 1,
+          "quote": "five normal men and five normal women underwent sequentiel S3H-glucose infusions",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucose Tracer Assay - Continuous Infusion Rate",
+      "value": "0.25 µCi",
+      "method": "primed continuous infusion",
+      "unit": "µCi",
+      "confidence": 0.2727272727272727,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "A primed (25 µCi) continuous (0.25 µCi) infusion of 3-3H-glucose (New England Nuclear, Boston) was administered via a forearm vein from 7 AM until 10 AM",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glucose Specific Activity Measurement Timing",
+      "value": "7 AM after 13 hours of fasting",
+      "method": null,
+      "unit": null,
+      "confidence": 0.40909090909090906,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "blood samples were obtained at 20-minute intervals during the last hour of the study (9 AM to 10 AM)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Plasma Glucose Measurement Method",
+      "value": "direct radioimmunoassay",
+      "method": "enzymatic methods",
+      "unit": null,
+      "confidence": 0.4,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "Plasma glucose was measured immediately after centrifugation by the glucose oxidase method (Beckman, Fullerton, CA)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Plasma Growth Hormone Measurement",
+      "value": "double-antibody radioimmunoassay",
+      "method": "double-antibody radioimmunoassay",
+      "unit": null,
+      "confidence": 0.6875,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "Plasma insulin, C-peptide, growth hormone, and glucagon were determined using double-antibody radioimmunoassays",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body Composition Assessment Method 1",
+      "value": "impedance plethysmography",
+      "method": "skinfold measurements",
+      "unit": null,
+      "confidence": 0.425,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "Body composition was assessed by skinfold measurements and impedance plethysmography (BIA-101 Body Composition Analyzer, RJL Systems, Detroit)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion Criteria - Medical History",
+      "value": "no history of diabetes mellitus, hypertension, or kidney disease",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5833333333333334,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "None had a history of diabetes mellitus, hypertension, or kidney disease or were on any medications",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Demographic - Mean Body Fat Percent Females",
+      "value": "25.1 ± 2.5 kg/m²",
+      "method": null,
+      "unit": "years",
+      "confidence": 0.375,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 3,
+          "quote": "Age (yr) 25 ± 1",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Plasma glucose values fell by 24% from the 16th to the 64th hour of fasting in both men and women",
+      "relationship": null,
+      "confidence": 0.45238095238095233,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 1104,
+          "quote": "Plasma glucose values fell by 24% from the 16th to the 64th hour of fasting in both men (5.23 + 0.03 v 3.96 + 0.14 mmol/L, P < .OOl) and women (4.84 + 0.14 v 3.65 f 0.25 mmol/L, P < .OOl).",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Glucose clearance rates did not change significantly in either sex after the 64-hour fast",
+      "relationship": null,
+      "confidence": 0.39473684210526316,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 1104,
+          "quote": "Glucose clearance rates did not change significantly in either sex after the 64-hour fast",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Changes in plasma glucose were associated with decreases in plasma insulin and C-peptide as well as increases in plasma glucagon",
+      "relationship": "association",
+      "confidence": 0.6666666666666666,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 1104,
+          "quote": "Changes in plasma glucose were associated with decreases in plasma insulin and C-peptide as well as increases in plasma glucagon (Table 2).",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [
+        {
+          "path": "semantic.methods_participants[pair=0]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes study population (5 normal women), Pass 2 describes fasting duration (14 and 64 hours). These are different data types being compared.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=4]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes continuous infusion rate (0.25 µCi), Pass 2 describes infusion timing (7 AM to 10 AM). These are different parameters being compared.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=14]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes only skinfold measurements; pass 2 describes both skinfold measurements AND impedance plethysmography (BIA-101), representing different body composition assessment methods",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=20]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 states 5 normal men only; Pass 2 states 5 men and 5 women. Incompatible participant composition.",
+          "severity": "high"
+        }
+      ],
+      "needs_human_review": true,
+      "structural_discrepancies": [
+        {
+          "path": "methods_participants",
+          "pass_1_value": "len=21",
+          "pass_2_value": "len=15",
+          "severity": "medium"
+        },
+        {
+          "path": "methods_participants[0].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[0].label",
+          "pass_1_value": "Study Population - Male",
+          "pass_2_value": "Participant count",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[0].value",
+          "pass_1_value": "5 normal men",
+          "pass_2_value": "5 men, 5 women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].evidence[0].quote",
+          "pass_1_value": "five normal men and five normal women underwent sequentiel S3H-glucose infusions",
+          "pass_2_value": "underwent sequentiel S3H-glucose infusions after both a 14 and a 64hour fast",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].label",
+          "pass_1_value": "Study Population - Female",
+          "pass_2_value": "Fasting duration",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].unit",
+          "pass_1_value": null,
+          "pass_2_value": "hours",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[1].value",
+          "pass_1_value": "5 normal women",
+          "pass_2_value": "14 hours and 64 hours",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].evidence[0].quote",
+          "pass_1_value": "underwent sequentiel S3H-glucose infusions after both a 14 and a 64hour fast",
+          "pass_2_value": "A primed (25 µCi) continuous (0.25 µCi) infusion of 3-3H-glucose (New England Nuclear, Boston) was administered via a forearm vein from 7 AM until 10 AM",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].label",
+          "pass_1_value": "Fasting Duration - First Assessment",
+          "pass_2_value": "Glucose tracer infusion method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].method",
+          "pass_1_value": null,
+          "pass_2_value": "radioactive glucose tracer infusion",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[2].unit",
+          "pass_1_value": "hours",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[2].value",
+          "pass_1_value": "14 hours",
+          "pass_2_value": "3-3H-glucose primed continuous infusion",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 2,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].evidence[0].quote",
+          "pass_1_value": "underwent sequentiel S3H-glucose infusions after both a 14 and a 64hour fast",
+          "pass_2_value": "infusion of 3-3H-glucose (New England Nuclear, Boston) was administered via a forearm vein from 7 AM until 10 AM for the determination of glucose specific activity",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].label",
+          "pass_1_value": "Fasting Duration - Second Assessment",
+          "pass_2_value": "Glucose infusion timing",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].unit",
+          "pass_1_value": "hours",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[3].value",
+          "pass_1_value": "64 hours",
+          "pass_2_value": "7 AM to 10 AM",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].evidence[0].quote",
+          "pass_1_value": "A primed (25 µCi) continuous (0.25 µCi) infusion of 3-3H-glucose (New England Nuclear, Boston) was administered via a forearm vein from 7 AM until 10 AM",
+          "pass_2_value": "blood samples were obtained at 20-minute intervals during the last hour of the study (9 AM to 10 AM)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].label",
+          "pass_1_value": "Glucose Tracer Assay - Priming Dose",
+          "pass_2_value": "Blood sampling timing",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].method",
+          "pass_1_value": "3-3H-glucose infusion",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[4].unit",
+          "pass_1_value": "µCi",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[4].value",
+          "pass_1_value": "25 µCi",
+          "pass_2_value": "20-minute intervals during last hour of study (9 AM to 10 AM)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].evidence[0].quote",
+          "pass_1_value": "A primed (25 µCi) continuous (0.25 µCi) infusion of 3-3H-glucose (New England Nuclear, Boston) was administered via a forearm vein from 7 AM until 10 AM",
+          "pass_2_value": "None had a history of diabetes mellitus, hypertension, or kidney disease or were on any medications",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].label",
+          "pass_1_value": "Glucose Tracer Assay - Continuous Infusion Rate",
+          "pass_2_value": "Inclusion criteria - no diabetes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].method",
+          "pass_1_value": "3-3H-glucose infusion",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[5].unit",
+          "pass_1_value": "µCi",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[5].value",
+          "pass_1_value": "0.25 µCi",
+          "pass_2_value": "None had a history of diabetes mellitus",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].evidence[0].quote",
+          "pass_1_value": "A primed (25 µCi) continuous (0.25 µCi) infusion of 3-3H-glucose (New England Nuclear, Boston) was administered via a forearm vein from 7 AM until 10 AM",
+          "pass_2_value": "None had a history of diabetes mellitus, hypertension, or kidney disease or were on any medications",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].label",
+          "pass_1_value": "Glucose Tracer Infusion Duration",
+          "pass_2_value": "Inclusion criteria - no hypertension",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].method",
+          "pass_1_value": "3-3H-glucose infusion",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[6].unit",
+          "pass_1_value": "hours",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[6].value",
+          "pass_1_value": "3 hours",
+          "pass_2_value": "None had a history of hypertension",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].evidence[0].quote",
+          "pass_1_value": "blood samples were obtained at 20-minute intervals during the last hour of the study (9 AM to 10 AM)",
+          "pass_2_value": "None had a history of diabetes mellitus, hypertension, or kidney disease or were on any medications",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].label",
+          "pass_1_value": "Blood Sampling Interval During Measurement",
+          "pass_2_value": "Inclusion criteria - no kidney disease",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].unit",
+          "pass_1_value": "minutes",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[7].value",
+          "pass_1_value": "20-minute intervals",
+          "pass_2_value": "None had a history of kidney disease",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].evidence[0].quote",
+          "pass_1_value": "Plasma glucose was measured immediately after centrifugation by the glucose oxidase method (Beckman, Fullerton, CA)",
+          "pass_2_value": "None had a history of diabetes mellitus, hypertension, or kidney disease or were on any medications",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].label",
+          "pass_1_value": "Plasma Glucose Measurement Method",
+          "pass_2_value": "Inclusion criteria - not on medications",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].method",
+          "pass_1_value": "glucose oxidase method (Beckman, Fullerton, CA)",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[8].value",
+          "pass_1_value": "glucose oxidase method",
+          "pass_2_value": "None were on any medications",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].evidence[0].quote",
+          "pass_1_value": "Plasma insulin, C-peptide, growth hormone, and glucagon were determined using double-antibody radioimmunoassays",
+          "pass_2_value": "Five of the subjects were male and five were female in the midfollicular phase of their menstrual cycle",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].label",
+          "pass_1_value": "Plasma Insulin Measurement",
+          "pass_2_value": "Female menstrual cycle phase",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].method",
+          "pass_1_value": "double-antibody radioimmunoassay",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[9].value",
+          "pass_1_value": "double-antibody radioimmunoassay",
+          "pass_2_value": "Midfollicular phase",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].evidence[0].quote",
+          "pass_1_value": "Plasma insulin, C-peptide, growth hormone, and glucagon were determined using double-antibody radioimmunoassays",
+          "pass_2_value": "Body composition was assessed by skinfold measurements and impedance plethysmography (BIA-101 Body Composition Analyzer, RJL Systems, Detroit)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].label",
+          "pass_1_value": "Plasma C-Peptide Measurement",
+          "pass_2_value": "Body composition measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].method",
+          "pass_1_value": "double-antibody radioimmunoassay",
+          "pass_2_value": "BIA-101 Body Composition Analyzer",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].value",
+          "pass_1_value": "double-antibody radioimmunoassay",
+          "pass_2_value": "Skinfold measurements and impedance plethysmography (BIA-101)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].evidence[0].quote",
+          "pass_1_value": "Plasma insulin, C-peptide, growth hormone, and glucagon were determined using double-antibody radioimmunoassays",
+          "pass_2_value": "Plasma glucose was measured immediately after centrifugation by the glucose oxidase method (Beckman, Fullerton, CA)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].label",
+          "pass_1_value": "Plasma Glucagon Measurement",
+          "pass_2_value": "Plasma glucose measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].method",
+          "pass_1_value": "double-antibody radioimmunoassay",
+          "pass_2_value": "glucose oxidase",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].value",
+          "pass_1_value": "double-antibody radioimmunoassay",
+          "pass_2_value": "Glucose oxidase method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].label",
+          "pass_1_value": "Plasma Growth Hormone Measurement",
+          "pass_2_value": "Insulin measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].value",
+          "pass_1_value": "double-antibody radioimmunoassay",
+          "pass_2_value": "Double-antibody radioimmunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].label",
+          "pass_1_value": "Plasma Cortisol Measurement",
+          "pass_2_value": "Cortisol measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].method",
+          "pass_1_value": "direct radioimmunoassay (Gammacoat assay, Clinical Assays, Cambridge, MA)",
+          "pass_2_value": "direct radioimmunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].value",
+          "pass_1_value": "direct radioimmunoassay",
+          "pass_2_value": "Direct radioimmunoassay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].confidence",
+          "pass_1_value": 0.99,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].label",
+          "pass_1_value": "Plasma FFA Measurement",
+          "pass_2_value": "Free fatty acid measurement method",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].value",
+          "pass_1_value": "enzymatic methods",
+          "pass_2_value": "Enzymatic methods",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[0].evidence[0].quote",
+          "pass_1_value": "Plasma glucose values fell by 24% from the 16th to the 64th hour of fasting in both men (5.23 + 0.03 v 3.96 + 0.14 mmol/L, P < .OOl) and women (4.84 + 0.14 v 3.65 f 0.25 mmol/L, P < .OOl).",
+          "pass_2_value": "Plasma glucose values fell by 24% from the 16th to the 64th hour of fasting in both men (5.23 + 0.03 v 3.96 + 0.14 mmol/L, P < .OOl) and women (4.84 + 0.14 v 3.65 f 0.25 mmol/L, P < .OOl)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[1].statement",
+          "pass_1_value": "Rates of glucose appearance (Ra) fell significantly in both men and women after the 64-hour fast",
+          "pass_2_value": "Rates of glucose appearance (Ra) fell significantly in both men and women during the 64-hour fast",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].evidence[0].quote",
+          "pass_1_value": "Both the absolute (0.55 + 0.06 v 0.32 * 0.06 mg.kg-'.min-') and the percent fall in Ra (24.6% + 1.4% v 15.8% t 3.0%, Fig 1, inset) were significantly greater in women compared with men (P -e .05).",
+          "pass_2_value": "Both the absolute (0.55 + 0.06 v 0.32 * 0.06 mg.kg-'.min-') and the percent fall in Ra (24.6% + 1.4% v 15.8% t 3.0%, Fig 1, inset) were significantly greater in women compared with men (P -e .05)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].statement",
+          "pass_1_value": "The percent fall in Ra was significantly greater in women compared with men",
+          "pass_2_value": "The fall in Ra was significantly greater in women compared with men",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[3].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[4].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[4].evidence[0].quote",
+          "pass_1_value": "Changes in plasma glucose were associated with decreases in plasma insulin and C-peptide as well as increases in plasma glucagon (Table 2).",
+          "pass_2_value": "plasma glycerol levels were significantly greater in women compared with men after the 64-hour fast (P < .05)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[4].relationship",
+          "pass_1_value": "association",
+          "pass_2_value": "sex difference",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[4].statement",
+          "pass_1_value": "Changes in plasma glucose were associated with decreases in plasma insulin and C-peptide as well as increases in plasma glucagon",
+          "pass_2_value": "Plasma glycerol levels were significantly greater in women compared with men after the 64-hour fast",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].evidence[0].quote",
+          "pass_1_value": "plasma glycerol levels were significantly greater in women compared with men after the 64-hour fast (P < .05).",
+          "pass_2_value": "Plasma FFA also rose significantly in men (0.49 + 0.06 v 0.8 1 f 0.09 mmol/L, P < .Ol) and women (0.47 + 0.04 v 0.89 2 0.04 mmol/L, P -c .05), without significant intersex differences",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].relationship",
+          "pass_1_value": "sex difference",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "narrative_results[5].statement",
+          "pass_1_value": "Plasma glycerol levels were significantly greater in women compared with men after the 64-hour fast",
+          "pass_2_value": "Plasma FFA rose significantly in both men and women without significant intersex differences",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].evidence[0].quote",
+          "pass_1_value": "Plasma FFA also rose significantly in men (0.49 + 0.06 v 0.8 1 f 0.09 mmol/L, P < .Ol) and women (0.47 + 0.04 v 0.89 2 0.04 mmol/L, P -c .05), without significant intersex differences.",
+          "pass_2_value": "all subjects exhibited at least a sixfold increase during the fast",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[6].statement",
+          "pass_1_value": "Plasma FFA rose significantly in both men and women without significant intersex differences",
+          "pass_2_value": "All subjects exhibited at least a sixfold increase in plasma β-hydroxybutyrate levels during the fast",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[7].evidence[0].quote",
+          "pass_1_value": "In conclusion, 64-hour fasted women exhibit a greater fall in HGO than do men similarly fasted.",
+          "pass_2_value": "In conclusion, 64-hour fasted women exhibit a greater fall in HGO than do men similarly fasted",
+          "severity": "low"
+        }
+      ],
+      "aligned_method_pairs": [
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 0.23076923076923078,
+          "pass_1_summary": "Study Population - Female | 5 normal women",
+          "pass_2_summary": "Fasting duration | 14 hours and 64 hours | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 2,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Fasting Duration - First Assessment | 14 hours | hours",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 3,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Fasting Duration - Second Assessment | 64 hours | hours",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 4,
+          "pass_2_index": 2,
+          "alignment_score": 0.7941176470588235,
+          "pass_1_summary": "Glucose Tracer Assay - Priming Dose | 25 µCi | 3-3H-glucose infusion | µCi",
+          "pass_2_summary": "Glucose tracer infusion method | 3-3H-glucose primed continuous infusion | radioactive glucose tracer infusion"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 5,
+          "pass_2_index": 3,
+          "alignment_score": 0.5405405405405406,
+          "pass_1_summary": "Glucose Tracer Assay - Continuous Infusion Rate | 0.25 µCi | 3-3H-glucose infusion | µCi",
+          "pass_2_summary": "Glucose infusion timing | 7 AM to 10 AM"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 6,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Glucose Tracer Infusion Duration | 3 hours | 3-3H-glucose infusion | hours",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 7,
+          "pass_2_index": 4,
+          "alignment_score": 0.8260869565217391,
+          "pass_1_summary": "Blood Sampling Interval During Measurement | 20-minute intervals | minutes",
+          "pass_2_summary": "Blood sampling timing | 20-minute intervals during last hour of study (9 AM to 10 AM)"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 8,
+          "pass_2_index": 11,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Plasma Glucose Measurement Method | glucose oxidase method | glucose oxidase method (Beckman, Fullerton, CA)",
+          "pass_2_summary": "Plasma glucose measurement method | Glucose oxidase method | glucose oxidase"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 9,
+          "pass_2_index": 12,
+          "alignment_score": 0.9444444444444444,
+          "pass_1_summary": "Plasma Insulin Measurement | double-antibody radioimmunoassay | double-antibody radioimmunoassay",
+          "pass_2_summary": "Insulin measurement method | Double-antibody radioimmunoassay | double-antibody radioimmunoassay"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 10,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Plasma C-Peptide Measurement | double-antibody radioimmunoassay | double-antibody radioimmunoassay",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 11,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Plasma Glucagon Measurement | double-antibody radioimmunoassay | double-antibody radioimmunoassay",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 12,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Plasma Growth Hormone Measurement | double-antibody radioimmunoassay | double-antibody radioimmunoassay",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 13,
+          "pass_2_index": 13,
+          "alignment_score": 0.875,
+          "pass_1_summary": "Plasma Cortisol Measurement | direct radioimmunoassay | direct radioimmunoassay (Gammacoat assay, Clinical Assays, Cambridge, MA)",
+          "pass_2_summary": "Cortisol measurement method | Direct radioimmunoassay | direct radioimmunoassay"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 14,
+          "pass_2_index": 14,
+          "alignment_score": 0.6666666666666666,
+          "pass_1_summary": "Plasma FFA Measurement | enzymatic methods | enzymatic methods",
+          "pass_2_summary": "Free fatty acid measurement method | Enzymatic methods | enzymatic methods"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 15,
+          "pass_2_index": 10,
+          "alignment_score": 0.8636363636363636,
+          "pass_1_summary": "Body Composition Assessment Method 1 | skinfold measurements | skinfold measurements",
+          "pass_2_summary": "Body composition measurement method | Skinfold measurements and impedance plethysmography (BIA-101) | BIA-101 Body Composition Analyzer"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 16,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Body Composition Assessment Method 2 | impedance plethysmography | impedance plethysmography (BIA-101 Body Composition Analyzer, RJL Systems, Detroit)",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 17,
+          "pass_2_index": 5,
+          "alignment_score": 0.9,
+          "pass_1_summary": "Inclusion Criteria - Health Status | no history of diabetes mellitus, hypertension, or kidney disease",
+          "pass_2_summary": "Inclusion criteria - no diabetes | None had a history of diabetes mellitus"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 18,
+          "pass_2_index": 8,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Inclusion Criteria - Medications | not on any medications",
+          "pass_2_summary": "Inclusion criteria - not on medications | None were on any medications"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 19,
+          "pass_2_index": 9,
+          "alignment_score": 0.8235294117647058,
+          "pass_1_summary": "Inclusion Criteria - Female Menstrual Status | midfollicular phase of menstrual cycle",
+          "pass_2_summary": "Female menstrual cycle phase | Midfollicular phase"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 20,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Fasting Compliance Assessment | urinary ketone determinations and history | urinary ketone determinations and history",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 0.6875,
+          "pass_1_summary": "Study Population - Male | 5 normal men",
+          "pass_2_summary": "Participant count | 5 men, 5 women"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 6,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Inclusion criteria - no hypertension | None had a history of hypertension"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": null,
+          "pass_2_index": 7,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "Inclusion criteria - no kidney disease | None had a history of kidney disease"
+        }
+      ],
+      "aligned_narrative_pairs": [
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 0.95,
+          "pass_1_summary": "Rates of glucose appearance (Ra) fell significantly in both men and women after the 64-hour fast",
+          "pass_2_summary": "Rates of glucose appearance (Ra) fell significantly in both men and women during the 64-hour fast"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 1.0,
+          "pass_1_summary": "The percent fall in Ra was significantly greater in women compared with men [sex difference]",
+          "pass_2_summary": "The fall in Ra was significantly greater in women compared with men [sex difference]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Glucose clearance rates did not change significantly in either sex after the 64-hour fast",
+          "pass_2_summary": "Glucose clearance rates did not change significantly in either sex after the 64-hour fast"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 4,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Changes in plasma glucose were associated with decreases in plasma insulin and C-peptide as well as increases in plasma glucagon [association]",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 5,
+          "pass_2_index": 4,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Plasma glycerol levels were significantly greater in women compared with men after the 64-hour fast [sex difference]",
+          "pass_2_summary": "Plasma glycerol levels were significantly greater in women compared with men after the 64-hour fast [sex difference]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 6,
+          "pass_2_index": 5,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Plasma FFA rose significantly in both men and women without significant intersex differences",
+          "pass_2_summary": "Plasma FFA rose significantly in both men and women without significant intersex differences"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 7,
+          "pass_2_index": 7,
+          "alignment_score": 1.0,
+          "pass_1_summary": "64-hour fasted women exhibit a greater fall in HGO than do men similarly fasted [sex difference]",
+          "pass_2_summary": "64-hour fasted women exhibit a greater fall in HGO than do men similarly fasted [sex difference]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Plasma glucose values fell by 24% from the 16th to the 64th hour of fasting in both men and women",
+          "pass_2_summary": "Plasma glucose values fell by 24% from the 16th to the 64th hour of fasting in both men and women"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": null,
+          "pass_2_index": 6,
+          "alignment_score": 0.0,
+          "pass_1_summary": null,
+          "pass_2_summary": "All subjects exhibited at least a sixfold increase in plasma β-hydroxybutyrate levels during the fast"
+        }
+      ],
+      "semantic_groups": [
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 0,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes study population (5 normal women), Pass 2 describes fasting duration (14 and 64 hours). These are different data types being compared.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 1,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 contains fasting duration first assessment (14 hours), Pass 2 is empty. Only one side present.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 2,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 contains fasting duration second assessment (64 hours), Pass 2 is empty. Only one side present.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 3,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe glucose tracer infusion method using 3-3H-glucose. Pass 1 specifies priming dose (25 µCi), Pass 2 describes method as primed continuous infusion. Same underlying fact with different emphasis.",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 4,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes continuous infusion rate (0.25 µCi), Pass 2 describes infusion timing (7 AM to 10 AM). These are different parameters being compared.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 5,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 contains glucose tracer infusion duration (3 hours), Pass 2 is empty. Only one side present.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 6,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe blood sampling at 20-minute intervals. Pass 2 adds temporal context (9 AM to 10 AM) but the core fact is the same.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 7,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe plasma glucose measurement using glucose oxidase method. Pass 2 adds manufacturer details (Beckman, Fullerton, CA) but describes the same method.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 8,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe insulin measurement via double-antibody radioimmunoassay; only differ in label phrasing ('Plasma Insulin Measurement' vs 'Insulin measurement method')",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 9,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 describes plasma C-peptide measurement method; pass 2 is empty/missing",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 10,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 describes plasma glucagon measurement method; pass 2 is empty/missing",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 11,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 describes plasma growth hormone measurement method; pass 2 is empty/missing",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 12,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe cortisol measurement via direct radioimmunoassay; pass 1 includes specific assay details (Gammacoat, Clinical Assays, Cambridge, MA) while pass 2 omits them",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 13,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe free fatty acid measurement via enzymatic methods; only differ in label phrasing ('Plasma FFA Measurement' vs 'Free fatty acid measurement method')",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 14,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes only skinfold measurements; pass 2 describes both skinfold measurements AND impedance plethysmography (BIA-101), representing different body composition assessment methods",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 15,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 describes impedance plethysmography as assessment method 2; pass 2 is empty/missing",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 16,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe exclusion of diabetes mellitus history. Pass 1 includes additional exclusions (hypertension, kidney disease) not mentioned in Pass 2, but the diabetes criterion is equivalent.",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 17,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both state participants were not on any medications. Wording differs slightly but conveys identical information.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 18,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both specify midfollicular phase of menstrual cycle. Minor capitalization difference only.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 19,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 describes fasting compliance assessment method; Pass 2 is empty. Information only in one extraction.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 20,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 states 5 normal men only; Pass 2 states 5 men and 5 women. Incompatible participant composition.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 21,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 2 specifies no hypertension history; Pass 1 is empty. This criterion appears in Pass 1's aligned pair (index 16) but not extracted separately here.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 22,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 2 specifies no kidney disease history; Pass 1 is empty. This criterion appears in Pass 1's aligned pair (index 16) but not extracted separately here.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 0,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact about Ra falling significantly; 'after' vs 'during' the fast represents negligible temporal phrasing difference",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 1,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact about sex difference in Ra fall; 'percent fall' vs 'fall' is minor wording variation",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 2,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about glucose clearance rates",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 3,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 contains information about plasma glucose associations; Pass 2 is empty",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 4,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about plasma glycerol sex differences",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about plasma FFA changes",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 6,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about HGO sex differences in fasted state",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 7,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical statements about plasma glucose decline during fasting",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 8,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 is empty; Pass 2 contains a specific factual claim about β-hydroxybutyrate increase during fasting. No comparison possible.",
+          "recommended_action": "human_review"
+        }
+      ]
+    },
+    "consensus": {
+      "samples": 5,
+      "method_clusters": 8,
+      "narrative_clusters": 3,
+      "average_method_support": 0.4472064393939394,
+      "average_narrative_support": 0.504594820384294
+    }
+  }
+}

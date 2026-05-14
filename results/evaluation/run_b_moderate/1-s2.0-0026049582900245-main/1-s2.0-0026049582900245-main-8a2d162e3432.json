@@ -1,0 +1,1300 @@
+{
+  "paper_id": "1-s2.0-0026049582900245-main-8a2d162e3432",
+  "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+  "metadata": {
+    "title": "Differences in Circulating Gluconeogenic Substrates During Short-Term Fasting in Men, Women, and Children",
+    "authors": [
+      "Morey W. Haymond",
+      "Irene E. Karl",
+      "William L. Clarke",
+      "Anthony S. Pagliara",
+      "Julio V. Santiago"
+    ],
+    "year": 1982,
+    "journal": "Metabolism",
+    "study_design": "Comparative fasting study with three groups: 10 adult men fasted for 86 hr, 10 adult women fasted for 86 hr, and 15 prepubertal children fasted for 30 hr",
+    "demographics": "Men (n=10): 24.0±1.9 yr, 181±2 cm, 73.7±2.7 kg; Women (n=10): 23.7±1.1 yr, 168.0±1.3 cm, 58.3±1.7 kg; Children (n=15, boys/girls=6/9): 6.1±0.8 yr, 114.2±5.9 cm, 21.5±2.5 kg",
+    "evidence": [
+      {
+        "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+        "page": 33,
+        "quote": "Differences in Circulating Gluconeogenic Substrates During Short-Term Fasting in Men, Women, and Children",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+        "page": 33,
+        "quote": "Morey W. Haymond, Irene E. Karl, William L. Clarke, Anthony S. Pagliara, and Julio V. Santiago",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+        "page": 33,
+        "quote": "Metabolism, Vol. 31, No. 1 (January), 1982",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+        "page": 33,
+        "quote": "20 adults (10 men and 10 women) were fasted for 86 hr and 15 children (6.1 _+ 0.8 yr, mean + SE) were fasted for 30 hr",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+        "page": 34,
+        "quote": "Men (n = 10) 24.0 _+ 1.9 181 ± 2 73.7 ± 2.7; Women (n = 10) 23.7 ± 1.1 168.0 _+ 1.3 58.3 ± 1.7; Children (boys/girls = 6/9) 6.1 _+ 0.8 114.2 ± 5.9 21.5 ± 2.5",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Fasting Duration - Adults",
+      "value": "at least 200 gm carbohydrate per day for three days prior to study",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 1,
+          "quote": "20 adults (10 men and 10 women) were fasted for 86 hr",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Fasting Duration - Children",
+      "value": "15 children, age 6.1 ± 0.8 yr",
+      "method": null,
+      "unit": "years",
+      "confidence": 0.4642857142857143,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 1,
+          "quote": "15 children (6.1 _+ 0.8 yr, mean + SE)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay Method - Glucose, Alanine, Glutamine, Lactate, Pyruvate, Beta-hydroxybutyrate, Acetoacetate",
+      "value": "radioimmunoassay",
+      "method": "radioimmunoassay",
+      "unit": null,
+      "confidence": 0.6,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "Plasma glucose, alanine, glutamine and glutamate and blood lactate, pyruvate, beta-bydroxybutyrate and acetoacetate were determined microfluorometrically as previously described.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Amino Acid Analysis Method",
+      "value": "Spinco-Beckman 119 Amino Acid Analyzer using standard physiologic methodology",
+      "method": "Spinco-Beckman 119 Amino Acid Analyzer",
+      "unit": null,
+      "confidence": 0.5833333333333333,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "Amino acid determinations were performed on Spinco-Beckman 119 Amino Acid Analyzer using standard physiologic methodology.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay Method - Cortisol",
+      "value": "protein binding assay",
+      "method": "protein binding assay",
+      "unit": null,
+      "confidence": 0.75,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "cortisol by a protein binding assay",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Amino Acid Sampling - Children",
+      "value": "Between 1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "Bloods were obtained between 1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood sampling - Initial timing",
+      "value": "Following an evening meal (1700-1800 hr), bloods obtained between 1800-2000 hr",
+      "method": null,
+      "unit": null,
+      "confidence": 0.75,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "All individuals were fasted following an evening meal (1700 1800 hr). Bloods were obtained between 1800-2000 hr",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion Criteria - Hypoglycemia History",
+      "value": "< 110 mg/dl",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5555555555555556,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "all had fasting glucose concentrations < 110 mg/dl",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criteria - Adult carbohydrate intake",
+      "value": "at least 200 gm carbohydrate per day for three days prior to the study",
+      "method": null,
+      "unit": "gm/day",
+      "confidence": 0.625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "The adults were consuming at least 200 gm carbohydrate per day for three days prior to the study",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood Collection - Volume and Anticoagulant",
+      "value": "4 to 5 milliliter of blood with Na heparin (0.1 ml)",
+      "method": null,
+      "unit": "milliliters",
+      "confidence": 0.625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 3,
+          "quote": "Four to five milliliter of blood were drawn into a syringe containing Na heparin (0.1 ml)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Amino acid sampling frequency - Men and women",
+      "value": "Determined on the 0, 14, 22, and 30 hr fasted samples of five children",
+      "method": null,
+      "unit": null,
+      "confidence": 0.6666666666666666,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 3,
+          "quote": "on the 0, 14, 22, and 30 hr fasted samples of five children",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criteria - No diabetes family history",
+      "value": "None of the subjects had a history compatible with hypoglycemic episodes or documented hypoglycemia",
+      "method": null,
+      "unit": null,
+      "confidence": 0.75,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "None of the subjects had a history compatible with hypoglycemic episodes or documented hypoglycemia",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Glucose concentrations were similar in the three groups studied during the first 18 hr of fasting",
+      "relationship": "comparison",
+      "confidence": 0.39285714285714285,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 34,
+          "quote": "Glucose concentrations were similar in the three groups studied during the first 18 hr of fasting (Fig. 1).",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "An inverse relationship was observed between plasma glucose and beta-hydroxybutyrate concentrations in each group",
+      "relationship": "inverse",
+      "confidence": 0.42857142857142855,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 34,
+          "quote": "An inverse relationship (p < 0.001) was observed between plasma glucose and beta-hydroxybutyrate concentrations in each group (r = 0.934, 0.925, 0.961, men, women and children, respectively).",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [
+        {
+          "path": "semantic.methods_participants[pair=8]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes Insulin Assay Method (radioimmunoassay) while Pass 2 describes Cortisol Assay Method (protein binding assay). These are different analytes with different assay methods.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=9]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes Growth Hormone Assay Method (radioimmunoassay) while Pass 2 describes Inclusion Criteria for Fasting Glucose. These are completely different facts.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=13]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes Inclusion Criteria for Fasting Glucose while Pass 2 describes Inclusion Criteria for Family History. These are different inclusion criteria.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=15]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 describes Family History inclusion criteria while Pass 2 describes Hypoglycemia History inclusion criteria. These are different criteria.",
+          "severity": "high"
+        },
+        {
+          "path": "semantic.methods_participants[pair=20]",
+          "pass_1_value": "true_conflict",
+          "pass_2_value": "Pass 1 states 10 men only; Pass 2 states 10 men and 10 women. Incompatible population descriptions",
+          "severity": "high"
+        }
+      ],
+      "needs_human_review": true,
+      "structural_discrepancies": [
+        {
+          "path": "methods_participants",
+          "pass_1_value": "len=21",
+          "pass_2_value": "len=16",
+          "severity": "medium"
+        },
+        {
+          "path": "methods_participants[0].label",
+          "pass_1_value": "Study Population - Adult Males",
+          "pass_2_value": "Study Population - Adults",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[0].value",
+          "pass_1_value": "10 men",
+          "pass_2_value": "10 men and 10 women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].evidence[0].quote",
+          "pass_1_value": "20 adults (10 men and 10 women) were fasted for 86 hr",
+          "pass_2_value": "15 children (6.1 _+ 0.8 yr, mean + SE) were fasted for 30 hr",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].label",
+          "pass_1_value": "Study Population - Adult Females",
+          "pass_2_value": "Study Population - Children",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[1].unit",
+          "pass_1_value": null,
+          "pass_2_value": "years",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[1].value",
+          "pass_1_value": "10 women",
+          "pass_2_value": "15 children, age 6.1 ± 0.8 yr",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].evidence[0].quote",
+          "pass_1_value": "15 children (6.1 _+ 0.8 yr, mean + SE) were fasted for 30 hr",
+          "pass_2_value": "20 adults (10 men and 10 women) were fasted for 86 hr",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].label",
+          "pass_1_value": "Study Population - Children",
+          "pass_2_value": "Fasting Duration - Adults",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[2].unit",
+          "pass_1_value": null,
+          "pass_2_value": "hours",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[2].value",
+          "pass_1_value": "15 children",
+          "pass_2_value": "86 hours",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].evidence[0].quote",
+          "pass_1_value": "15 children (6.1 _+ 0.8 yr, mean + SE)",
+          "pass_2_value": "15 children (6.1 _+ 0.8 yr, mean + SE) were fasted for 30 hr",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].label",
+          "pass_1_value": "Children Age",
+          "pass_2_value": "Fasting Duration - Children",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].unit",
+          "pass_1_value": "years",
+          "pass_2_value": "hours",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[3].value",
+          "pass_1_value": "6.1 ± 0.8",
+          "pass_2_value": "30 hours",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].evidence[0].quote",
+          "pass_1_value": "20 adults (10 men and 10 women) were fasted for 86 hr",
+          "pass_2_value": "all had fasting glucose concentrations < 110 mg/dl",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].label",
+          "pass_1_value": "Fasting Duration - Adults",
+          "pass_2_value": "Inclusion Criteria - Fasting Glucose",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].unit",
+          "pass_1_value": "hours",
+          "pass_2_value": "mg/dl",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[4].value",
+          "pass_1_value": "86",
+          "pass_2_value": "< 110 mg/dl",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].evidence[0].page",
+          "pass_1_value": 1,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].evidence[0].quote",
+          "pass_1_value": "15 children (6.1 _+ 0.8 yr, mean + SE) were fasted for 30 hr",
+          "pass_2_value": "The adults were consuming at least 200 gm carbohydrate per day for three days prior to the study",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].label",
+          "pass_1_value": "Fasting Duration - Children",
+          "pass_2_value": "Inclusion Criteria - Carbohydrate Intake",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].unit",
+          "pass_1_value": "hours",
+          "pass_2_value": "grams",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[5].value",
+          "pass_1_value": "30",
+          "pass_2_value": "at least 200 gm carbohydrate per day for three days prior to study",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].evidence[0].quote",
+          "pass_1_value": "Plasma glucose, alanine, glutamine and glutamate and blood lactate, pyruvate, beta-bydroxybutyrate and acetoacetate were determined microfluorometrically as previously described.",
+          "pass_2_value": "None of the subjects had a history compatible with hypoglycemic episodes or documented hypoglycemia",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].label",
+          "pass_1_value": "Glucose Assay Method",
+          "pass_2_value": "Inclusion Criteria - Hypoglycemia History",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[6].method",
+          "pass_1_value": "microfluorometric",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[6].value",
+          "pass_1_value": "microfluorometrically",
+          "pass_2_value": "None of the subjects had a history compatible with hypoglycemic episodes or documented hypoglycemia",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].evidence[0].quote",
+          "pass_1_value": "Amino acid determinations were performed on Spinco-Beckman 119 Amino Acid Analyzer using standard physiologic methodology.",
+          "pass_2_value": "None of the subjects had a family history of diabetes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].label",
+          "pass_1_value": "Amino Acid Analysis Method",
+          "pass_2_value": "Inclusion Criteria - Family History",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[7].method",
+          "pass_1_value": "Amino Acid Analyzer",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[7].value",
+          "pass_1_value": "Spinco-Beckman 119 Amino Acid Analyzer",
+          "pass_2_value": "None of the subjects had a family history of diabetes",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].evidence[0].quote",
+          "pass_1_value": "Plasma glucagon, insulin, and growth hormone concentrations were determined by radioimmunoassays",
+          "pass_2_value": "Bloods were obtained between 1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].label",
+          "pass_1_value": "Glucagon Assay Method",
+          "pass_2_value": "Blood Sampling - Timing",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[8].method",
+          "pass_1_value": "radioimmunoassay",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[8].value",
+          "pass_1_value": "radioimmunoassay",
+          "pass_2_value": "Between 1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].evidence[0].quote",
+          "pass_1_value": "Plasma glucagon, insulin, and growth hormone concentrations were determined by radioimmunoassays",
+          "pass_2_value": "Four to five milliliter of blood were drawn into a syringe containing Na heparin (0.1 ml)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].label",
+          "pass_1_value": "Insulin Assay Method",
+          "pass_2_value": "Blood Collection - Volume and Anticoagulant",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[9].method",
+          "pass_1_value": "radioimmunoassay",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[9].unit",
+          "pass_1_value": null,
+          "pass_2_value": "milliliters",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[9].value",
+          "pass_1_value": "radioimmunoassay",
+          "pass_2_value": "4 to 5 milliliter of blood with Na heparin (0.1 ml)",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].evidence[0].quote",
+          "pass_1_value": "Plasma glucagon, insulin, and growth hormone concentrations were determined by radioimmunoassays",
+          "pass_2_value": "Plasma glucose, alanine, glutamine and glutamate and blood lactate, pyruvate, beta-bydroxybutyrate and acetoacetate were determined microfluorometrically",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].label",
+          "pass_1_value": "Growth Hormone Assay Method",
+          "pass_2_value": "Assay Method - Glucose, Alanine, Glutamine, Lactate, Pyruvate, Beta-hydroxybutyrate, Acetoacetate",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].method",
+          "pass_1_value": "radioimmunoassay",
+          "pass_2_value": "microfluorometry",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[10].value",
+          "pass_1_value": "radioimmunoassay",
+          "pass_2_value": "Microfluorometrically",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].evidence[0].quote",
+          "pass_1_value": "cortisol by a protein binding assay",
+          "pass_2_value": "Amino acid determinations were performed on Spinco-Beckman 119 Amino Acid Analyzer using standard physiologic methodology",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].label",
+          "pass_1_value": "Cortisol Assay Method",
+          "pass_2_value": "Assay Method - Amino Acids",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].method",
+          "pass_1_value": "protein binding assay",
+          "pass_2_value": "amino acid analyzer",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[11].value",
+          "pass_1_value": "protein binding assay",
+          "pass_2_value": "Spinco-Beckman 119 Amino Acid Analyzer using standard physiologic methodology",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].evidence[0].quote",
+          "pass_1_value": "Bloods were obtained between 1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals.",
+          "pass_2_value": "Plasma glucagon, insulin, and growth hormone concentrations were determined by radioimmunoassays",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].label",
+          "pass_1_value": "Blood Sampling Timing",
+          "pass_2_value": "Assay Method - Glucagon, Insulin, Growth Hormone",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[12].method",
+          "pass_1_value": null,
+          "pass_2_value": "radioimmunoassay",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[12].value",
+          "pass_1_value": "1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals",
+          "pass_2_value": "Radioimmunoassays",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].evidence[0].quote",
+          "pass_1_value": "All individuals were fasted following an evening meal (1700 1800 hr).",
+          "pass_2_value": "cortisol by a protein binding assay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].label",
+          "pass_1_value": "Fasting Start Time",
+          "pass_2_value": "Assay Method - Cortisol",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[13].method",
+          "pass_1_value": null,
+          "pass_2_value": "protein binding assay",
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[13].value",
+          "pass_1_value": "following an evening meal (1700-1800 hr)",
+          "pass_2_value": "Protein binding assay",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].evidence[0].quote",
+          "pass_1_value": "all had fasting glucose concentrations < 110 mg/dl",
+          "pass_2_value": "Plasma amino acid concentrations were determined at all sampling times in six men and six women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].label",
+          "pass_1_value": "Inclusion Criteria - Fasting Glucose",
+          "pass_2_value": "Amino Acid Sampling - Men and Women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[14].unit",
+          "pass_1_value": "mg/dl",
+          "pass_2_value": null,
+          "severity": "high"
+        },
+        {
+          "path": "methods_participants[14].value",
+          "pass_1_value": "< 110 mg/dl",
+          "pass_2_value": "Determined at all sampling times in six men and six women",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].confidence",
+          "pass_1_value": 0.9,
+          "pass_2_value": 0.95,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].evidence[0].page",
+          "pass_1_value": 2,
+          "pass_2_value": 3,
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].evidence[0].quote",
+          "pass_1_value": "The adults were consuming at least 200 gm carbohydrate per day for three days prior to the study.",
+          "pass_2_value": "on the 0, 14, 22, and 30 hr fasted samples of five children",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].label",
+          "pass_1_value": "Inclusion Criteria - Carbohydrate Intake",
+          "pass_2_value": "Amino Acid Sampling - Children",
+          "severity": "low"
+        },
+        {
+          "path": "methods_participants[15].value",
+          "pass_1_value": "at least 200 gm carbohydrate per day for three days prior to study",
+          "pass_2_value": "Determined on the 0, 14, 22, and 30 hr fasted samples of five children",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[2].evidence[0].quote",
+          "pass_1_value": "Beta-hydroxybutyrate and acetoacetate concentrations rose more rapidly and to higher values in the children (3.75 _+ 0.35 mM and 1.26 _+ 0.12 mM, respectively) than in the adults (0.91 _ 0.15 mM and 0.38 +_ 0.06 mM, respectively in the men and 1.68 _+ 0.20 mM and 0.62 _+ 0.06 mM in the women) over the initial 30 hr fasting (p < 0.001).",
+          "pass_2_value": "Beta-hydroxybutyrate and acetoacetate concentrations rose more rapidly and to higher values in the children (3.75 _+ 0.35 mM and 1.26 _+ 0.12 mM, respectively) than in the adults (0.91 _ 0.15 mM and 0.38 +_ 0.06 mM, respectively in the men and 1.68 _+ 0.20 mM and 0.62 _+ 0.06 mM in the women)",
+          "severity": "low"
+        },
+        {
+          "path": "narrative_results[5].statement",
+          "pass_1_value": "Between 6 and 30 hr of fasting, blood lactate concentrations were higher in children than in adults",
+          "pass_2_value": "Blood lactate concentrations were higher in children than in adults between 6 and 30 hr of fasting",
+          "severity": "low"
+        }
+      ],
+      "aligned_method_pairs": [
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 1,
+          "pass_2_index": 2,
+          "alignment_score": 0.55,
+          "pass_1_summary": "Study Population - Adult Females | 10 women",
+          "pass_2_summary": "Fasting Duration - Adults | 86 hours | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 2,
+          "pass_2_index": 1,
+          "alignment_score": 0.8888888888888888,
+          "pass_1_summary": "Study Population - Children | 15 children",
+          "pass_2_summary": "Study Population - Children | 15 children, age 6.1 ± 0.8 yr | years"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 0.42857142857142855,
+          "pass_1_summary": "Children Age | 6.1 ± 0.8 | years",
+          "pass_2_summary": "Fasting Duration - Children | 30 hours | hours"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 4,
+          "pass_2_index": 14,
+          "alignment_score": 0.17857142857142858,
+          "pass_1_summary": "Fasting Duration - Adults | 86 | hours",
+          "pass_2_summary": "Amino Acid Sampling - Men and Women | Determined at all sampling times in six men and six women"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 5,
+          "pass_2_index": 15,
+          "alignment_score": 0.16129032258064516,
+          "pass_1_summary": "Fasting Duration - Children | 30 | hours",
+          "pass_2_summary": "Amino Acid Sampling - Children | Determined on the 0, 14, 22, and 30 hr fasted samples of five children"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 6,
+          "pass_2_index": 10,
+          "alignment_score": 0.76,
+          "pass_1_summary": "Glucose Assay Method | microfluorometrically | microfluorometric",
+          "pass_2_summary": "Assay Method - Glucose, Alanine, Glutamine, Lactate, Pyruvate, Beta-hydroxybutyrate, Acetoacetate | Microfluorometrically | microfluorometry"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 7,
+          "pass_2_index": 11,
+          "alignment_score": 0.8571428571428571,
+          "pass_1_summary": "Amino Acid Analysis Method | Spinco-Beckman 119 Amino Acid Analyzer | Amino Acid Analyzer",
+          "pass_2_summary": "Assay Method - Amino Acids | Spinco-Beckman 119 Amino Acid Analyzer using standard physiologic methodology | amino acid analyzer"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 8,
+          "pass_2_index": 12,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Glucagon Assay Method | radioimmunoassay | radioimmunoassay",
+          "pass_2_summary": "Assay Method - Glucagon, Insulin, Growth Hormone | Radioimmunoassays | radioimmunoassay"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 9,
+          "pass_2_index": 13,
+          "alignment_score": 0.15,
+          "pass_1_summary": "Insulin Assay Method | radioimmunoassay | radioimmunoassay",
+          "pass_2_summary": "Assay Method - Cortisol | Protein binding assay | protein binding assay"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 10,
+          "pass_2_index": 4,
+          "alignment_score": 0.12,
+          "pass_1_summary": "Growth Hormone Assay Method | radioimmunoassay | radioimmunoassay",
+          "pass_2_summary": "Inclusion Criteria - Fasting Glucose | < 110 mg/dl | mg/dl"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 11,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Cortisol Assay Method | protein binding assay | protein binding assay",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 12,
+          "pass_2_index": 8,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Blood Sampling Timing | 1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals",
+          "pass_2_summary": "Blood Sampling - Timing | Between 1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 13,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Fasting Start Time | following an evening meal (1700-1800 hr)",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 14,
+          "pass_2_index": 7,
+          "alignment_score": 0.15,
+          "pass_1_summary": "Inclusion Criteria - Fasting Glucose | < 110 mg/dl | mg/dl",
+          "pass_2_summary": "Inclusion Criteria - Family History | None of the subjects had a family history of diabetes"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 15,
+          "pass_2_index": 5,
+          "alignment_score": 0.9166666666666666,
+          "pass_1_summary": "Inclusion Criteria - Carbohydrate Intake | at least 200 gm carbohydrate per day for three days prior to study",
+          "pass_2_summary": "Inclusion Criteria - Carbohydrate Intake | at least 200 gm carbohydrate per day for three days prior to study | grams"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 16,
+          "pass_2_index": 6,
+          "alignment_score": 0.5,
+          "pass_1_summary": "Inclusion Criteria - Family History | None of the subjects had a family history of diabetes",
+          "pass_2_summary": "Inclusion Criteria - Hypoglycemia History | None of the subjects had a history compatible with hypoglycemic episodes or documented hypoglycemia"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 17,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Inclusion Criteria - Hypoglycemia History | None had a history compatible with hypoglycemic episodes or documented hypoglycemia",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 18,
+          "pass_2_index": 9,
+          "alignment_score": 0.4444444444444444,
+          "pass_1_summary": "Blood Collection Volume | 4 to 5 milliliter | ml",
+          "pass_2_summary": "Blood Collection - Volume and Anticoagulant | 4 to 5 milliliter of blood with Na heparin (0.1 ml) | milliliters"
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 19,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Amino Acid Sampling - Men and Women | 6 men and 6 women at all sampling times",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 20,
+          "pass_2_index": null,
+          "alignment_score": 0.0,
+          "pass_1_summary": "Amino Acid Sampling - Children | 5 children at 0, 14, 22, and 30 hr fasted samples",
+          "pass_2_summary": null
+        },
+        {
+          "domain": "methods_participants",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 0.8666666666666667,
+          "pass_1_summary": "Study Population - Adult Males | 10 men",
+          "pass_2_summary": "Study Population - Adults | 10 men and 10 women"
+        }
+      ],
+      "aligned_narrative_pairs": [
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 1,
+          "pass_2_index": 1,
+          "alignment_score": 1.0,
+          "pass_1_summary": "By 30 hr fasting, the plasma glucose concentration was lowest in children and highest in the men [comparison]",
+          "pass_2_summary": "By 30 hr fasting, the plasma glucose concentration was lowest in children and highest in the men [comparison]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 2,
+          "pass_2_index": 2,
+          "alignment_score": 0.8444444444444444,
+          "pass_1_summary": "Beta-hydroxybutyrate and acetoacetate concentrations rose more rapidly and to higher values in the children than in the adults [comparison]",
+          "pass_2_summary": "Beta-hydroxybutyrate and acetoacetate concentrations rose more rapidly and to higher values in the children than in the adults [comparison]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 3,
+          "pass_2_index": 3,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Beta-hydroxybutyrate concentrations were higher in women than in men during the entire period of study [comparison]",
+          "pass_2_summary": "Beta-hydroxybutyrate concentrations were higher in women than in men during the entire period of study [comparison]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 4,
+          "pass_2_index": 4,
+          "alignment_score": 1.0,
+          "pass_1_summary": "An inverse relationship was observed between plasma glucose and beta-hydroxybutyrate concentrations in each group [inverse]",
+          "pass_2_summary": "An inverse relationship was observed between plasma glucose and beta-hydroxybutyrate concentrations in each group [inverse]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 5,
+          "pass_2_index": 5,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Between 6 and 30 hr of fasting, blood lactate concentrations were higher in children than in adults [comparison]",
+          "pass_2_summary": "Blood lactate concentrations were higher in children than in adults between 6 and 30 hr of fasting [comparison]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 6,
+          "pass_2_index": 6,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Plasma alanine concentrations were lower in women than men over the entire study [comparison]",
+          "pass_2_summary": "Plasma alanine concentrations were lower in women than men over the entire study [comparison]"
+        },
+        {
+          "domain": "narrative_results",
+          "pass_1_index": 0,
+          "pass_2_index": 0,
+          "alignment_score": 1.0,
+          "pass_1_summary": "Glucose concentrations were similar in the three groups studied during the first 18 hr of fasting",
+          "pass_2_summary": "Glucose concentrations were similar in the three groups studied during the first 18 hr of fasting"
+        }
+      ],
+      "semantic_groups": [
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 0,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 describes study population (10 women), Pass 2 describes fasting duration (86 hours). These are different facts with no overlap.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe 15 children in study population. Pass 2 adds age detail (6.1 ± 0.8 yr) which is complementary, not contradictory.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 2,
+          "verdict": "unpaired",
+          "severity": "high",
+          "rationale": "Pass 1 describes children's age (6.1 ± 0.8 years), Pass 2 describes fasting duration for children (30 hours). These are completely different facts.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 3,
+          "verdict": "unpaired",
+          "severity": "high",
+          "rationale": "Pass 1 describes fasting duration for adults (86 hours), Pass 2 describes amino acid sampling methodology for men and women. These are unrelated facts.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 4,
+          "verdict": "unpaired",
+          "severity": "high",
+          "rationale": "Pass 1 describes fasting duration for children (30 hours), Pass 2 describes amino acid sampling methodology for children. These are different facts.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe glucose assay method as microfluorometric/microfluorometrically. Minor wording variation (adverb vs adjective form) with same meaning.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 6,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both identify Spinco-Beckman 119 Amino Acid Analyzer as the method. Pass 2 adds methodological context but describes the same instrument.",
+          "recommended_action": "accept_pass_2"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 7,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe glucagon assay method as radioimmunoassay. Identical core fact with identical wording.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 8,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes Insulin Assay Method (radioimmunoassay) while Pass 2 describes Cortisol Assay Method (protein binding assay). These are different analytes with different assay methods.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 9,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes Growth Hormone Assay Method (radioimmunoassay) while Pass 2 describes Inclusion Criteria for Fasting Glucose. These are completely different facts.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 10,
+          "verdict": "unpaired",
+          "severity": "medium",
+          "rationale": "Pass 1 contains Cortisol Assay Method information but Pass 2 is empty. This is an orphan entry.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 11,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe the same blood sampling timing with negligible wording differences (addition of 'Between' in Pass 2).",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 12,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 contains Fasting Start Time information but Pass 2 is empty. This is an orphan entry.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 13,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes Inclusion Criteria for Fasting Glucose while Pass 2 describes Inclusion Criteria for Family History. These are different inclusion criteria.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 14,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Both describe the same carbohydrate intake requirement with identical values. Minor difference is 'gm' vs 'grams' which is negligible.",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 15,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 describes Family History inclusion criteria while Pass 2 describes Hypoglycemia History inclusion criteria. These are different criteria.",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 16,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 contains information about hypoglycemia history inclusion criteria; Pass 2 is empty",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 17,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Both describe blood collection volume of 4-5 ml. Pass 2 adds anticoagulant detail (Na heparin) not in Pass 1, but core volume information is consistent",
+          "recommended_action": "merge"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 18,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 contains amino acid sampling information for men and women; Pass 2 is empty",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 19,
+          "verdict": "unpaired",
+          "severity": "low",
+          "rationale": "Pass 1 contains amino acid sampling information for children; Pass 2 is empty",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "methods_participants",
+          "aligned_pair_index": 20,
+          "verdict": "true_conflict",
+          "severity": "high",
+          "rationale": "Pass 1 states 10 men only; Pass 2 states 10 men and 10 women. Incompatible population descriptions",
+          "recommended_action": "human_review"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 0,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text across both extractions",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 1,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text across both extractions",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 2,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text across both extractions",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 3,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text across both extractions",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 4,
+          "verdict": "minor_wording",
+          "severity": "low",
+          "rationale": "Same fact expressed with different word order; temporal clause repositioned but meaning unchanged",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 5,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text across both extractions",
+          "recommended_action": "accept_pass_1"
+        },
+        {
+          "domain": "narrative_results",
+          "aligned_pair_index": 6,
+          "verdict": "equivalent",
+          "severity": "low",
+          "rationale": "Identical text across both extractions",
+          "recommended_action": "accept_pass_1"
+        }
+      ]
+    },
+    "consensus": {
+      "samples": 3,
+      "method_clusters": 12,
+      "narrative_clusters": 2,
+      "average_method_support": 0.6141534391534391,
+      "average_narrative_support": 0.4107142857142857
+    }
+  }
+}
