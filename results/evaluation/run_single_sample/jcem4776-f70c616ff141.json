@@ -1,0 +1,299 @@
+{
+  "paper_id": "jcem4776-f70c616ff141",
+  "source_file": "papers/jcem4776.pdf",
+  "metadata": {
+    "title": "Incorporation of the Fasting Plasma FFA Concentration into QUICKI Improves Its Association with Insulin Sensitivity in Nonobese Individuals",
+    "authors": [
+      "GIANLUCA PERSEGHIN",
+      "ANDREA CAUMO",
+      "MARIANNA CALONI",
+      "GIULIO TESTOLIN",
+      "LIVIO LUZI"
+    ],
+    "year": 2001,
+    "journal": "The Journal of Clinical Endocrinology & Metabolism",
+    "study_design": "Euglycemic hyperinsulinemic clamp study in nonobese subjects with and without family history of type 2 diabetes",
+    "demographics": "57 young, healthy, nonobese individuals (38F/19M), age 19-45 years, white race, BMI <27 kg/m², sedentary lifestyle, no history of hypertension, endocrine/metabolic disease, or cigarette smoking. 17 with first-degree relatives affected by type 2 diabetes, 40 without family history of diabetes",
+    "evidence": [
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "Incorporation of the Fasting Plasma FFA Concentration into QUICKI Improves Its Association with Insulin Sensitivity in Nonobese Individuals",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "GIANLUCA PERSEGHIN, ANDREA CAUMO, MARIANNA CALONI, GIULIO TESTOLIN, AND LIVIO LUZI",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "The Journal of Clinical Endocrinology & Metabolism 86(10):4776–4781",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "Copyright © 2001 by The Endocrine Society",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "we performed a euglycemic hyperinsulinemic clamp [40 mU/(m2·min)] in 57 young, healthy, nonobese individuals with (n = 17) or without (n = 40) first-degree relatives affected by type 2 diabetes",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem4776.pdf",
+        "page": 4776,
+        "quote": "Fifty-seven healthy, young, nonobese subjects were recruited at the Istituto Scientifico H San Raffaele. The main criteria for their inclusion in the study were the following: 1) age (19–45 yr); 2) white race; 3) body mass index less than 27 kg/m2; 4) sedentary lifestyle; and 5) no history of hypertension, endocrine/metabolic disease, or cigarette smoking.",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Study population - Without family history of type 2 diabetes",
+      "value": "57",
+      "method": null,
+      "unit": null,
+      "confidence": 0.6666666666666666,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4776,
+          "quote": "we performed a euglycemic hyperinsulinemic clamp [40mU/(m2·min)] in 57 young, healthy, nonobese individuals",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "FFA measurement - Sample collection",
+      "value": "prechilled tubes containing 0.1% EDTA",
+      "method": null,
+      "unit": "years",
+      "confidence": 0.625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "The main criteria for their inclusion in the study were the following: 1) age (19–45 yr)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criterion - Body mass index",
+      "value": "sedentary lifestyle",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "body mass index less than 27 kg/m2",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criterion - Medical history exclusions",
+      "value": "no history of hypertension, endocrine/metabolic disease, or cigarette smoking",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "5) no history of hypertension, endocrine/metabolic disease, or cigarette smoking",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Euglycemic-hyperinsulinemic clamp - Insulin infusion rate",
+      "value": "40",
+      "method": "euglycemic-hyperinsulinemic clamp",
+      "unit": "mU/(m2·min)",
+      "confidence": 0.29545454545454547,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "Insulin was infused at 40 mU/[m2·min] to reach a plasma insulin concentration of about 350 pmol/liter",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Dose-response study - Low dose target plasma insulin",
+      "value": "7.2 ± 1.7%",
+      "method": "IMx insulin assay",
+      "unit": "%",
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "The low-dose insulin clamp was designed to reach appropriate (150 pmol/liter) plasma insulin levels",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Plasma glucose measurement - CV fasting",
+      "value": "microparticle enzyme immunoassay technology",
+      "method": "Beckman Coulter glucose analyzer",
+      "unit": "%",
+      "confidence": 0.4375,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4778,
+          "quote": "Plasma glucose was measured with a glucose analyzer (Beckman Coulter, Inc., Fullerton, CA)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "FFA measurement - Storage temperature",
+      "value": "5.9 ± 1.8%",
+      "method": null,
+      "unit": "%",
+      "confidence": 0.5833333333333333,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4778,
+          "quote": "Plasma was then frozen and stored at −70 C",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "FFA measurement - Timing",
+      "value": "within 0-5 working days",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4778,
+          "quote": "FFA determinations were performed as previously described within 0–5 working days",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Women study timing - Menstrual cycle phase",
+      "value": "days 3-8 of the menstrual cycle",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "Women were studied between days 3 and 8 of the menstrual cycle",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body composition assessment method",
+      "value": "dual-energy x-ray absorptiometry",
+      "method": "Lunar Corp.-DPX-IQ scanner",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4777,
+          "quote": "Body composition, with regional three-compartment analysis (arms, trunk, and legs), was performed with a Lunar Corp.-DPX-IQ scanner",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "FFA levels during the low-dose insulin clamp were inversely associated with S I(clamp) calculated during both the low- and high-dose insulin clamp",
+      "relationship": "inverse association",
+      "confidence": 0.375,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4779,
+          "quote": "FFA levels during the low-dose insulin clamp (which is more appropriate to study the antilipolytic insulin action) were inversely associated with the S I(clamp) calculated during both the low-(r (cid:1) -0.57, P (cid:1) 0.033) and high-dose insulin clamp (r (cid:1) - 0.58, P (cid:1) 0.028)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "HOMA-IR and QUICKI did not detect any significant difference in insulin sensitivity between offspring of type 2 diabetic parents and controls, whereas the revised QUICKI found a significant reduction",
+      "relationship": "increased in offspring group",
+      "confidence": 0.25,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4778,
+          "quote": "Fasting plasma glucose and FFA concentrations were significantly increased in the offspring of type 2 diabetic parents with respect to the normal subjects",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Multiple stepwise regression analysis selected log(I b) and log(FFA b) as the best set of predictors of IR",
+      "relationship": "best predictors",
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem4776.pdf",
+          "page": 4779,
+          "quote": "The multiple stepwise regression analysis selected log(I b ) and log(FFA b ) as the best set of predictors of IR",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [],
+      "needs_human_review": false,
+      "structural_discrepancies": null,
+      "aligned_method_pairs": [],
+      "aligned_narrative_pairs": [],
+      "semantic_groups": []
+    },
+    "consensus": {
+      "samples": 1,
+      "method_clusters": 11,
+      "narrative_clusters": 3,
+      "average_method_support": 0.6973140495867768,
+      "average_narrative_support": 0.5416666666666666
+    }
+  }
+}

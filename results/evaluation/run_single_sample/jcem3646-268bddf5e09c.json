@@ -1,0 +1,328 @@
+{
+  "paper_id": "jcem3646-268bddf5e09c",
+  "source_file": "papers/jcem3646.pdf",
+  "metadata": {
+    "title": "Gender-Related Differences in the Metabolic Response to Fasting",
+    "authors": [
+      "Maarten R. Soeters",
+      "Hans P. Sauerwein",
+      "Johanna E. Groener",
+      "Johannes M. Aerts",
+      "Mariëtte T. Ackermans",
+      "Jan F. C. Glatz",
+      "Eric Fliers",
+      "Mireille J. Serlie"
+    ],
+    "year": 2007,
+    "journal": "The Journal of Clinical Endocrinology & Metabolism",
+    "study_design": "Experimental study with stable isotope technique and hyperinsulinemic euglycemic clamp",
+    "demographics": "Ten male and ten female subjects, age 18-35 years, Caucasian race, BMI 20-25 kg/m², no excessive sport activities, no medication, women studied during follicular phase of menstrual cycle",
+    "evidence": [
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3646,
+        "quote": "Gender-Related Differences in the Metabolic Response to Fasting",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3646,
+        "quote": "Maarten R. Soeters, Hans P. Sauerwein, Johanna E. Groener, Johannes M. Aerts, Mariëtte T. Ackermans, Jan F. C. Glatz, Eric Fliers, and Mireille J. Serlie",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3646,
+        "quote": "TheJournalofClinicalEndocrinology&Metabolism92(9):3646–3652",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3646,
+        "quote": "PrintedinU.S.A. Copyright©2007byTheEndocrineSociety",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3646,
+        "quote": "MainOutcomeMeasuresandDesign:Aftera38-hfast,measurementsofglucoseandlipidfluxesandmuscleceramideandfattyacidtranslocase/CD36wereperformedbeforeandafterahyperinsulinemiceuglycemicclamp.",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/jcem3646.pdf",
+        "page": 3647,
+        "quote": "Tenmaleand10femalesubjectswererecruitedviaadvertisementsinlocalmagazines. Criteriaforinclusionwere1)absenceofafamilyhistoryofdiabetes;2)age18–35yr;3)Caucasianrace;4)bodymassindex(BMI)20–25kg/m2;5)noexcessivesportactivities,i.e.fewerthanthreetimesperweek;and6)nomedication.Womenwerestudieddurththefollicularphaseofthemenstrualcycle.",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Participant N",
+      "value": "10 male and 10 female subjects",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Ten male and 10 female subjects were recruited via advertisements in local magazines.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Age inclusion criteria",
+      "value": "18-35 years",
+      "method": null,
+      "unit": "years",
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Criteria for inclusion were 1) absence of a family history of diabetes; 2) age 18–35 yr",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "BMI inclusion criteria",
+      "value": "20-25 kg/m²",
+      "method": null,
+      "unit": "kg/m²",
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "4) body mass index (BMI) 20–25 kg/m2",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Women menstrual cycle phase",
+      "value": "2 hours (38 hours fasting)",
+      "method": "fasting from 2000h 2d before study start until end of study",
+      "unit": "hours",
+      "confidence": 0.41666666666666663,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "the subjects were fasting from 2000h 2d before the start of the study until the end of the study",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Pre-fasting diet",
+      "value": "weight-maintaining diet containing at least 250g carbohydrates per day for 3 days",
+      "method": null,
+      "unit": "grams carbohydrates/day",
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "For 3d before the fasting period, all volunteers consumed a weight-maintaining diet containing at least 250g carbohydrates per day.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Indirect calorimetry measurement duration",
+      "value": "five blood samples at 5-minute intervals",
+      "method": "ventilated hood system (Sensormedics model 2900)",
+      "unit": "minutes",
+      "confidence": 0.25,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Plasma glucose levels were measured every 5 min at the bedside.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Insulin infusion dose",
+      "value": "at end of basal state and end of hyperinsulinemic euglycemic clamp",
+      "method": "Pro-Mag I biopsy needle under local anesthesia (lidocaine 20 mg/ml)",
+      "unit": "mU/m²·min",
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "infusions of insulin (60mU/m2·min) (Actrapid 100 IU/ml; NovoNordisk FarmaB.V., Alphen aan den Rijn, The Netherlands)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glycerol tracer infusion - continuous dose",
+      "value": "0.11 μmol/kg·min",
+      "method": "[1,1,2,3,3-2H5]Glycerol primed continuous infusion",
+      "unit": "μmol/kg·min",
+      "confidence": 0.375,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "[6,6-2H2]glucose (prime, 8.8 μmol/kg; continuous, 0.11 μmol/kg·min)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body composition measurement method",
+      "value": "bioelectrical impedance analysis",
+      "method": "Maltron BF906; Maltron, Rayleigh, UK",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "Body composition was measured with bioelectrical impedance analysis (Maltron BF906; Maltron, Rayleigh, UK).",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Ceramide and glucosylceramide measurement method",
+      "value": "HPLC method",
+      "method": "stable isotope technique",
+      "unit": null,
+      "confidence": 0.375,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Plasma FFA concentrations were determined with an enzymatic colorimetric method (NEFA-C test kit; Wako Chemicals GmbH, Neuss, Germany) with intraassay variation of 1%, interassay variation of 4–15%, and detection limit of 0.02 mmol/liter.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Saline infusion rate",
+      "value": "50 ml/h",
+      "method": "NaCl 0.9% infusion to keep catheters patent",
+      "unit": "ml/h",
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3647,
+          "quote": "saline was infused as NaCl 0.9% at a rate of 50 ml/h to keep the catheters patent.",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp",
+      "relationship": null,
+      "confidence": 0.6666666666666666,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Plasma epinephrine was significantly lower in females than males during the hyperinsulinemic euglycemic clamp",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Insulin-mediated peripheral glucose uptake was not different between sexes",
+      "relationship": null,
+      "confidence": 0.75,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "Insulin-mediated peripheral glucose uptake was not different between sexes",
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3648,
+          "quote": "Insulin-mediated peripheral glucose uptake during the clamp (Rd) did not differ significantly between men and women",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Muscle fatty acid translocase/CD36 was not different between sexes in the basal state and during the clamp",
+      "relationship": null,
+      "confidence": 0.625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "Muscle fatty acid translocase/CD36 was not different between sexes in the basal state and during the clamp",
+          "bbox": null
+        },
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3649,
+          "quote": "There were no differences in muscle FAT/CD36 content between women and men during both the basal state and the hyperinsulinemic euglycemic clamp",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Women are relatively protected from FFA-induced insulin resistance by preventing myocellular accumulation of ceramide",
+      "relationship": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/jcem3646.pdf",
+          "page": 3646,
+          "quote": "We suggest that during fasting, women are relatively protected from FFA-induced insulin resistance by preventing myocellular accumulation of ceramide",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [],
+      "needs_human_review": false,
+      "structural_discrepancies": null,
+      "aligned_method_pairs": [],
+      "aligned_narrative_pairs": [],
+      "semantic_groups": []
+    },
+    "consensus": {
+      "samples": 1,
+      "method_clusters": 11,
+      "narrative_clusters": 4,
+      "average_method_support": 0.7196969696969697,
+      "average_narrative_support": 0.7604166666666666
+    }
+  }
+}

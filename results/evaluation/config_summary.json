@@ -1,4 +1,23 @@
 {
+  "run_single_sample_baseline": {
+    "samples": 1,
+    "temperature": 0.4,
+    "council_mode": "structural",
+    "successful_parses": "9/9",
+    "schema_valid": "9/9",
+    "titles_extracted": "9/9",
+    "mean_methods_per_paper": 9.667,
+    "mean_narrative_per_paper": 3.111,
+    "tables_total": 10,
+    "mean_method_support": 0.735,
+    "mean_narrative_support": 0.682,
+    "mean_council_conflicts": 0.0,
+    "evidence_exact_match_rate": 0.201,
+    "evidence_token_grounding_rate": 0.677,
+    "mean_evidence_token_overlap": 0.829,
+    "mean_runtime_seconds_per_paper": 36.8,
+    "note": "Single extraction sample baseline. Consensus support and council conflicts are not directly comparable to multi-sample settings because there are no independent samples to adjudicate."
+  },
   "run_a_conservative": {
     "samples": 3,
     "temperature": 0.4,

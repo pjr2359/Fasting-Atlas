@@ -1,0 +1,283 @@
+{
+  "paper_id": "mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting-6e75c5c70e5e",
+  "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+  "metadata": {
+    "title": "Gender differences in lipid and glucose kinetics during short-term fasting",
+    "authors": [
+      "Bettina Mittendorfer",
+      "Jeffrey F. Horowitz",
+      "Samuel Klein"
+    ],
+    "year": 2001,
+    "journal": "American Journal of Physiology - Endocrinology and Metabolism",
+    "study_design": "Experimental study with stable isotope labeled tracers measuring whole body glycerol and glucose kinetics at 14 and 22 hours of fasting",
+    "demographics": "Six men (32 ± 4 yr old) and six premenopausal women (27 ± 2 yr old), matched on percent body fat (24±2% and 23±2% body weight as fat, respectively)",
+    "evidence": [
+      {
+        "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "Gender differences in lipid and glucose kinetics during short-term fasting",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "BETTINA MITTENDORFER, JEFFREY F. HOROWITZ, AND SAMUEL KLEIN",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "Am J Physiol Endocrinol Metab 281: E1333–E1339, 2001",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "Six women and six men who were matched for adiposity (24±2 and 23±2% body wt as fat, respectively)",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "Substrate kinetics were measured by infusing stable isotope labeled tracers of glucose ([2H2]glucose) and glycerol ([2H5]glycerol)",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+        "page": 1333,
+        "quote": "Six men (32 ± 4 yr old) and six premenopausal women (27 ± 2 yr old), who were matched on percent body fat",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Participant N and demographics",
+      "value": "Six men (32 ± 4 yr old) and six premenopausal women (27 ± 2 yr old), who were matched on percent body fat",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "Six men (32 6 4 yr old) and six premenopausal women (27 6 2 yr old), who were matched on percent body fat, participated in this study",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criteria - body weight stability",
+      "value": "All subjects were considered to be in good health after completing a comprehensive medical evaluation that included a history and physical examination, an electrocardiogram, and standard blood and urine tests",
+      "method": null,
+      "unit": "months",
+      "confidence": 0.625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "All subjects were considered to be in good health after completing a comprehensive medical evaluation that included a history and physical examination, an electrocardiogram, and standard blood and urine tests",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criteria - medications and smoking",
+      "value": "In female subjects, the study was performed during the first 2 wk of the follicular phase of their menstrual cycle",
+      "method": null,
+      "unit": "months",
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "None of the subjects was taking regular medications or smoked tobacco",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body composition assessment method",
+      "value": "Dual-energy X-ray absorptiometry (Hologic QDR 1000/w, Waltham, MA)",
+      "method": "DXA",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "Each subject's fat mass (FM) and fat-free mass (FFM) were determined by dual-energy X-ray absorptiometry (Hologic QDR1000/w, Waltham, MA)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Pre-study liquid formula - timing and composition",
+      "value": "At 2000, subjects ingested a liquid formula (Ensure; Ross Laboratories, Columbus, OH), containing 250 kcal (40 g carbohydrates, 6.1 g fat, and 8.8 g protein)",
+      "method": null,
+      "unit": "minutes",
+      "confidence": 0.40625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "gender-related differences in body composition on subjects at 14 and 22 h of fasting",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Glycerol isotope infusion - infusion rate",
+      "value": "[1,1,2,3,3-2H5]glycerol infusion rate: 0.12 mmol·kg body wt-1·min-1",
+      "method": "isotope infusion",
+      "unit": "mmol·kg body wt-1·min-1",
+      "confidence": 0.45,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "infusion rate:0.12mmolzkgbody wt21zmin21",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood collection tubes - type 1",
+      "value": "Radioimmunoassay",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 2,
+          "quote": "chilled tubes containing EDTA to determine plasma fatty acid, glycerol, and glucose concentrations and glycerol and glucose enrichments",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Plasma storage temperature",
+      "value": "-70°C",
+      "method": null,
+      "unit": "°C",
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 2,
+          "quote": "Plasma was stored at 270°C until final analyses were performed",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Fatty acid concentration measurement assay",
+      "value": "Gas chromatography (Hewlett-Packard 5890-II, Palo Alto, CA) after adding heptadecanoic acid to plasma as an internal standard",
+      "method": "automated analyzer",
+      "unit": null,
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 2,
+          "quote": "Plasma glucose concentration was determined by using an automated glucose analyzer (Yellow Springs Instrument, Yellow Springs, OH)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Statistical analysis method",
+      "value": "Two-way analysis of variance (ANOVA), with gender and time as factors, followed by post hoc comparisons with Student's t-test for multiple comparisons",
+      "method": "ANOVA",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 2,
+          "quote": "A two-way analysis of variance (ANOVA), with gender and time as factors, was used to test for significant differences in substrate kinetics between men and women during fasting. Significant F-ratios were followed by post hoc comparisons with the use of Student's t-test for multiple comparisons",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Statistical significance threshold",
+      "value": "P ≤ 0.05",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 2,
+          "quote": "A value of P #0.05 was considered to be statistically significant",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "The relative increase in glycerol Ra with continued fasting was blunted in women compared with men",
+      "relationship": "gender difference",
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "the relative increase in glycerol Ra with continued fasting was blunted in women compared with men (40±7 vs. 80±4% increase; P < 0.05)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Sexual dimorphism exists in lipid, but not glucose, metabolism during both basal and short-term fasting conditions",
+      "relationship": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/mittendorfer-et-al-2001-gender-differences-in-lipid-and-glucose-kinetics-during-short-term-fasting.pdf",
+          "page": 1,
+          "quote": "These data demonstrate the presence of sexual dimorphism in lipid, but not glucose, metabolism during both basal and short-term fasting conditions",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [],
+      "needs_human_review": false,
+      "structural_discrepancies": null,
+      "aligned_method_pairs": [],
+      "aligned_narrative_pairs": [],
+      "semantic_groups": []
+    },
+    "consensus": {
+      "samples": 1,
+      "method_clusters": 11,
+      "narrative_clusters": 2,
+      "average_method_support": 0.7255681818181818,
+      "average_narrative_support": 0.75
+    }
+  }
+}

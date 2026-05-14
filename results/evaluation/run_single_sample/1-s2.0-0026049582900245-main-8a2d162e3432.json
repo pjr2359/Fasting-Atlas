@@ -1,0 +1,219 @@
+{
+  "paper_id": "1-s2.0-0026049582900245-main-8a2d162e3432",
+  "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+  "metadata": {
+    "title": "Differences in Circulating Gluconeogenic Substrates During Short-Term Fasting in Men, Women, and Children",
+    "authors": [
+      "Morey W. Haymond",
+      "Irene E. Karl",
+      "William L. Clarke",
+      "Anthony S. Pagliara",
+      "Julio V. Santiago"
+    ],
+    "year": 1982,
+    "journal": "Metabolism",
+    "study_design": "Comparative fasting study with three groups: 20 adults (10 men and 10 women) fasted for 86 hr and 15 children fasted for 30 hr",
+    "demographics": "Men (n=10): age 24.0±1.9 yr, height 181±2 cm, weight 73.7±2.7 kg; Women (n=10): age 23.7±1.1 yr, height 168.0±1.3 cm, weight 58.3±1.7 kg; Children (n=15, boys/girls=6/9): age 6.1±0.8 yr, height 114.2±5.9 cm, weight 21.5±2.5 kg",
+    "evidence": [
+      {
+        "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+        "page": 33,
+        "quote": "To determine whether the differences in fasting glucose responses of men, women and children could be related to differences in glucoregulatory hormone secretion or availability of circulating gluconeogenic substrates, 20 adults (10 men and 10 women) were fasted for 86 hr and 15 children (6.1 _+ 0.8 yr, mean + SE) were fasted for 30 hr.",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+        "page": 33,
+        "quote": "Metabolism, Vol. 31, No. 1 (January), 1982",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+        "page": 34,
+        "quote": "Table 1. Demographic Data of the Subjects Studied Age (yr) Height (cm) Weight (kg) Men (n = 10) 24.0 _+ 1.9 181 ± 2 73.7 ± 2.7 Women (n = 10) 23.7 ± 1.1 168.0 _+ 1.3 58.3 ± 1.7 Children (boys/girls = 6/9) 6.1 _+ 0.8 114.2 ± 5.9 21.5 ± 2.5",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Study Population - Children",
+      "value": "20 adults (10 men and 10 women)",
+      "method": null,
+      "unit": "hours",
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 1,
+          "quote": "20 adults (10 men and 10 women) were fasted for 86 hr",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood Sampling Timing",
+      "value": "Between 1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals",
+      "method": "venipuncture",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "Bloods were obtained between 1800-2000 hr, 0800 hr, and subsequently at 4 hr intervals",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood Collection Volume",
+      "value": "4 to 5 milliliters",
+      "method": null,
+      "unit": "ml",
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "Four to five milliliter of blood were",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Growth Hormone Assay Method",
+      "value": "radioimmunoassay",
+      "method": "radioimmunoassay",
+      "unit": null,
+      "confidence": 0.6875,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "Plasma glucagon, ~3 insulin, ~4 and growth hormone~ 5 concentrations were determined by radioimmunoassays",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Amino Acid Assay Method",
+      "value": "Spinco-Beckman 119 Amino Acid Analyzer",
+      "method": "protein binding assay",
+      "unit": null,
+      "confidence": 0.625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "Amino acid determinations were performed on Spinco-Beckman 119 Amino Acid Analyzer using standard physiologic methodology",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion Criteria - Hypoglycemia History",
+      "value": "None had a history compatible with hypoglycemic episodes or documented hypoglycemia",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "None of the subjects had a history compatible with hypoglycemic episodes or documented hypoglycemia",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion Criteria - Diet Prior to Study",
+      "value": "weight-maintaining diet; adults consuming at least 200 gm carbohydrate per day for three days prior",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "were consuming a weight-maintaining diet prior to study. The adults were consuming at least 200 gm carbohydrate per day for three days prior to the study",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Amino Acid Sampling - Children",
+      "value": "on the 0, 14, 22, and 30 hr fasted samples of five children",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 2,
+          "quote": "and on the 0, 14, 22, and 30 hr fasted samples of five children",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Beta-hydroxybutyrate and acetoacetate concentrations rose more rapidly and to higher values in the children than in the adults",
+      "relationship": "comparison",
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 34,
+          "quote": "Beta-hydroxybutyrate and acetoacetate concentrations rose more rapidly and to higher values in the children (3.75 _+ 0.35 mM and 1.26 _+ 0.12 mM, respectively) than in the adults (0.91 _ 0.15 mM and 0.38 +_ 0.06 mM, respectively in the men and 1.68 _+ 0.20 mM and 0.62 _+ 0.06 mM in the women) over the initial 30 hr fasting (p < 0.001).",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "An inverse relationship was observed between plasma glucose and beta-hydroxybutyrate concentrations in each group",
+      "relationship": "inverse",
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049582900245-main.pdf",
+          "page": 34,
+          "quote": "An inverse relationship (p < 0.001) was observed between plasma glucose and beta-hydroxybutyrate concentrations in each group (r = 0.934, 0.925, 0.961, men, women and children, respectively).",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [],
+      "needs_human_review": false,
+      "structural_discrepancies": null,
+      "aligned_method_pairs": [],
+      "aligned_narrative_pairs": [],
+      "semantic_groups": []
+    },
+    "consensus": {
+      "samples": 1,
+      "method_clusters": 8,
+      "narrative_clusters": 2,
+      "average_method_support": 0.796875,
+      "average_narrative_support": 0.75
+    }
+  }
+}

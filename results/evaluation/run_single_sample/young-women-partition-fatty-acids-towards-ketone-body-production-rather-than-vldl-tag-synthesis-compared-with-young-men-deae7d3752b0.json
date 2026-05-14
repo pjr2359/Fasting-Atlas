@@ -1,0 +1,308 @@
+{
+  "paper_id": "young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men-deae7d3752b0",
+  "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+  "metadata": {
+    "title": "Young women partition fatty acids towards ketone body production rather than VLDL-TAG synthesis, compared with young men",
+    "authors": [
+      "Kyriakoula Marinou",
+      "Martin Adiels",
+      "Leanne Hodson",
+      "Keith N. Frayn",
+      "Fredrik Karpe",
+      "Barbara A. Fielding"
+    ],
+    "year": 2011,
+    "journal": "British Journal of Nutrition",
+    "study_design": "Intravenous infusion of [U-13C]palmitate during prolonged overnight fast (12-19h) in healthy, lean young men and women",
+    "demographics": "Healthy, lean young men and women (n=12), matched for age and BMI, free from disease, weight stable, not taking lipid-lowering medication",
+    "evidence": [
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 857,
+        "quote": "British Journal of Nutrition (2011), 105, 857–865",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 857,
+        "quote": "Young women partition fatty acids towards ketone body production rather than VLDL-TAG synthesis, compared with young men",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 857,
+        "quote": "Kyriakoula Marinou1,2, Martin Adiels3, Leanne Hodson1, Keith N. Frayn1, Fredrik Karpe1 and Barbara A. Fielding1*",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 857,
+        "quote": "Volunteers were studied during a prolonged overnight fast (12–19h) using an intravenous infusion of [U-13C]palmitate.",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+        "page": 858,
+        "quote": "Healthy, lean young men and women (n 12) were studied, and matched for age and BMI with no significant difference in waist circumference",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Study Population - Sex Distribution",
+      "value": "6 men and 6 women",
+      "method": null,
+      "unit": null,
+      "confidence": 0.5833333333333333,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 860,
+          "quote": "in exact accordance with the six men and six women in the present study",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion Criteria - Health Status",
+      "value": "Healthy, lean, weight stable, no disease, no lipid-lowering medication",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Subjects, recruited from the wider Oxford community via advertisement, were free from any disease, weight stable and not taking any lipid-lowering medication or medication that would alter lipid metabolism.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Pre-study Protocol - Exercise and Alcohol Avoidance",
+      "value": "Overnight fast",
+      "method": null,
+      "unit": "hours",
+      "confidence": 0.375,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Before the study day, subjects were asked to avoid foodstuffs naturally enriched in 13C for 48h",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body Composition Assessment",
+      "value": "Fat mass and fat-free mass",
+      "method": "Bioelectrical impedance analysis",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Fat mass was measured by bioelectrical impedance analysis, and fat-free mass was calculated as the difference between total body weight and fat mass.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Isotope Infusion - Duration",
+      "value": "potassium [U-13C]palmitate",
+      "method": "Continuous intravenous infusion",
+      "unit": "mmol/kg per min",
+      "confidence": 0.5833333333333333,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "At time 0, a continuous intravenous infusion (0·04 mmol/kg per min) of potassium [U-13C]palmitate (isotope purity 98%; Cambridge Isotope Laboratories, Inc., Andover, MA, USA) complexed to human albumin was started",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood Sampling - Baseline",
+      "value": "Baseline blood sample for background isotopic enrichment",
+      "method": "Cannula inserted into antecubital vein",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "A cannula was inserted into an antecubital vein, and a baseline blood sample was taken for background isotopic enrichment.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Fatty Acid Analysis - Method",
+      "value": "VLDL-TAG concentration",
+      "method": "Enzymatic determination",
+      "unit": "mmol/l",
+      "confidence": 0.375,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "plasma NEFA, VLDL-TAG and 3-OHB concentrations were determined enzymatically",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "VLDL Isolation - Centrifugation Conditions 1",
+      "value": "40000 rpm, 15°C, 16 hours",
+      "method": "Sequential flotation using density gradient ultracentrifugation",
+      "unit": null,
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "In ten subjects, VLDL (Svedberg flotation rate (Sf) 60–400) and VLDL (Sf 20–60) were isolated by sequential flotation using density gradient ultracentrifugation",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "3-OHB Isotopic Enrichment - Method",
+      "value": "Modified method of Beylot et al.",
+      "method": "Deproteinised plasma analysis",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "Isotopic enrichment from [U-13C]fatty acids appearing in 3-OHB in deproteinised plasma was measured using a modified method of Beylot et al.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Study Timing - Menstrual Cycle Phase",
+      "value": "Follicular phase",
+      "method": "First week of menstrual cycle",
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "The studies were performed during the first week (follicular phase) of the menstrual cycle",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Ethical Approval",
+      "value": "Oxford Shire Clinical Research Ethics Committee",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 858,
+          "quote": "All procedures involving human subjects were approved by the Oxfordshire Clinical Research Ethics Committee. Written informed consent was obtained from all subjects.",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Young women partition fatty acids towards ketone body production rather than VLDL-TAG synthesis, compared with young men",
+      "relationship": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "Young women partition fatty acids towards ketone body production rather than VLDL-TAG synthesis, compared with young men",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "The transfer of 13C from palmitate to plasma 3-OHB reached a plateau 6-7 hours after infusion start in women but was still increasing at 6 hours in men",
+      "relationship": null,
+      "confidence": 0.6666666666666666,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "the transfer of 13C from [U-13C]palmitate to plasma [13C]3-OHB reached a plateau 6–7 h after the start of the infusion in women but was still increasing at 6 h in men",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "In women, systemic plasma fatty acids were the major source of 3-OHB production, but this was not observed in men",
+      "relationship": null,
+      "confidence": 0.75,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "In women, the high isotopic enrichment of plasma 3-OHB suggested that systemic plasma fatty acids were the major source of 3-OHB production. However, in men, this was not observed during the course of the study (P<0·01)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "There were no sex differences for the incorporation of 13C into VLDL-TAG",
+      "relationship": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/young-women-partition-fatty-acids-towards-ketone-body-production-rather-than-vldl-tag-synthesis-compared-with-young-men.pdf",
+          "page": 857,
+          "quote": "There were no sex differences for the incorporation of 13C into VLDL - or VLDL -TAG",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [],
+      "needs_human_review": false,
+      "structural_discrepancies": null,
+      "aligned_method_pairs": [],
+      "aligned_narrative_pairs": [],
+      "semantic_groups": []
+    },
+    "consensus": {
+      "samples": 1,
+      "method_clusters": 11,
+      "narrative_clusters": 4,
+      "average_method_support": 0.7651515151515151,
+      "average_narrative_support": 0.8541666666666666
+    }
+  }
+}

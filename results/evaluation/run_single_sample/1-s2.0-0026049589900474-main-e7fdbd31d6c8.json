@@ -1,0 +1,243 @@
+{
+  "paper_id": "1-s2.0-0026049589900474-main-e7fdbd31d6c8",
+  "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+  "metadata": {
+    "title": "Accelerated Decline in Hepatic Glucose Production During Fasting in Normal Women Compared With Men",
+    "authors": [
+      "John N. Clore",
+      "Penny S. Glickman",
+      "Shirley T. Helm",
+      "John E. Nestler",
+      "William G. Blackard"
+    ],
+    "year": 1989,
+    "journal": "Metabolism",
+    "study_design": "Comparative metabolic study with sequential 3-3H-glucose infusions after 14 and 64-hour fasts",
+    "demographics": "Five normal men and five normal women in the midfollicular phase of menstrual cycle, matched for age and body mass index, with no history of diabetes mellitus, hypertension, kidney disease, or medication use",
+    "evidence": [
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1103,
+        "quote": "Accelerated Decline in Hepatic Glucose Production During Fasting in Normal Women Compared With Men",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1103,
+        "quote": "John N. Clore, Penny S. Glickman, Shirley T. Helm, John E. Nestler, and William G. Blackard",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1103,
+        "quote": "Metabolism, Vol38. No 11 (November), 1989: pp 1103-l 107",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1103,
+        "quote": "five normal men and five normal women underwent sequentiel S3H-glucose infusions after both a 14 and a 64hour fast",
+        "bbox": null
+      },
+      {
+        "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+        "page": 1103,
+        "quote": "Five of the subjects were male and five were female in the midfollicular phase of their menstrual cycle. None had a history of diabetes mellitus, hypertension, or kidney disease or were on any medications. Subjects were matched for age and body mass index (BMI).",
+        "bbox": null
+      }
+    ]
+  },
+  "methods_participants": [
+    {
+      "label": "Fasting duration 1",
+      "value": "5 men and 5 women",
+      "method": null,
+      "unit": "hours",
+      "confidence": 0.5833333333333333,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 1,
+          "quote": "five normal men and five normal women underwent sequentiel S3H-glucose infusions",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Inclusion criteria - health status",
+      "value": "None had a history of diabetes mellitus, hypertension, or kidney disease or were on any medications",
+      "method": null,
+      "unit": null,
+      "confidence": 0.75,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "None had a history of diabetes mellitus, hypertension, or kidney disease or were on any medications",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay - glucose measurement",
+      "value": "direct radioimmunoassay",
+      "method": "Gammacoat assay, Clinical Assays, Cambridge, MA",
+      "unit": null,
+      "confidence": 0.5,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "Plasma glucose was measured immediately after centrifugation by the glucose oxidase method (Beckman, Fullerton, CA)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay - insulin",
+      "value": "double-antibody radioimmunoassay",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "Plasma insulin, C-peptide, growth hormone, and glucagon were determined using double-antibody radioimmunoassays",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Assay - glucose tracer infusion",
+      "value": "3-3H-glucose infusion",
+      "method": "primed continuous infusion",
+      "unit": null,
+      "confidence": 0.625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "A primed (25 &i) continuous (0.25 &i) infusion of 3-3H-glucose (New England Nuclear, Boston) was administered via a forearm vein from 7 AM until 10 AM",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Blood sampling timing",
+      "value": "20-minute intervals during the last hour of the study (9 AM to 10 AM)",
+      "method": null,
+      "unit": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "blood samples were obtained at 20-minute intervals during the last hour of the study (9 AM to 10 AM)",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "label": "Body composition assessment method 1",
+      "value": "impedance plethysmography",
+      "method": "BIA-101 Body Composition Analyzer, RJL Systems, Detroit",
+      "unit": null,
+      "confidence": 0.625,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 2,
+          "quote": "Body composition was assessed by skinfold measurements and impedance plethysmography (BIA-101 Body Composition Analyzer, RJL Systems, Detroit)",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "narrative_results": [
+    {
+      "statement": "Plasma levels of glucose, lactate, and FFA fell significantly in women when put to bed rest after a 64-hour fast",
+      "relationship": null,
+      "confidence": 0.4,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 1106,
+          "quote": "When put to bed rest, plasma levels of these metabolites, as well as of glucose, fell significantly in women.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "Changes in plasma glucose were associated with decreases in plasma insulin and C-peptide as well as increases in plasma glucagon",
+      "relationship": "association",
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 1104,
+          "quote": "Changes in plasma glucose were associated with decreases in plasma insulin and C-peptide as well as increases in plasma glucagon (Table 2).",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "All subjects exhibited at least a sixfold increase in β-hydroxybutyrate levels during the fast",
+      "relationship": null,
+      "confidence": 1.0,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 1104,
+          "quote": "all subjects exhibited at least a sixfold increase during the fast.",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "statement": "No change in plasma glucose, lactate, and FFA was observed in men during bed rest after a 64-hour fast",
+      "relationship": "sex difference",
+      "confidence": 0.75,
+      "extraction_method": "llm-consensus",
+      "evidence": [
+        {
+          "source_file": "papers/1-s2.0-0026049589900474-main.pdf",
+          "page": 1106,
+          "quote": "In contrast, no change was observed in men.",
+          "bbox": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "figures_graphs": [],
+  "qa": {
+    "council": {
+      "pass_1_model": "anthropic:claude-haiku-4-5-20251001",
+      "pass_2_model": "anthropic:claude-haiku-4-5-20251001-alt",
+      "discrepancies": [],
+      "needs_human_review": false,
+      "structural_discrepancies": null,
+      "aligned_method_pairs": [],
+      "aligned_narrative_pairs": [],
+      "semantic_groups": []
+    },
+    "consensus": {
+      "samples": 1,
+      "method_clusters": 7,
+      "narrative_clusters": 4,
+      "average_method_support": 0.7261904761904762,
+      "average_narrative_support": 0.7875
+    }
+  }
+}

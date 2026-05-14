@@ -21,6 +21,8 @@ All three configurations completed the corpus. The 5-sample diverse setting requ
 
 We assessed each output with automated checks for schema validity, title extraction, extraction counts, consensus support, semantic council conflicts, and evidence grounding. For grounding, we used two metrics. Exact quote match is a strict lower bound because PDF text extraction changes spacing and symbols. Token-overlap grounding is the more realistic automated check: an evidence quote is counted as grounded if at least 80% of its content tokens occur on the cited page, falling back to the full document when article page numbers differ from PDF page indices.
 
+We also ran a single-sample baseline using the same output schema (`samples=1`, temperature 0.4, structural council only). This baseline tests whether the consensus pipeline improves extraction yield enough to justify the additional LLM calls. Because the baseline has no independent extraction samples, its council-conflict count is not directly comparable to the multi-sample runs.
+
 ### Results
 
 The conservative 3-sample setting was the best overall operating point. It completed all nine papers, produced schema-valid JSON for all outputs, extracted titles for all papers, and had the highest average consensus support.
@@ -45,6 +47,25 @@ The conservative configuration recovered 109 methods/participant facts and 35 na
 
 The evidence-grounding results show that exact quote matching is too strict for this corpus because older PDFs often mutate whitespace, special characters, and page numbering during digital text extraction. However, the token-overlap grounding metric showed that about two-thirds of cited evidence quotes were strongly supported by the source text, with mean token overlap near or above 0.80 in the 3-sample configurations.
 
+### Single-Sample Baseline
+
+The single-sample baseline completed all nine papers and was much faster, averaging 36.8 seconds per paper. However, it extracted fewer structured facts than the selected conservative consensus setting.
+
+| Metric | Single-sample baseline | Conservative consensus |
+|---|---:|---:|
+| Successful parses | 9/9 | 9/9 |
+| Schema-valid JSON | 9/9 | 9/9 |
+| Mean methods facts per paper | 9.7 | 12.1 |
+| Mean narrative results per paper | 3.1 | 3.9 |
+| Total methods facts | 87 | 109 |
+| Total narrative result facts | 28 | 35 |
+| Tables extracted | 10 total | 10 total |
+| Evidence token-grounding rate | 67.7% | 65.0% |
+| Mean evidence token overlap | 0.829 | 0.802 |
+| Mean runtime per paper | 36.8s | 127s |
+
+The consensus setting therefore extracted about 25% more methods facts and 25% more narrative result facts than the single-sample baseline, while maintaining similar evidence grounding. We interpret this as a useful tradeoff: the single-sample run is good for fast draft extraction, but the conservative consensus pipeline is better when completeness and stability are more important.
+
 ### Answer to the Evaluation Questions
 
 **Reliability:** The system was reliable across the completed evaluation: all three configurations parsed all 9 papers and produced 100% schema-valid JSON. The 5-sample condition did require retries due to API credit limits and malformed high-temperature responses, which shows that larger consensus settings increase operational cost even when final outputs are valid.
@@ -55,4 +76,4 @@ The evidence-grounding results show that exact quote matching is too strict for 
 
 **Consensus design:** Increasing temperature from 0.4 to 0.6 did not improve performance. The moderate setting had lower method and narrative support and more council conflicts. Increasing to 5 samples at temperature 0.8 extracted slightly more methods facts but lowered consensus support and increased runtime substantially. Therefore, the conservative 3-sample configuration is the best setting for this project.
 
-Overall, we consider the system successful as a prototype extraction pipeline. It handled the full nine-paper corpus, produced valid structured JSON for every paper in the complete runs, extracted substantive methods and results facts, and attached source evidence. The main limitation is not basic parsing reliability but precision of evidence grounding and the need for human review on conflicts identified by the council QA stage.
+Overall, we consider the system successful as a prototype extraction pipeline. It handled the full nine-paper corpus, produced valid structured JSON for every paper in the complete runs, extracted substantive methods and results facts, and attached source evidence. The single-sample baseline shows that the base extractor already works, while the consensus evaluation shows that multi-sample extraction improves completeness. The main limitation is not basic parsing reliability but precision of evidence grounding and the need for human review on conflicts identified by the council QA stage.
